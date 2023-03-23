@@ -39,6 +39,8 @@ Resumo dos temas abordando a cronografia.
 
 - Quais foram as grandes abordagens? Como elas ocorreram? Quais as consequências da abordagem? (Será possível usar na segurança da aviação?)
 
+- Cronografia pode ser dos autores, dos conteúdos e das trajetórias/consequências do conteúdo.
+
 Para o trabalho: o que alimentou Shannon-Weaver (teoria quantitativa), o que vem antes e o que vem depois.
 
 - Verificar possibilidade de rodar os textos numa linha do tempo. Caso funcione, rodar os outros conteúdos da cronografia.
