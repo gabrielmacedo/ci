@@ -65,7 +65,7 @@ Um passo fundamental no trabalho de Shannon foi sua percepção de que, para se 
 
 #### Textos
 
-BUCKLAND, M. K. Information as Thing. Apresentadora: **Lidianne Albernaz** (estuda taxonomia e web semântica).
+BUCKLAND, M. K. Information as Thing. Apresentadora: **Lidianne Albernaz** (ela estuda taxonomia e web semântica no doutorado).
 
 - Dado: coisa processada com um objetivo; tende a se referir a iformação numérica.
 - Texto: descreve a linguagem natural utilizada; falada, escrita, sinais.
