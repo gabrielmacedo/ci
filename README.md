@@ -18,4 +18,8 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - [Sutori](https://www.sutori.com/en/) - **Sutori** é uma ferramenta colaborativa de instrução e apresentação para a sala de aula. Para todas as faixas etárias, a Sutori é a parceira perfeita para tarefas multimídia de Estudos Sociais, Inglês, Língua, Artes, STEM e PBL.
 
 
+### Pesquisa de conceitos
+
+- [Plato](https://plato.stanford.edu/) - Plato Stanford Encyclopedia of Philosophy
+
 ## Bibliografia
