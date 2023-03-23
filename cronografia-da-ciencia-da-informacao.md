@@ -79,3 +79,5 @@ A informação tem o poder de modificar crenças, uma vez que ela é situacional
 > Pegar a apresentação da colega.
 
 ## Aula 02
+
+Shannon ([Q2277038](https://www.wikidata.org/wiki/Q2277038), [Reasonator](https://reasonator.toolforge.org/?q=Q2277038))
