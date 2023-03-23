@@ -17,10 +17,13 @@ Professora: Lillian Maria Araujo de Rezende Alvares ([site](http://lillianalvare
 
 - [Ementa da disciplina](http://lillianalvares.fci.unb.br/cronografia)
 
-## Aula 01 (23/03/2023)
+
+## Aulas
+
+### Aula 01 (23/03/2023)
 
 
-### Notas
+#### Notas
 
 Cronografia - se refere ao estudo da ordem dos eventos históricos. É uma linha do tempo onde colocamos diversas camadas.
 
@@ -31,7 +34,7 @@ Tempo entre um e outro
 Se refere a ordem e ao tempo dos eventos históricos da ciência da informação. É uma pesquisa histórica.
 
 
-### Trabalho 
+#### Trabalho 
 
 - Trabalho com 1500 palavras no final de cada módulo. Conjunção dos temas dentro de cada módulo.
 
@@ -60,7 +63,7 @@ A tecnologia de comunicação impulsiona a entrega de informações com um novo 
 Um passo fundamental no trabalho de Shannon foi sua percepção de que, para se ter uma teoria, os sinais de comunicação devem ser tratados isoladamente do significado das mensagens que eles transmitem. Essa visão contrasta fortemente com a concepção comum de informação, na qual o significado tem um papel essencial. Shannon enfocou o problema de como codificar melhor a informação que um remetente deseja transmitir. Ele também usou ferramentas na teoria da probabilidade, desenvolvidas por Norbert Wiener. Eles marcaram os estágios nascentes da teoria da comunicação aplicada naquela época.
 ```
 
-### Textos
+#### Textos
 
 BUCKLAND, M. K. Information as Thing. Apresentadora: **Lidianne Albernaz** (estuda taxonomia e web semântica).
 
@@ -85,7 +88,7 @@ Autores: Norbert Wiener ([Q178577](https://www.wikidata.org/wiki/Q178577))
 
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/20596966/227236575-b40f6ec5-27a9-4196-b2c0-c74f28b95132.png">
 
-## Aula 02
+### Aula 02
 
 Shannon ([Q2277038](https://www.wikidata.org/wiki/Q2277038), [Reasonator](https://reasonator.toolforge.org/?q=Q2277038))
 
@@ -100,3 +103,7 @@ Informação como coisa
 
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/20596966/227233980-236b8d27-6201-4f2a-8eea-66a469369c42.png">
 
+
+## Referências para Cronografia
+
+- [The History and Historiography of Information Science: Some Reflections](https://www.researchgate.net/publication/222489196_The_History_and_Historiography_of_Information_Science_Some_Reflections/comments)January 1996. Information Processing and Management 32(1):3-17. DOI: 10.1016/0306-4573(95)00046-J Source dx.doi.org. W. Boyd RaywardW. Boyd Rayward
