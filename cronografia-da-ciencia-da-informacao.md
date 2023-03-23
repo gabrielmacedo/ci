@@ -76,7 +76,7 @@ O fato dos _sistemas de informação_ lidarem com informação enquanto coisa é
 
 A informação tem o poder de modificar crenças, uma vez que ela é situacional, ligada ao contexto e a percepção dessa informação pode mudar a compreensão de quem se informa.
 
-> Pegar a apresentação da colega.
+> Pegar a apresentação da colega e a de Lillian
 
 Autores: Norbert Wiener ([Q178577](https://www.wikidata.org/wiki/Q178577))
 
