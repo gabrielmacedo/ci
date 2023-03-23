@@ -45,3 +45,28 @@ Recursos? Infraestrutura? Conhecimento?
 
 - Quais são os requisitos estabelecidos pelos certificadores? DATASEAL e COAR
 - Identificar os elementos necessários para a construção de um fluxo de tabalho para a FAIRificação de dados.
+
+## Ideias
+
+`chatGPT`
+O processo de FAIRificação de dados envolve a implementação de práticas e padrões que garantam que os dados sejam encontráveis, acessíveis, interoperáveis e reutilizáveis. Abaixo está um exemplo de um possível workflow para a FAIRificação de dados:
+
+Identificação dos dados: identificar quais são os dados que precisam ser FAIRificados, incluindo a fonte, o formato e a localização.
+
+Avaliação dos metadados: avaliar os metadados existentes dos dados para garantir que sejam completos e precisos, e adicionar ou atualizar os metadados, caso necessário.
+
+Padronização de dados: padronizar os dados para garantir que sejam consistentes e interoperáveis, por exemplo, por meio do uso de padrões de codificação.
+
+Armazenamento e organização: armazenar os dados de forma que possam ser facilmente acessados e organizados de acordo com as melhores práticas de gerenciamento de dados.
+
+Disponibilização dos dados: disponibilizar os dados em um formato e plataforma que permita o acesso fácil e gratuito, incluindo a publicação em um portal de dados abertos.
+
+Licenciamento e direitos autorais: garantir que os dados estejam licenciados de forma aberta e clara, permitindo sua reutilização por terceiros.
+
+Monitoramento e atualização: monitorar regularmente os dados para garantir que continuem a atender aos padrões FAIR, e atualizá-los quando necessário.
+
+Revisão pelos pares: submeter os dados para revisão pelos pares para garantir a qualidade e confiabilidade dos mesmos.
+
+Ao seguir este workflow, os dados podem se tornar mais acessíveis, utilizáveis e reutilizáveis, aumentando sua utilidade e valor para a sociedade em geral.
+
+
