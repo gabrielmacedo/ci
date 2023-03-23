@@ -78,6 +78,21 @@ A informação tem o poder de modificar crenças, uma vez que ela é situacional
 
 > Pegar a apresentação da colega.
 
+Autores: Norbert Wiener ([Q178577](https://www.wikidata.org/wiki/Q178577))
+
+
 ## Aula 02
 
 Shannon ([Q2277038](https://www.wikidata.org/wiki/Q2277038), [Reasonator](https://reasonator.toolforge.org/?q=Q2277038))
+
+Weaver
+
+
+Teoria matemática da informação: `A informação é a mensagem`
+
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/20596966/227232371-3bfd49f9-e8d2-4469-8ac5-89f3866f4e21.png">
+
+Informação como coisa
+
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/20596966/227233980-236b8d27-6201-4f2a-8eea-66a469369c42.png">
+
