@@ -19,6 +19,7 @@ description:
 1. Caracterizar o DADO a ser estudado: dados governamentais/estatais.
 2. O que são dados governamentais. Dados governamentais abertos. [CEWEB](https://ceweb.br/guias/incentivo-ao-reuso-de-dados-abertos//capitulo-1/). Dados estatais? Pegar definição de dados da OCDE.
 
+`chatGPT`
 Gabriel Anac
 Há distinção entre dados governamentais e dados estatais?
 Embora os termos "dados governamentais" e "dados estatais" possam ser usados de forma intercambiável em alguns contextos, eles podem ter significados ligeiramente diferentes, dependendo do país ou da região em questão.
