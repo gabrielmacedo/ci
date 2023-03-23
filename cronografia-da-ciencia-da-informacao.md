@@ -1,0 +1,60 @@
+# Cronografia da Ciência da Informação
+
+Professora: Lillian Maria Araujo de Rezende Alvares ([site](http://lillianalvares.fci.unb.br/), [Lattes](http://lattes.cnpq.br/5541636086123721), [ORCID](https://orcid.org/0000-0002-8920-0150), [Figshare](https://figshare.com/authors/Lillian_Maria_Araujo_de_Rezende_Alvares/11553475))
+
+- [Ementa da disciplina](http://lillianalvares.fci.unb.br/cronografia)
+
+## Aula 01
+
+
+### Notas
+
+Cronografia - se refere ao estudo da ordem dos eventos históricos. É uma linha do tempo onde colocamos diversas camadas.
+
+A duração entre os eventos
+A relação entre os eventos
+Tempo entre um e outro
+
+Se refere a ordem e ao tempo dos eventos históricos da ciência da informação. É uma pesquisa histórica.
+
+
+### Trabalho 
+
+- Trabalho com 1500 palavras no final de cada módulo. Conjunção dos temas dentro de cada módulo.
+
+Resumo dos temas abordando a cronografia.
+
+
+Para o trabalho: o que alimentou Shannon-Weaver (teoria quantitativa), o que vem antes e o que vem depois.
+
+- Verificar possibilidade de rodar os textos numa linha do tempo. Caso funcione, rodar os outros conteúdos da cronografia.
+
+Fonte: [Christopher Gaudreau](https://www.sutori.com/en/item/theories-based-on-content-and-messaging-shannon-weaver-model-of-communication)
+```
+Teorias baseadas em conteúdo e mensagens: o modelo de comunicação de Shannon Weaver enfatizou a importância do significado da mensagem versus a entrega da informação.
+
+Shannon era um matemático americano, enquanto Weaver era um cientista. A teoria matemática mais tarde veio a ser conhecida como modelo de comunicação de Shannon Weaver ou “mãe de todos os modelos”.
+
+A teoria da informação estuda a quantificação, armazenamento e comunicação da informação . Foi originalmente proposto por Claude E. Shannon em 1948 para encontrar limites fundamentais no processamento de sinais e operações de comunicação, como compressão de dados, em um artigo histórico intitulado "A Mathematical Theory of Communication".
+
+O trabalho de Shannon e Weaver provou ser valioso para engenheiros de comunicação ao lidar com questões como a capacidade de vários canais de comunicação em 'bits por segundo'. Contribuiu para a ciência da computação. Isso levou a um trabalho muito útil sobre redundância na linguagem. E ao tornar a 'informação' 'mensurável' deu origem ao estudo matemático da 'teoria da informação'.
+
+A tecnologia de comunicação impulsiona a entrega de informações com um novo foco na mensagem (comunicação). O verdadeiro nascimento da moderna teoria da informação pode ser rastreado até a publicação em 1948 de “A Mathematical Theory of Communication” de Claude Shannon no Bell System Technical Journal.
+
+Um passo fundamental no trabalho de Shannon foi sua percepção de que, para se ter uma teoria, os sinais de comunicação devem ser tratados isoladamente do significado das mensagens que eles transmitem. Essa visão contrasta fortemente com a concepção comum de informação, na qual o significado tem um papel essencial. Shannon enfocou o problema de como codificar melhor a informação que um remetente deseja transmitir. Ele também usou ferramentas na teoria da probabilidade, desenvolvidas por Norbert Wiener. Eles marcaram os estágios nascentes da teoria da comunicação aplicada naquela época.
+```
+
+### Textos
+
+BUCKLAND, M. K. Information as Thing. Apresentadora: **Lidianne Albernaz** (estuda taxonomia e web semântica).
+
+- Dado: coisa processada com um objetivo; tende a se referir a iformação numérica.
+- Texto: descreve a linguagem natural utilizada; falada, escrita, sinais.
+- Documento: um objeto com contém texto (texto e documento também devem incluir outras formas de encapsular - sons, imagens, etc).
+
+
+Pegar prints do dia 23/03/2023.
+
+
+
+## Aula 02
