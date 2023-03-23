@@ -80,6 +80,7 @@ A informação tem o poder de modificar crenças, uma vez que ela é situacional
 
 Autores: Norbert Wiener ([Q178577](https://www.wikidata.org/wiki/Q178577))
 
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/20596966/227236575-b40f6ec5-27a9-4196-b2c0-c74f28b95132.png">
 
 ## Aula 02
 
