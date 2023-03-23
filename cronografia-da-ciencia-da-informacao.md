@@ -1,10 +1,23 @@
+---
+title: Cronografia da Ciência da Informação
+description: Disciplina ministrada no programa de pós-graduação do IBICT-UFRJ
+professor: Lillian Maria Araujo de Rezende Alvares
+tags: 
+  - information science
+  - ibict
+  - ufrj
+  - 2023
+  - chronography
+---
+
+
 # Cronografia da Ciência da Informação
 
 Professora: Lillian Maria Araujo de Rezende Alvares ([site](http://lillianalvares.fci.unb.br/), [Lattes](http://lattes.cnpq.br/5541636086123721), [ORCID](https://orcid.org/0000-0002-8920-0150), [Figshare](https://figshare.com/authors/Lillian_Maria_Araujo_de_Rezende_Alvares/11553475))
 
 - [Ementa da disciplina](http://lillianalvares.fci.unb.br/cronografia)
 
-## Aula 01
+## Aula 01 (23/03/2023)
 
 
 ### Notas
@@ -55,6 +68,14 @@ BUCKLAND, M. K. Information as Thing. Apresentadora: **Lidianne Albernaz** (estu
 
 Pegar prints do dia 23/03/2023.
 
+Determinar se algo é considerado informação ou não dependerá do conceito. Deverá haver algum nível de consenso.
 
+_O progresso das tecnologias de informação amplia o escopo de criação e uso da informação como coisa._ Considera a reutilização da informação, a criação de cópias dos documentos. A codificação, interpretação e resumo são processos que criam representação da informação quanto evidência; no entanto podem apresentar viéses e distorções. Assim, a *informação enquanto coisa é situacional* e possui algum nível de consenso.
+
+O fato dos _sistemas de informação_ lidarem com informação enquanto coisa é o motivo principal dessa compreensão. A armazenagem da informação e sua recuperação não é o conhecimento em si. 
+
+A informação tem o poder de modificar crenças, uma vez que ela é situacional, ligada ao contexto e a percepção dessa informação pode mudar a compreensão de quem se informa.
+
+> Pegar a apresentação da colega.
 
 ## Aula 02
