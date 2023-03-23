@@ -37,6 +37,7 @@ Se refere a ordem e ao tempo dos eventos históricos da ciência da informação
 
 Resumo dos temas abordando a cronografia.
 
+- Quais foram as grandes abordagens? Como elas ocorreram? Quais as consequências da abordagem? (Será possível usar na segurança da aviação?)
 
 Para o trabalho: o que alimentou Shannon-Weaver (teoria quantitativa), o que vem antes e o que vem depois.
 
