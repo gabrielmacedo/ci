@@ -38,4 +38,8 @@ No entanto, em muitos casos, os termos "dados governamentais" e "dados estatais"
 
 - Terceira seção
 
-Quais as qualidades que um dado estatal FAIR deve ser?
+6. Quais as qualidades que um dado estatal FAIR deve ser?
+
+- Última seção
+
+6. Modelo de governança? Quais as experiências anteriores? Erros? Acertos? Qual a política? Qual a estratégia para governança de dados?
