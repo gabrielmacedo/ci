@@ -13,7 +13,7 @@ tags:
 
 # Cronografia da Ciência da Informação
 
-Professora: Lillian Maria Araujo de Rezende Alvares ([site](http://lillianalvares.fci.unb.br/), [Lattes](http://lattes.cnpq.br/5541636086123721), [ORCID](https://orcid.org/0000-0002-8920-0150), [Figshare](https://figshare.com/authors/Lillian_Maria_Araujo_de_Rezende_Alvares/11553475))
+Professora: Lillian Maria Araujo de Rezende Alvares ([site](http://lillianalvares.fci.unb.br/), [Lattes](http://lattes.cnpq.br/5541636086123721), [ORCID](https://orcid.org/0000-0002-8920-0150), [Figshare](https://figshare.com/authors/Lillian_Maria_Araujo_de_Rezende_Alvares/11553475), [OSF](https://osf.io/3hkrc/))
 
 - [Ementa da disciplina](http://lillianalvares.fci.unb.br/cronografia)
 
