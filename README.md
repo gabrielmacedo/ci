@@ -29,7 +29,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - LISA Library and Information Science
 - [EBSCO](https://www.ebsco.com)
 - Scihub
-- Oasis.br IBICT
+- [Oasis.br](https://oasisbr.ibict.br/)
 
 ### Pesquisa de conceitos
 
