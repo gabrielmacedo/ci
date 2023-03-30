@@ -35,6 +35,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 **Baseado em objetos e redes de relacionamento/citações**:
 
+- [Connected Papers](https://www.connectedpapers.com/)
 - [Litmaps](https://app.litmaps.com/)
 
 
