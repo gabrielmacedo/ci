@@ -19,6 +19,8 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 ### Metabuscadores
 
+**Baseados em termos/texto de busca**:
+
 - [Dimensions](https://www.dimensions.ai) - aberta
 - Web of Science
 - Scopus
@@ -30,6 +32,11 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - [EBSCO](https://www.ebsco.com)
 - Scihub
 - [Oasis.br](https://oasisbr.ibict.br/)
+
+**Baseado em objetos e redes de relacionamento/citações**:
+
+- [Litmaps](https://app.litmaps.com/)
+
 
 ### Pesquisa de conceitos
 
