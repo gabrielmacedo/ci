@@ -88,7 +88,7 @@ Autores: Norbert Wiener ([Q178577](https://www.wikidata.org/wiki/Q178577))
 
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/20596966/227236575-b40f6ec5-27a9-4196-b2c0-c74f28b95132.png">
 
-### Aula 02
+### Aula 02 (30/03/2023)
 
 Shannon ([Q2277038](https://www.wikidata.org/wiki/Q2277038), [Reasonator](https://reasonator.toolforge.org/?q=Q2277038))
 
@@ -102,6 +102,150 @@ Teoria matemática da informação: `A informação é a mensagem`
 Informação como coisa
 
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/20596966/227233980-236b8d27-6201-4f2a-8eea-66a469369c42.png">
+
+fgouveia@gmail.com - enviar e-mail para participação como ouvinte nas aulas sobre as ferramentas de cientometria/bibliometria
+
+#### Apresentação sobre SABAH (Gabriel)
+
+> inserir meus slides da apresentação
+
+#### Apresentação do texto de Klein (Nelson)
+
+#### Autores principais
+
+Karl Popper:
+- teorias científicas podem ser testadas e refutadas empiricamente.
+
+Thomas Gieryn:
+- _Boundary work_: demarcação de campos científicos passa por disputas de poder e tentativas de estabelecimento de monopólios; não apenas uma discussão técnica.
+
+Shannon-Weaver (1948):
+- teoria quantitativa da comunicação, empresta termos a outros campos para adaptar o conceito de informação. Conceitos como entropia (desordem) do sistema, quanto maior a entropia (maior a incerteza) -> maior a informação em termos de quantidade de dados necessários.
+
+Norbert Weiner (1948):
+- cybernetics, controle e comunicação no animal e na máquina, a sociedade só pode ser compreendida através do estudo das mensagens, por meio dos seus emissores e receptores.
+- teoria das mensagens, teoria probabilística da linguagem, 1) tranmissão da mensagem; 2) linguagem; 3) estudo da forma de controle entre animal, homem e máquina. Perspectiva de comunicação e controle entre homem-homem e homem-máquina.
+
+#### Contribuições à Teoria da Informação
+
+- sistemas informacionais baseados em aspectos não semânticos em **Shannon-Weaver**.
+- base teórica para a Ciência da Informação, busca por métodos e por legitimidade, rigor matemático e aplicação em sistemas de recuperação da informação.
+- uso abrangente da teoria de Shannon-Weaver, bibliotecários e CIs tentam apropriar o conceito para o campo e tomá-lo como uma explicação científica; apresentação de metáfora para tópicos mais abrangentes; ferramenta matemática para desenhar sistemas de recuperação da informação.
+
+#### Problemas da aplicação da teoria da informação de Shannon-Weaver
+
+> pesquisadores ampliaram o conceito para trabalhar problemas semânticos, no entanto SW trabalha a teoria em termos de transmissão e de significado, apesar de reconhecer a existência de outros níveis.
+
+Problemas:
+- 1º: problema dos 3 níveis de comunicação (técnico-quantitativo-precisão, semântico-qualitativo-verdade e pragmático-impacto-eficiência);
+- 2º: equivalência matemática entre entropia e informação.
+
+Robert Fairthorne:
+- leva a Teoria da Informação a bibliotecários nos anos 1950. A teoria da informação era necessária, mas insuficiente. Ideia de complementar a teoria da informação de SW. Quem emite sinais para quem?
+- tentativa de substituir SW por modelos próprios da área.
+
+Thomas Minder: 
+- vê como inadequada a teoria de SW; não mais apenas como insuficiente.
+
+> Quando as aplicações das teorias da informação começam a falhas, ela é segmentada para manter a validade dos seus conceitos em alguns campos. A CI e alguns teóricos da informação adotam estratégias (resposta a editoriais, sátiras, etc) para disciplinar as aplicações da teoria. O uso em outras áreas é então desencorajado.
+
+> Lillian: no nascimento da CI, a teoria matemática dá segurança à área uma vez que há uma identificação da teoria com a ideia buscada de **recuperação da informação**, seminal na constituição do campo.
+
+> Conceito de entropia em SW `chatGPT`: quanto mais imprevisível é uma fonte, maior é a sua entropia. A entropia pode ser interpretada como a quantidade média de informação contida em cada símbolo da fonte de informação. Quanto mais entropia uma fonte de informação tiver, maior será a quantidade média de informação necessária para representar cada símbolo da fonte. A entropia é medida em bits, e é representada pela fórmula:
+
+`H(X) = -Σ p(xi) log2 p(xi)`
+
+> `chatGPT` a entropia é uma medida da quantidade de informação que uma fonte de informação contém, e é calculada com base na probabilidade de ocorrência de cada símbolo na fonte. Quanto mais imprevisível é a fonte, maior é a sua entropia.
+
+| Conceito | Características |
+| --- | --- |
+| Entropia | A entropia é uma medida da incerteza ou imprevisibilidade de uma fonte de informação. |
+| Cálculo | A entropia é calculada com base na probabilidade de ocorrência de cada símbolo na fonte de informação. |
+| Unidade | A entropia é medida em bits. |
+| Significado | A entropia pode ser interpretada como a quantidade média de informação contida em cada símbolo da fonte de informação. |
+| Relação com a aleatoriedade | Quanto mais aleatória ou imprevisível é a fonte de informação, maior é a sua entropia. |
+| Relação com a redundância | Quanto mais redundante é a fonte de informação, menor é a sua entropia. |
+| Utilização | A entropia é utilizada em diversas áreas, como compressão de dados, criptografia e reconhecimento de padrões. |
+| Limitações | A entropia não leva em consideração o significado ou contexto da informação, apenas a sua frequência de ocorrência. |
+| Aplicação na teoria da informação | A entropia é um dos principais conceitos da teoria da informação de Shannon-Weaver, juntamente com a redundância e a capacidade de canal. |
+
+- Entropia Negativa `chatGPT`:
+
+```
+O conceito de "entropia negativa" é uma ideia que pode parecer contraditória à primeira vista, mas que possui um significado importante na teoria da informação.
+
+A entropia é definida como uma medida da incerteza ou da aleatoriedade de uma fonte de informação, e é sempre uma quantidade não negativa. Isso significa que a entropia nunca pode ser menor do que zero. No entanto, em alguns contextos, é possível obter uma entropia "negativa".
+
+Uma entropia negativa é uma medida da informação que é mais "organizada" ou menos "aleatória" do que o esperado de uma fonte de informação. Em outras palavras, uma entropia negativa indica que a fonte de informação é menos imprevisível do que o esperado.
+
+Isso pode ocorrer quando há uma estrutura subjacente ou um padrão na fonte de informação que pode ser explorado para reduzir a incerteza. Por exemplo, em uma sequência de DNA, a presença de certas sequências pode indicar a presença de outras sequências próximas, reduzindo assim a incerteza.
+
+Embora a entropia negativa pareça contraditória, ela tem aplicações importantes na teoria da informação, especialmente em campos como a criptografia, onde a detecção de padrões pode ajudar a quebrar a criptografia. No entanto, a entropia negativa é um conceito relativamente raro e é importante lembrar que a entropia geralmente não pode ser menor do que zero.
+```
+
+- O conceito de entropia na Teoria da Informação `chatGPT`: O conceito de entropia na teoria da informação foi introduzido por Claude Shannon em seu artigo seminal "A Mathematical Theory of Communication", publicado em 1948. Shannon usou o termo "entropia" para descrever a quantidade de informação contida em uma mensagem ou fonte de informação. Ele mostrou que a entropia pode ser calculada com base na probabilidade de ocorrência de cada símbolo na fonte de informação e que a entropia máxima ocorre quando todos os símbolos têm a mesma probabilidade de ocorrência.
+
+Outro autor importante que trabalhou o conceito de entropia na teoria da informação foi Warren Weaver, que colaborou com Shannon no desenvolvimento da teoria. Weaver foi responsável por popularizar o conceito de entropia em outros campos além da comunicação, como a biologia e a economia.
+
+Além disso, outros pesquisadores, como Norbert Wiener e John von Neumann, também contribuíram para o desenvolvimento da teoria da informação e da entropia. Wiener aplicou o conceito de entropia à teoria dos sistemas e à cibernética, enquanto von Neumann utilizou a entropia na teoria dos jogos e em outros campos da matemática.
+
+Em resumo, Claude Shannon é amplamente considerado o "pai" da teoria da informação e foi o primeiro a trabalhar o conceito de entropia dentro desse contexto, mas outros autores, como Warren Weaver, Norbert Wiener e John von Neumann, também contribuíram para o desenvolvimento da teoria.
+
+#### Professora Lillian
+
+- Teorias **quantitativas** da informação e teorias **qualitativas** da informação
+- Conceitos de entropia na ciência da informação
+- Neumann sugere a Shannon o conceito de entropia para a "informação que faltava", nesse sentido a "entropia da informação" surge.
+
+##### Diversas teorias quantitativas da informação:
+
+
+- Fisher (1925): informação no campo da probabilidade.
+- Hartley (1928): transmissão da informação quanto a seleção de um conjunto de elementos e o que deve ser transportado para dar validade ao significado da informação.
+- Shannon-Weaver (1948): teoria matemática da informação, teoria da transmissão da Comunicação, Teoria de Shannon-Weaver. Busca os limites fundamentais para o transporte da informação pelos canais. Na exposição de 1949 já apresenta 3 camadas - técnica, semântica (significado da verdade) e pragmática (influência relatica ao impacto no comportamento humano). É uma **teoria da mensagem associada à uma certa quantidade de informação**. O objetivo é que a informação chegue do outro lado do canal.
+
+Teorias quantitativas da informação `chatGPT`: 
+
+| Teoria                        | Autor(es)                            | Ano    | Conceito Principal Abordado         | Descrição                                                                                                                                                                                                                                                       |
+|-------------------------------|--------------------------------------|--------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Teoria Matemática da Comunicação | Claude Shannon                      | 1948   | Entropia                           | A teoria define a quantidade de informação transmitida em uma mensagem como sendo proporcional à entropia, que é uma medida da incerteza ou desordem da fonte de informação.                                                                                                                                                 |
+| Teoria da Complexidade Computacional | Stephen Cook, Leonid Levin         | 1971   | Complexidade Computacional         | A teoria estuda a complexidade de problemas computacionais e classifica-os de acordo com a dificuldade em resolvê-los. A complexidade é medida em termos de tempo e espaço necessários para resolver um problema, e é usada para determinar a eficiência de algoritmos.       |
+| Teoria da Informação Quântica  | Stephen Wiesner                      | 1983   | Estados Quânticos                  | A teoria estuda a transmissão de informações usando estados quânticos em vez de bits clássicos. Os estados quânticos têm propriedades que permitem a transmissão de informações de forma mais segura e eficiente do que os bits clássicos.                            |
+| Teoria da Codificação de Canal | Robert Gallager                      | 1963   | Codificação de Canal               | A teoria estuda a codificação de informações para transmissão em canais de comunicação que sofrem interferência e ruído. Ela se concentra em criar códigos que permitem a detecção e correção de erros, de modo a garantir a integridade das informações transmitidas.           |
+| Teoria da Compressão de Dados | David Huffman                        | 1952   | Códigos de Huffman                 | A teoria estuda a compressão de dados por meio da criação de códigos que representam as informações de forma mais eficiente. O algoritmo de Huffman é um exemplo de algoritmo de compressão de dados que usa códigos de tamanho variável para representar informações de forma mais compacta. |
+| Teoria da Informação Semântica | John F. Sowa                         | 1984   | Significado das Palavras            | A teoria studa a representação de informações em termos de seus significados semânticos. Ela se concentra em como as palavras e símbolos são usados para representar e comunicar informações de forma eficaz.                                                           |
+| Teoria da Informação Visual    | Rudolf Arnheim                       | 1969   | Percepção Visual                   | A teoria estuda a transmissão de informações visuais e como as pessoas percebem e interpretam imagens. Ela se concentra em como as formas, cores e outros elementos visuais podem ser usados para comunicar informações de forma eficaz.                                   |
+| Teoria da Decisão              | Leonard Savage, John von Neumann    | 1954   | Teoria da Decisão                  | A teoria estuda como as pessoas tomam decisões em situações de incerteza e risco. Ela se concentra em como as pessoas avaliam as alternativas disponíveis e escolhem a melhor opção com base em suas preferências e no valor que atribuem a cada resultado possível. |
+
+
+> Lillian: a teoria de Shannon-Weaver é o divisor de águas entre o mundo analógico e o mundo digital.
+
+- Assistir: "The bit player"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CCrpgUM_rYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- Kolmogorov: incompressividade, aleatoriedade e computabilidade. É comparada em grandeza com a teoria de Shannon.
+
+- Teoria quântica da informação: estatística da informação no mundo quâtico.
+
+##### Teorias qualitativas da informação
+
+- Yehoshua Bar-Hillel, Rudolf Carnap, 1958: Teoria da informação semântica: o significado é a essência da informação. Teoria _Fraca_ da Informação Semântica; Teoria Clássica da Informação Semântica. Uso na computação linguística, Tradução automática, Recuperação da informação. Baseada na teoria da Semiótica de Pierce (não há informação nova-novidade se o que você recebe já é sabido-conhecido; ao receber a nova informação o processo de se conectar com o que já está presente no repertório é o que produz um novo conhecimento - o falante e o ouvinte precisa ter algo em comum e uma experiência real entre ambos; a informação semântica é **conteúdo**, é o conjunto de mundos possíveis excluídos da sentença; Conteúdo = informação semântica = mundos excluídos da sentença -- Intenção = Proposição = Mundos incluídos na sentença.
+
+- Donald Mackay, 1969: Teoria Qualitativa da Teoria Quantitativa da Informação. A informação entá ligada à representação e símbolos, a medição dos símbolos determina a quantidade de mudança
+
+- Doede Nauta, 1972: abordagem Semiótica e Cibernética. Informação está disponível, a compreensão depende de uma harmonia entre **informação - significado - representação**.
+
+- Teoria da Informação Pragmática: também baseada na semiótica de Pierce; Repertório da Fonte - Repertório Comum - Repertório do Receptor; Se todos os repertórios forem idênticos, não se traz informação; Se todos os repertórios forem diferentes, não há diálogo (interseção); Há uma possibilidade de troca se os repertórios se tangenciam (há a possibilidade de novidade); Informação e Originalidade.
+
+- Teoria da Informação Fortemente Semântica: a teoria semântica de Bar-Hillel e Carnap é um modelo fraco de explicação da verdade; **tese da veracidade** para diferenciar _informação significativa_ e _informação verdadeira_; Informação Fortemente Semântica (verdadeira); Teoria de Rede, Tanto informação verdadeira quanto informação falsa carregam informação.
+
+"ALVARES, 2022. Análise histórica e epistemológica do vocábulo informação e de teorias que subsidiam os fenômenos relacionados a gestão da informação."
+
+
+### Aula 03 (06/04/2023)
+
+
 
 
 ## Referências para Cronografia
