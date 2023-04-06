@@ -342,11 +342,73 @@ sociedade da informação e quais as regras pelas quais ela é regida".
 
 
 
+- Apresentação colega Willian
+
+> LUKINA, N. P.; SAMOKHINA, N.N. Revisiting the distinctive features of the information society’s technological structure. Review of European Studies, v. 7, n. 7, 2015.
 
 
+- Estudos como os de Beniger apontam que existiam, até 2009 (ano daquele
+estudo) ao menos 70 definições sobre o termo "Sociedade da Informação",
+embora o estudo anterior de Zins (2007) já apontasse mais de 130 definições
+para o mesmo.
+
+- E muitas nomeações para a sociedade moderna, sendo as mais frequentes:
+**sociedade criativa**, **sociedade do conhecimento** e **sociedade do não
+conhecimento**.
+
+- O auge das pesquisas so re o ema, porém, foi entre os anos 1960 e 1980, tendo, de acordo com os autores, estado atualmente à margem das pesquisas sociais, filosóficas e sociológicas.
+
+- Os autores abordam os impactos dos avanços tecnológicos sobre os fenômenos sociais.
+
+- Também argumentam quanto a insuficiência das abordagens tecnocráticas isoladas para entender a natureza da sociedade da informação.
+
+- Daí a necessidade de "reforçar sua própria base conceitual através do aperfeiçoamento de métodos de análise de categorias", o que também constitui um objetivo do artigo.
+
+- Se empenham na identificação dos "componentes sociais, culturais e antropológicos da a estrutura tecnológica da sociedade da informação" e como esses componentes moldam as características-chave deste tipo de sociedade.
+
+> Interesse em reduzir a pulverização conceitual e a permissividade - em caráter de panáceia
+
+- What is "Technological Structure"?
+
+- Teve origem entre economistas norte-americanos e da Europa ocidental, atrelada à chamada economia evolutiva (um sistema de relações e interconexões tecnológicas, industriais, comerciais e sociais).
+
+- Essa economia se caracteriza justamente na transição de uma estrutura tecnológica para outra. (Freeman & Soete, 1997; Freeman & Louca, 2002; Nelson & Winter, 1982)
+
+- Características distintivas:
+- Saber se esse tipo de sociedade representa um modelo estruturalmente
+novo de sistema social ou sucede o industrialismo e o pós-industrialismo com
+todas as suas características e contradições.
+- Os autores definem como característica "a sociedade da informação ser
+considerada como uma sociedade industrial baseada na informação
+condicionada pela economia de mercado".
+
+- tecnologia aprimorada, de ciência avançada, de educação universal e de liberdades individuais.
+- Orientação fundamental para o progresso, padronização, unificação e universalização.
+- Otimismo tecnológico, transcendência dos avanços da tecnologia em todos os ambientes sociais, atitudes positivas em relação à informação e tecnologias de comunicação como fator definidor do progresso social.
+
+Vantagem da sociedade da informação sobre a sociedade industrial:
+
+- Novas formas de interação, apoiadas na informação e na comunicação por meio de tecnologias.
+
+Outras características: A estrutura tecnológica da sociedade da informação é representada pela microeletrônica, software, robótica e novos materiais.
+
+Partindo da premissa de que a estrutura tecnológica da sociedade da informação se explicita em "ondas", estaríamos vivendo a sexta onda (de 2010 a 2050).
+
+Esta sexta onda da estrutura tecnológica incorpora campos como biotecnologia, nanotecnologia, sistemas de inteligência artificial, redes globais de informação e sistemas integrados de transporte de alta velocidade.
 
 
+Isto é: a transformação do conhecimento baseado em ciência para o desenvolvimento de inovações para gerar novas produções e novos lucros para a economia.
 
+Programada para trabalhar o direção ao individualismo e ao subjetivismo.
+
+Conclusões: 
+
+> Estrutura tecnológica como critério distintivo
+
+Uma das características definidoras da estrutura tecnológica da sociedade da informação é revelada em sua intrusão do padrão técnico e tecnológico na natureza humana, iniciando mudanças qualitativas nesta última.
+
+Tentar estabelecer as características distintivas da sociedade da informação com o foco principal em sua estrutura tecnológica são uma ilustração da eficácia da conceituação como um processo contínuo de aprofundar a
+compreensão do objeto de estudo.
 
 
 
