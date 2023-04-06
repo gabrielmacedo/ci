@@ -245,6 +245,108 @@ Teorias quantitativas da informação `chatGPT`:
 
 ### Aula 03 (06/04/2023)
 
+Apresentação colega Tereza
+
+-  Uso do google trends para avaliar a propagação dos termos envolvidos
+
+> KARVALICS, L. Z. Information society: what is it exactly? The meaning, history and conceptual framework of an expression. Information Society: From Theory To Political Practice, v. 29, 2007.
+
+- O autor busca capturar o conceito do que é **sociedade da informação**
+
+Sociedade da Informação
+
+Na virada do milênio, já era um termo usado em context politico, de negócios,marketing e no dia a dia.
+
+- O conceito se desenvolveu separadamente do escopo empírico do objeto (a sociedade da informação em si)
+
+- A expressão se tornou polissêmica. 
+
+- os estudos de SI apenas no fim do milênio.
+
+1961 - Kisho Kurokawa (arquiteto), em conversa
+com Tudao Umesao (historiador e
+antropologista)
+
+
+1964 - Titulo de um estudo de Jiro Kamishima.
+Mas quem deu o título foi o editor
+Michiko Igarashi (Sociology in
+Information Society)
+
+1968 e 1969 - Três livros sobre o tema
+O
+1971 - Dicionário de Sociedade da Informação.
+
+Yoneji Masuda, usou o termo em uma conferência.
+1970
+MAS ANTES DISSO...
+A literatura em inglês usava outras expressões:
+Sociedade pós-industrial
+
+Criado em 1914. Aumento do 3º setor na economia. Automação na tecnologia. Trabalho "mental" X Trabaho "braçal"
+
+Vários termos proliferaram.
+- 1950 a 1980 Termo guarda-chuva.
+
+- White collar revolution. Se espalhou na década de 1950.
+
+<img width="699" alt="image" src="https://user-images.githubusercontent.com/20596966/230382302-35ef46dd-95d5-442c-9697-892b515506d7.png">
+
+A Sociedade do Conhecimento seria melhor do que a Sociedade da
+Informação?
+
+A Sociedade do Conhecimento seria uma parte da que a Sociedade da Informação?
+
+Os conceitos "conhecimento" e "informação" são ambíguos.
+
+As Ciências Sociais não definiram critérios para informação e conhecimento.
+
+O modelo matemático-estatístico não* considera a qualidade da informação.
+
+Os conhecimentos da biblioteconomia são válidos para uma área restrita.
+
+Machlup, em 1962, diz que informação e conhecimento são a mesma qualidade.
+
+
+"Aqueles que se interessam pela natureza da informação contribuem muito mais do que os que um usam um plágio da inútil fórmula de SW".
+
+<img width="656" alt="image" src="https://user-images.githubusercontent.com/20596966/230383260-5de2887b-2519-4842-b5d8-1dac86c054e0.png">
+
+Usando modelos em vez de definições...
+Três divisões clássicas:
+1. Daniel Bell: três períodos e nove aspectos de fases sócio-históricas.
+Table: Dimensions of the information society according to Daniel Bell
+- 1. Pre-industrial -> 2. Industrial -> 3. Post-industrial 
+
+2. Yoneji Masuda
+Table: Comparison of the characteristics of the industrial and information society by Yoneji Masuda
+- industrial society -> information society
+
+3. Schemet and Curtis: seis categorias (bens, indústria, trabalho e também interconectividade e mídia)
+
+O autor faz uma síntese:
+
+Tabela sintética: Retoma a ideia de SI como um termo guarda-chuva e tenta estabelecer indicadores para avaliar as sociedades. Constrói o modelo sob critério materiais para definir em que estágio está uma dada sociedade frente ao conceito de _sociedade da informação_.
+
+<img width="647" alt="image" src="https://user-images.githubusercontent.com/20596966/230385041-7fdc7081-7ee2-4415-95be-22dddbe3face.png">
+
+Três áreas de estudo sobre Sociedade da Informação
+
+1 - grande narrativa ou análise no nível **macro-teoria** da civilização como contexto. Socialmente mais abrangente, faz perguntas mais amplas.
+
+2 - pequena narrativa ou análise no nível **meso-teoria** do desenvolvimento como como contexto. "quais estágios, modelos e tipos existem dentro do desenvolvimento da
+sociedade da informação e quais as regras pelas quais ela é regida".
+
+3 - mini narrativa, no nível **micro-prática* e reflexão. "Fatias menores da realidade", uso prático. As narrativas não têm limites claros e, com frequência, estão interrelacionadas.
+
+
+
+
+
+
+
+
+
 
 
 
