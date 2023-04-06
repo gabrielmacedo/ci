@@ -27,6 +27,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 ### Conversacionais (chats)
 
 - [Chat PDF](https://www.chatpdf.com/) - Chat with any PDF
+- [ShareGPT](https://sharegpt.com/) - Compartilhar sessão do chatGPT com um clique e url persistente
 
 ### Metabuscadores
 
