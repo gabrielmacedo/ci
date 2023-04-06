@@ -17,6 +17,13 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 - [Sutori](https://www.sutori.com/en/) - **Sutori** é uma ferramenta colaborativa de instrução e apresentação para a sala de aula. Para todas as faixas etárias, a Sutori é a parceira perfeita para tarefas multimídia de Estudos Sociais, Inglês, Língua, Artes, STEM e PBL.
 
+### Citações
+
+- [OpenCitations](https://opencitations.net/)
+- [OpenCitations-Bcite](https://github.com/opencitations/bcite) - reconciliar referências com base em dados RDF
+- Crossref
+- [GeneralIndex](https://archive.org/details/GeneralIndex)
+
 ### Metabuscadores
 
 **Baseados em termos/texto de busca**:
@@ -37,7 +44,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 - [Connected Papers](https://www.connectedpapers.com/)
 - [Litmaps](https://app.litmaps.com/)
-
+- [GeneralIndex](https://archive.org/details/GeneralIndex)
 
 ### Pesquisa de conceitos
 
