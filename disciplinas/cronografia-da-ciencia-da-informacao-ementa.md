@@ -387,17 +387,54 @@ PETTIGREW, K. E.; MCKECHNIE, L. The use of theory in information science researc
 
 TEMA 3 I SOCIEDADE DA INFORMAÇÃO
 
-BURCH, S. The information society/the knowledge society. In: AMBROSI, A.; PEUGEOT, V.; PIMIENTA, D.  (Org.). Word matters: multicultural perspectives on information societies. C & F Éditions: Paris, 2005.
+[BURCH, S. The information society/the knowledge society. In: AMBROSI, A.; PEUGEOT, V.; PIMIENTA, D.  (Org.). Word matters: multicultural perspectives on information societies. C & F Éditions: Paris, 2005.](https://maaz.ihmc.us/rid=1HN7Q0J4F-1XYWQ9W-JDQ/The%20Information%20Society.doc)
 
 CASTELLS, M. **The network society:** a cross-cultural perspective. Cheltenham (England): Edward Elgar, 2004.
 
 CASTELLS, M.; CARDOSO, G. (Org.). **The network society**: from knowledge to policy. Washington: Johns Hopkins Center for Transatlantic Relations, 2006.
 
-KARVALICS, L. Z. Information society: what is it exactly? The meaning, history and conceptual framework of an expression. **Information Society: From Theory To Political Practice**, v. 29, 2007.
+[KARVALICS, L. Z. Information society: what is it exactly? The meaning, history and conceptual framework of an expression. **Information Society: From Theory To Political Practice**, v. 29, 2007.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.575.6057)
+```
+@article{Karvalics-2007,
+  author  = {Z. Karvalics, Laszlo},
+  year    = {2007},
+  month   = {01},
+  volume   = {29},
+  title   = {Information Society - what is it exactly? (The meaning, history and conceptual framework of an expression)},
+  url     = {https://www.researchgate.net/publication/237332035_Information_Society_-_what_is_it_exactly_The_meaning_history_and_conceptual_framework_of_an_expression}
+}
+```
 
-LUKINA, N. P.; SAMOKHINA, N.N. Revisiting the distinctive features of the information society’s technological structure. **Review of European Studies**, v. 7, n. 7, 2015.
+[LUKINA, N. P.; SAMOKHINA, N.N. Revisiting the distinctive features of the information society’s technological structure. **Review of European Studies**, v. 7, n. 7, 2015.](http://doi.org/10.5539/res.v7n7p152)
+```
+@article{Lukina-2015,
+   doi      = {10.5539/res.v7n7p152},
+   title    = {Revisiting the Distinctive Features of the Information Societyâs Technological Structure},
+   author   = {Lukina, Nelly P.; Samokhina, Natalia N.},
+   journal  = {Review of European Studies    2015-may 19 vol. 7 iss. 7},
+   year     = {2015},
+   month    = {may},
+   day      = {19},
+   volume   = {7},
+   issue    = {7},
+   page     = {--},
+   url      = {http://doi.org/10.5539/res.v7n7p152}
+}
+```
 
-WEBSTER, F. **Theories of the information society**. Londres: Routledge, 2006.
+[WEBSTER, F. **Theories of the information society**. Londres: Routledge, 2006.](http://library.lol/main/E42C83A2EA763C319B0FB5FDC761D9AD)
+```
+@book{Webster-2014,
+   title =     {Theories of the Information Society},
+   author =    {Frank Webster},
+   publisher = {Routledge},
+   isbn =      {0415718783; 9780415718783},
+   year =      {2014},
+   series =    {International Library of Sociology},
+   edition =   {4},
+   url =       {libgen.li/file.php?md5=e42c83a2ea763c319b0fb5fdc761d9ad}
+}
+```
 
 **MÓDULO 2 I PERCURSO HISTÓRICO-DISCIPLINAR DA CIÊNCIA DA INFORMAÇÃO**
 
