@@ -401,6 +401,13 @@ Uma das características definidoras da estrutura tecnológica da sociedade da i
 Tentar estabelecer as características distintivas da sociedade da informação com o foco principal em sua estrutura tecnológica são uma ilustração da eficácia da conceituação como um processo contínuo de aprofundar a
 compreensão do objeto de estudo.
 
+> Dica de filme: [O homem que quis classificar o mundo (Paul Otlet)](https://www.youtube.com/watch?v=gVkHzIrbxY0) - [Biografia](https://people.ischool.berkeley.edu/~buckland/otletbib.html)
+
+#### Professora Lillian
+
+<img width="561" alt="image" src="https://user-images.githubusercontent.com/20596966/230398477-c9bf87aa-d6b5-42d4-8c69-8f7d190df4ec.png">
+
+> Não existiu um autor especificamente. Foi o editor da revista que chegou nesse nome.
 
 
 ## Referências para Cronografia
