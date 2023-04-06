@@ -728,4 +728,4 @@ PERSPECTIVA CULTURAL
 
 ## Referências para Cronografia
 
-- [The History and Historiography of Information Science: Some Reflections](https://www.researchgate.net/publication/222489196_The_History_and_Historiography_of_Information_Science_Some_Reflections/comments)January 1996. Information Processing and Management 32(1):3-17. DOI: 10.1016/0306-4573(95)00046-J Source dx.doi.org. W. Boyd RaywardW. Boyd Rayward
+- [The History and Historiography of Information Science: Some Reflections](https://www.researchgate.net/publication/222489196_The_History_and_Historiography_of_Information_Science_Some_Reflections/comments) January 1996. Information Processing and Management 32(1):3-17. DOI: 10.1016/0306-4573(95)00046-J Source dx.doi.org. W. Boyd RaywardW. Boyd Rayward
