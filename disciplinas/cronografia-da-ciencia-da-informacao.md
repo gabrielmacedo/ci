@@ -242,7 +242,6 @@ Teorias quantitativas da informação `chatGPT`:
 
 "ALVARES, 2022. Análise histórica e epistemológica do vocábulo informação e de teorias que subsidiam os fenômenos relacionados a gestão da informação."
 
-
 ### Aula 03 (06/04/2023)
 
 #### Apresentação colega Tereza
