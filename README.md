@@ -24,6 +24,10 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - [Crossref](https://www.crossref.org/)
 - [GeneralIndex](https://archive.org/details/GeneralIndex)
 
+### Conversacionais (chats)
+
+- [Chat PDF](https://www.chatpdf.com/) - Chat with any PDF
+
 ### Metabuscadores
 
 **Baseados em termos/texto de busca**:
