@@ -247,7 +247,7 @@ Teorias quantitativas da informação `chatGPT`:
 
 #### Apresentação colega Tereza
 
--  Uso do google trends para avaliar a propagação dos termos envolvidos
+- Uso do google trends para avaliar a propagação dos termos envolvidos
 
 > KARVALICS, L. Z. Information society: what is it exactly? The meaning, history and conceptual framework of an expression. Information Society: From Theory To Political Practice, v. 29, 2007.
 
@@ -267,21 +267,19 @@ Na virada do milênio, já era um termo usado em context politico, de negócios,
 com Tudao Umesao (historiador e
 antropologista)
 
-
 1964 - Titulo de um estudo de Jiro Kamishima.
 Mas quem deu o título foi o editor
 Michiko Igarashi (Sociology in
 Information Society)
 
 1968 e 1969 - Três livros sobre o tema
-O
+
 1971 - Dicionário de Sociedade da Informação.
 
 Yoneji Masuda, usou o termo em uma conferência.
 1970
 MAS ANTES DISSO...
-A literatura em inglês usava outras expressões:
-Sociedade pós-industrial
+A literatura em inglês usava outras expressões: Sociedade pós-industrial
 
 Criado em 1914. Aumento do 3º setor na economia. Automação na tecnologia. Trabalho "mental" X Trabaho "braçal"
 
@@ -306,7 +304,6 @@ O modelo matemático-estatístico não* considera a qualidade da informação.
 Os conhecimentos da biblioteconomia são válidos para uma área restrita.
 
 Machlup, em 1962, diz que informação e conhecimento são a mesma qualidade.
-
 
 "Aqueles que se interessam pela natureza da informação contribuem muito mais do que os que um usam um plágio da inútil fórmula de SW".
 
@@ -339,13 +336,9 @@ sociedade da informação e quais as regras pelas quais ela é regida".
 
 3 - mini narrativa, no nível **micro-prática* e reflexão. "Fatias menores da realidade", uso prático. As narrativas não têm limites claros e, com frequência, estão interrelacionadas.
 
-
-
-
 #### Apresentação colega Willian França
 
 > LUKINA, N. P.; SAMOKHINA, N.N. Revisiting the distinctive features of the information society’s technological structure. Review of European Studies, v. 7, n. 7, 2015.
-
 
 - Estudos como os de Beniger apontam que existiam, até 2009 (ano daquele
 estudo) ao menos 70 definições sobre o termo "Sociedade da Informação",
@@ -395,7 +388,6 @@ Outras características: A estrutura tecnológica da sociedade da informação �
 Partindo da premissa de que a estrutura tecnológica da sociedade da informação se explicita em "ondas", estaríamos vivendo a sexta onda (de 2010 a 2050).
 
 Esta sexta onda da estrutura tecnológica incorpora campos como biotecnologia, nanotecnologia, sistemas de inteligência artificial, redes globais de informação e sistemas integrados de transporte de alta velocidade.
-
 
 Isto é: a transformação do conhecimento baseado em ciência para o desenvolvimento de inovações para gerar novas produções e novos lucros para a economia.
 
