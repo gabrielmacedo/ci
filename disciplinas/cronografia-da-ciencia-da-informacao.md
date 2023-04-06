@@ -245,7 +245,7 @@ Teorias quantitativas da informação `chatGPT`:
 
 ### Aula 03 (06/04/2023)
 
-Apresentação colega Tereza
+#### Apresentação colega Tereza
 
 -  Uso do google trends para avaliar a propagação dos termos envolvidos
 
@@ -342,7 +342,7 @@ sociedade da informação e quais as regras pelas quais ela é regida".
 
 
 
-- Apresentação colega Willian
+#### Apresentação colega Willian França
 
 > LUKINA, N. P.; SAMOKHINA, N.N. Revisiting the distinctive features of the information society’s technological structure. Review of European Studies, v. 7, n. 7, 2015.
 
