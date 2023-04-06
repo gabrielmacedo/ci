@@ -21,7 +21,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 - [OpenCitations](https://opencitations.net/)
 - [OpenCitations-Bcite](https://github.com/opencitations/bcite) - reconciliar referências com base em dados RDF
-- Crossref
+- [Crossref](https://www.crossref.org/)
 - [GeneralIndex](https://archive.org/details/GeneralIndex)
 
 ### Metabuscadores
