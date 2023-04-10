@@ -4,7 +4,7 @@ title: Trabalho da Disciplina Cronografia da Ciência da Informação
 
 ---
 
-
+## Exemplos
 Parte 1
 
 Consulta SPARQL na Wikidata:
@@ -20,3 +20,8 @@ SELECT ?propertyLabel ?valueLabel WHERE {
   }
 }
 ```
+
+
+## Ver:
+
+http://www.histropedia.com/
