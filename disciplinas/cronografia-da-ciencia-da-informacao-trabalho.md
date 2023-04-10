@@ -25,6 +25,20 @@ SELECT ?propertyLabel ?valueLabel WHERE {
 ```
 
 
+| Consulta | Teoria da Informação |
+| -- | -- |
+| Github | https://github.com/topics/information-theory |
+| Library of Congress | https://id.loc.gov/authorities/subjects/sh85066289.html |
+| BNE | https://datos.bne.es/tema/XX527336.html |
+
+https://www.jstor.org/stable/24533578
+JOURNAL ARTICLE
+Information theory
+**Chester H. Page**
+Journal of the Washington Academy of Sciences
+Vol. 41, No. 8 (August 1951), pp. 245-249 (5 pages)
+Published By: Washington Academy of Sciences
+
 ## Ver:
 
 http://www.histropedia.com/ (timeline)
