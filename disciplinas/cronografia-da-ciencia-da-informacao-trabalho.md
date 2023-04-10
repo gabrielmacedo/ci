@@ -7,10 +7,13 @@ title: Trabalho da Disciplina Cronografia da Ciência da Informação
 ## Exemplos
 Parte 1
 
-Consulta SPARQL na Wikidata:
-Claude Shannon (Q92760): https://w.wiki/6ZYL
+| Consulta | Claude Shannon (Q92760) |
+| -- | -- |
+| Scholia | https://scholia.toolforge.org/author/Q92760 |
+| Wikidata | https://w.wiki/6ZYL |
 
-```
+SPARQL
+```sparql
 SELECT ?propertyLabel ?valueLabel WHERE {
   wd:Q92760 ?property ?value.
   SERVICE wikibase:label {
@@ -24,4 +27,4 @@ SELECT ?propertyLabel ?valueLabel WHERE {
 
 ## Ver:
 
-http://www.histropedia.com/
+http://www.histropedia.com/ (timeline)
