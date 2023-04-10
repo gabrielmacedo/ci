@@ -32,7 +32,7 @@ SELECT ?propertyLabel ?valueLabel WHERE {
 | Library of Congress | https://id.loc.gov/authorities/subjects/sh85066289.html |
 | BNE | https://datos.bne.es/tema/XX527336.html |
 | Dimensions.ai | https://app.dimensions.ai/discover/publication?search_mode=content&search_text=%22information%20theory%22&search_type=kws&search_field=text_search&order=times_cited |
-
+| OpenAlex | https://explore.openalex.org/concepts/C52622258 |
 
 
 
