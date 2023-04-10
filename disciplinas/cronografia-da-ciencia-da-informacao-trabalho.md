@@ -214,4 +214,5 @@ ano	valor
 
 ## Ver
 
-http://www.histropedia.com/ (timeline)
+- http://www.histropedia.com/ (timeline)
+- https://paperfetcher-paperfetcher-web-app-paperfetcher-app-0w0vu2.streamlit.app/ - https://arxiv.org/pdf/2110.12490.pdf - Paperfetcher: A tool to automate handsearch for systematic reviews (Revisão sistemática de literatura)
