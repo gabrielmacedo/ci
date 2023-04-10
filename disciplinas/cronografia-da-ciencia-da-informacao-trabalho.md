@@ -39,6 +39,13 @@ Journal of the Washington Academy of Sciences
 Vol. 41, No. 8 (August 1951), pp. 245-249 (5 pages)
 Published By: Washington Academy of Sciences
 
-## Ver:
+
+## Possibilidades
+
+- Avaliar e descrever Autores, Obras e Termos
+- 
+
+
+## Ver
 
 http://www.histropedia.com/ (timeline)
