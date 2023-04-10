@@ -65,6 +65,6 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 ### Repositórios de dados
 
-- [r3data](https://r3data.org)
+- [re3data](https://re3data.org)
 
 ## Bibliografia 
