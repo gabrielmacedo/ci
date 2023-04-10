@@ -4,6 +4,9 @@ title: Trabalho da Disciplina Cronografia da Ciência da Informação
 
 ---
 
+
+Apresentação Lillian: http://lillianalvares.fci.unb.br/phocadownload/FCI/Aula%2012%20Teorias%2007102020.pdf
+
 ## Exemplos
 Parte 1
 
