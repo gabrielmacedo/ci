@@ -64,3 +64,9 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - Socarxiv (Social and Behavior Science)
 
 ## Bibliografia
+
+## Repositórios de dados
+
+- [r3data](https://r3data.org)
+
+
