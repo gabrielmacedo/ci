@@ -20,10 +20,13 @@ A proposta é estudar cada um deles com o nível de detalhe disponível no momen
 
 ## Desenvolvimento
 
+**Platão**
 
-A origem da concepção de informação no mundo ocidental remonta ao pensamento de Platão e assim relacionada à epistemologia e à ontologia. A contribuição de Platão foi especialmente em relação à teoria das formas ou teoria das ideias. A teoria das formas de Platão sugere que existem tipos de formas ou ideias que são independentes do mundo físico que experimentamos. O impacto desta teoria está associado à identificação e definição de conceitos e de categorias fundamentais, de que a informação pode ser abstraída do mundo físico e organizada de acordo com princípios ou categorias. Esta noção terá impacto no desenvolvimento posterior de modelos de recuperação de infromações baseados em regras e em padrões lógicos. 
+A origem da concepção de informação no mundo ocidental remonta ao pensamento de Platão e assim relacionada à epistemologia e à ontologia. A contribuição de Platão foi especialmente em relação à teoria das formas ou teoria das ideias. A teoria das formas de Platão sugere que existem tipos de formas ou ideias que são independentes do mundo físico que experimentamos. O impacto desta teoria está associado à identificação e definição de conceitos e de categorias fundamentais, de que a informação pode ser abstraída do mundo físico e organizada de acordo com princípios ou categorias. Esta noção terá impacto no desenvolvimento posterior de modelos de recuperação de informações baseados em regras e em padrões lógicos, bem como no desenvolvimento de linguagens de representação para bancos de dados.
 
 Conceitos em destaque:
+
+- _teoria das formas_: formas e ideias independentes do mundo físico que é experimentado pelos humanos;
 - _Eidos_ (essência): se refere à natureza ou substância fundamental de algo, as coisas no mundo físico são cópias imperfeitas das formas eternas;
 - _Idea_ (ideia): é a forma perfeita e eterna dos _Eidos_, objetos verdadeiros do conhecimento, são permanentes e universais, enquanto que as coisas do mundo físico são apenas sombras ou imitações dessas ideias;
 - _Type_ (tipo): classe ou categoria abstrata de objetos ou seres, forma de conhecimento superior, que permite uma compreensão mais profunda e abrangente das coisas do mundo físico;
