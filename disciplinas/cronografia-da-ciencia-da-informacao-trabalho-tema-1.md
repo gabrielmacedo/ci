@@ -24,6 +24,14 @@ A proposta é estudar cada um deles com o nível de detalhe disponível no momen
 
 Tema 1 - Informação e Sociedade da Informação
 - Conceito de Informação
+
+Buckland (1991) apresenta diferentes noções para o termo informação, reconhecendo a polissemia. Considerando uma abordagem pragmática, teremos a informação: 1) _como process_o (ato de informar - comunicação); 2) _como conhecimento_ (forma de comprender e interpretar a informação - intangível); e 3) _como coisa_ (objetos físicos ou entidades informativas - tangível). O trabalho será enfocado neste último, informação contida em mensagens, dados, texto, documentos, etc, ou seja, meios de suporte que comunicam informação e transmitem conhecimento. O autor apresentará ainda um ponto 4) relativo ao processamento da informação, este que atravessará os outros 3.
+O autor trará também o conceito de _evidência_ como sinônimo para _informação como coisa_. Informação como _evidência_ leva a mudanças no estado atual de conhecimento dos agentes, do que se sabe e de suas crenças; independente da sua utilidade ou da verdade contida nela. É o agente humano que manipula a _evidência_, ou seja, a _informação com coisa_.
+
+
+
+
+
 - Teorias da Informação
 - Sociedade da Informação
 
