@@ -365,7 +365,18 @@ TEMA 1 I O CONCEITO DE INFORMAÇÃO
 
 BUCKLAND, M. K. Information as thing. **Journal of the American Society for Information Science**, v. 42, n. 5, p. 351-360, 1991.
 
-CAPURRO, R.; HJØRLAND, B. The concept of information. In: **Annual Review of Information Science and Technology**, v. 37, chapter 8, p. 343-411, 2003.
+[CAPURRO, R.; HJØRLAND, B. The concept of information. In: **Annual Review of Information Science and Technology**, v. 37, chapter 8, p. 343-411, 2003.](https://sci-hub.se/10.1002/aris.1440370109) doi:10.1002/aris.1440370109
+```
+@article{Capurro-2005,
+  doi     = {10.1002/aris.1440370109},
+  author  = {CAPURRO, R.; HJØRLAND, B},
+  year    = {2005},
+  volume  = {37},
+  title   = {The concept of information},
+  url     = {https://sci-hub.se/10.1002/aris.1440370109}
+}
+```
+
 
 FLORIDI, L. Open problems in the philosophy of information. **Metaphilosophy**, v. 35, n. 4, p. 554-582, 2004.
 
