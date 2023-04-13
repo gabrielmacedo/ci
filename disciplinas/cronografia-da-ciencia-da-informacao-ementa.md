@@ -2,9 +2,9 @@
 
 **Profa. Lillian Maria Araujo de Rezende Alvares**
 
-**Portal da Disciplina: http://lillianalvares.fci.unb.br/cronografia** 
+Portal da Disciplina: http://lillianalvares.fci.unb.br/cronografia
 
-* * *
+-------
 
 **CÓDIGO** ECC 703 Mestrado e ECC 803 Doutorado
 
