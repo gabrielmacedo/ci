@@ -1,5 +1,5 @@
 ---
-title: Trabalho da Disciplina Cronografia da Ciência da Informação
+title: Trabalho da Disciplina Cronografia da Ciência da Informação - tema 1
 
 
 ---
