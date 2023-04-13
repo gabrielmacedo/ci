@@ -22,6 +22,11 @@ A proposta é estudar cada um deles com o nível de detalhe disponível no momen
 
 ## Desenvolvimento
 
+Tema 1 - Informação e Sociedade da Informação
+- Conceito de Informação
+- Teorias da Informação
+- Sociedade da Informação
+
 Breve resumo:
 
 
