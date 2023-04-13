@@ -1,5 +1,5 @@
 ---
-title: Trabalho tema 1: Informação e Sociedade da Informação
+title: Trabalho tema 1 - Informação e Sociedade da Informação
   
 ---
 
