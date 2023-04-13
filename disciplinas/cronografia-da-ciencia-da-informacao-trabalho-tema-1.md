@@ -12,15 +12,11 @@ Considerando o esforço de produzir uma abordagem cronográfica da ciência da i
 
 [^1]: https://www.bbc.com/portuguese/geral-39842626
 
-É importante ressaltar que o objetivo desse estudo não é realizar uma abordagem cronográfica completa da história da ciência da informação e de seu conceito central, mas sim levantar indícios e conexões entre elementos que constituem essa história. 
+O foco aqui é a evolução da ciência da informação e do conceito de informação em si, e não em abranger todas as formas de comunicação desde as mais primitivas até a era digital. É importante destacar ainda que o objetivo não é realizar uma abordagem cronográfica completa da história da ciência da informação, mas sim levantar indícios e conexões entre elementos que constituem essa história.
 
-Sendo assim, para discorrer sobre os processos envolvidos nessa cronografia e desvendar seus entendimentos, ainda que parciais, é necessário recortes metodológicos sistematizados, os quais, invariavelmente, também são limitados. Diante da complexidade desse desafio, propõe-se neste resumo uma metodologia de aproximação sucessiva do fenômeno informacional, que consistirá na divisão do problema em pequenos passos. Essa é uma técnica útil em áreas de pesquisa em que o objeto de estudo é complexo, permitindo trabalhar em problemas menores antes de avançar para o próximo passo.
+Sendo assim, para discorrer sobre os processos envolvidos nessa cronografia e desvendar seus entendimentos, ainda que parciais, será necessário estabelecer recortes metodológicos sistematizados, os quais, invariavelmente, também são limitados. Diante da complexidade desse desafio, propõe-se neste resumo uma metodologia de aproximação sucessiva do fenômeno informacional, que consistirá na divisão do problema em pequenos passos. Essa é uma técnica útil em áreas de pesquisa em que o objeto de estudo é complexo, permitindo trabalhar em problemas menores antes de avançar para o próximo passo.
 
 A proposta é estudar cada um deles com o nível de detalhe disponível no momento, visando identificar padrões e relações entre os diferentes elementos que compõem e influenciam o fenômeno estudado. Devido à sua flexibilidade, essa abordagem também permitirá a modificação da representação do conteúdo estudado à medida que novas informações surgirem.
-
-
-
-
 
 
 
