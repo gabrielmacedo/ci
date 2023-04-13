@@ -8,7 +8,7 @@ title: Trabalho tema 1 - Informação e Sociedade da Informação
 
 Compreendemos que o surgimento do conceito de informação está relacionado com a evolução da linguagem, passando pela invenção da escrita até a sua transcrição em diferentes meios de suporte, bem como os processos de transferência de informações entre pessoas e objetos ao longo da história. 
 
-Considerando o esforço de produzir uma abordagem cronográfica da ciência da informação e da história do seu conceito nuclear - a informação - não seria estranho realizar um percurso que tratasse da persistência dos acontecimentos históricos escritos mais antigos a que temos acesso. Por exemplo, das estruturas complexas de encapsulamento de conteúdos em tábuas de argila, das transcrições cuneiformes dos Sumérios, encontradas em Uruk, próximos ao rio Eufrates[^1], que já passam de 5 mil anos, e sua estreita relação cronográfica com os modernos livro-razão distribuídos, chamados de blockchains, que tanto despertaram interesse no campo da tecnologia nos últimos anos. Afinal, tanto a aplicação do passado quanto a do presente estão direcionadas ao registro de mensagens e ao tráfego desses signos ao longo do tempo, conectando significante e significado entre nós humanos.
+Considerando o esforço de produzir uma abordagem cronográfica da ciência da informação e da história do seu conceito nuclear - a informação - não seria estranho realizar um percurso que tratasse da persistência dos acontecimentos históricos escritos mais antigos a que temos acesso. Por exemplo, das estruturas complexas de encapsulamento de conteúdos em tábuas de argila, as transcrições cuneiformes dos Sumérios, encontradas em Uruk, próximos ao rio Eufrates[^1], que já passam de 5 mil anos, e sua estreita relação cronográfica com os modernos livro-razão distribuídos, chamados de blockchains, que tanto despertaram interesse no campo da tecnologia nos últimos anos. Afinal, tanto a aplicação do passado quanto a do presente estão direcionadas ao registro de mensagens e ao tráfego desses signos ao longo do tempo, conectando significante e significado entre nós humanos.
 
 [^1]: https://www.bbc.com/portuguese/geral-39842626
 
@@ -22,8 +22,25 @@ A proposta é estudar cada um deles com o nível de detalhe disponível no momen
 
 ## Desenvolvimento
 
+Breve resumo:
+
+
+
+### Primeiro passo
+
+- Autores e conceitos: uma delimitação do percursos histórico
+
+
+
+
+- Autores
+- Conceitos
+
+- Delimitação do percurso histórico: Antes de Shannon(AS) e Depois de Shannon (DS)
+
+
 ## Conclusão
 
 ## Referências
 
-[1]: https://www.bbc.com/portuguese/geral-39842626
+[1]: BBC, 2017: O que diz o primeiro documento escrito da história. Disponível em: https://www.bbc.com/portuguese/geral-39842626. Acesso em: 13/04/2023.
