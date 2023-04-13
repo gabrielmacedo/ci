@@ -20,13 +20,19 @@ A proposta é estudar cada um deles com o nível de detalhe disponível no momen
 
 ## Desenvolvimento
 
+- Conceito de Informação
+
+O conceito de informação tem uma história rica e complexa que abrange vários campos de estudo, incluindo lingüística, matemática, filosofia, ciência da computação, engenharias e a ciência da informação. Embora não haja consenso sobre uma única definição de informação, consideramos aqui que, de modo abrangente, ela se refere à transmissão e recepção de dados, mensagens, significados e conhecimentos.
+
+### Antiguidade e precursores do conceito de informação 
+
 **Platão**
 
-A origem da concepção de informação no mundo ocidental remonta ao pensamento de Platão e assim relacionada à epistemologia e à ontologia. A contribuição de Platão foi especialmente em relação à teoria das formas ou teoria das ideias. A teoria das formas de Platão sugere que existem tipos de formas ou ideias que são independentes do mundo físico que experimentamos. O impacto desta teoria está associado à identificação e definição de conceitos e de categorias fundamentais, de que a informação pode ser abstraída do mundo físico e organizada de acordo com princípios ou categorias. Esta noção terá impacto no desenvolvimento posterior de modelos de recuperação de informações baseados em regras e em padrões lógicos, bem como no desenvolvimento de linguagens de representação para bancos de dados.
+A origem da concepção de informação no mundo ocidental remonta ao pensamento de Platão e está relacionada à epistemologia e à ontologia, incluindo a raiz da palavra forma na palavra infromação. A contribuição de Platão foi especialmente em relação à teoria das formas ou teoria das ideias. A teoria das formas de Platão sugere que existem tipos de formas ou ideias que são independentes do mundo físico que experimentamos. O impacto desta teoria está associado à identificação e definição de conceitos e de categorias fundamentais, de que a informação pode ser abstraída do mundo físico e organizada de acordo com princípios ou categorias. Esta noção terá impacto no desenvolvimento posterior de modelos de recuperação de informações baseados em regras e em padrões lógicos, bem como no desenvolvimento de linguagens de representação para bancos de dados.
 
 Conceitos em destaque:
 
-- _teoria das formas_: formas e ideias independentes do mundo físico que é experimentado pelos humanos;
+- _Teoria das ideias_: formas e ideias independentes do mundo físico que é experimentado pelos humanos;
 - _Eidos_ (essência): se refere à natureza ou substância fundamental de algo, as coisas no mundo físico são cópias imperfeitas das formas eternas;
 - _Idea_ (ideia): é a forma perfeita e eterna dos _Eidos_, objetos verdadeiros do conhecimento, são permanentes e universais, enquanto que as coisas do mundo físico são apenas sombras ou imitações dessas ideias;
 - _Type_ (tipo): classe ou categoria abstrata de objetos ou seres, forma de conhecimento superior, que permite uma compreensão mais profunda e abrangente das coisas do mundo físico;
@@ -34,15 +40,41 @@ Conceitos em destaque:
 - _Prolepse_ (representação): capacidade humana de representar ou antecipar mentalmente algo antes da experimentação direta, é fundamental para o conhecimento, pois permite ter uma visão prévia das ideias e dos tipos antes de encontrá-los no mundo físico.
 
 
+**Aristóteles**
+
+Aristóteles irá destacar a importância da estrutura dos objetos e do seu contexto para a sua compreensão. A estrutura dos objetos carregam características (informações) que tornam possível obter uma compreensão mais aprofundada do seu significado. Para entender um objeto, é necessário considerar as informações contidas em sua estrutura. O impacto da compreensão aristotélica do contexto em que a informação é produzida pode ser relacionada à forma como a informação é apresentada e recuperada por usuários de sistemas de informação.
+
+Conceitos em destaque:
+
+- _Estrutura_ de um objeto: carrega características (informações) que são necessárias à sua compreensão;
+- _Lógica aristotélica_;
+- _Silogismo_.
+
+**Marco Túlio Cícero**
+
+Capurro atribui a Marco Túlio Cícero a provável criação dos termos 
+
+
+Conceitos em destaque:
+
+- _Informatio_: substantivo sobre o ato de informar como uma tradução para os termos platônicos;
+- _Informare_:  verbo de informação como uma tradução para os termos platônicos.
+- _Evidentia_:
+- _Humanitas_:
+- _Qualitas_:
+- _Quantitas_:
 
 
 
+
+
+ importante ressaltar que a compreensão moderna do conceito de "informação" como uma entidade quantificável e mensurável é uma construção relativamente recente na história do pensamento humano, e que o uso dos termos "informare" e "informatio" por Marco Túlio Cícero e outros autores romanos pode ser considerado um precursor desse desenvolvimento conceitual.
 
 Tema 1 - Informação e Sociedade da Informação
 
-- Conceito de Informação
 
-O conceito de informação tem uma história rica e complexa que abrange vários campos de estudo, incluindo lingüística, matemática, filosofia, ciência da computação, engenharias e a ciência da informação. Embora não haja consenso sobre uma única definição de informação, consideramos aqui que, de modo abrangente, ela se refere à transmissão e recepção de dados, mensagens, significados e conhecimentos.
+
+**Buckland**
 
 Buckland (1991)[^2] explora diversas concepções do termo "informação" e reconhece sua polissemia. Segundo o autor, a informação pode ser entendida de três maneiras: 1) como um processo de comunicação, 2) como um conhecimento intangível e 3) como uma coisa tangível, contida em documentos, textos e outros meios que transmitem conhecimento. O autor também apresenta um quarto ponto, relacionado ao processamento da informação, que atravessa as três primeiras concepções. Destaca também o conceito de "evidência" como sinônimo de "informação como coisa". A informação como evidência é aquela que leva a mudanças no estado atual de conhecimento dos indivíduos, independentemente de sua utilidade ou veracidade. O autor ressalta que é o agente humano que manipula a evidência, ou seja, a informação como coisa. Serão então os sistemas de informação modernos os responsáveis por manipular essa informação como coisa, e, para o autor, esta será a razão pela qual há uma prevalência desta abordagem.
 
