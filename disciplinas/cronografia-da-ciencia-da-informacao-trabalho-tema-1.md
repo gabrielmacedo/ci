@@ -4,11 +4,15 @@ proposta: Resumo dos temas abordando a cronografia. Quais foram as grandes abord
 ---
 
 PROGRAMA DE PÓS-GRADUAÇÃO EM CIÊNCVIA DA INFORMAÇÃO - IBICT/UFRJ
+
 Disciplina: Cronografia da Ciência da Informação
+
 Docente: Lillian Maria Araujo de Rezende Alvares
+
 Discente: Gabriel Santiago Macedo
 
-Módulo 1: Informação e Sociedade da Informação
+
+# Módulo 1: Informação e Sociedade da Informação
 
 ## Resumo esquemático 
 
