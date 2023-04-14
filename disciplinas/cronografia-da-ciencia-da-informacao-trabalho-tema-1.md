@@ -17,10 +17,7 @@ Sendo assim, para discorrer sobre os processos envolvidos nessa cronografia e de
 
 A proposta é estudar cada um deles com o nível de detalhe disponível no momento, visando identificar padrões e relações entre os diferentes elementos que compõem e influenciam o fenômeno estudado. Devido à sua flexibilidade, essa abordagem também permitirá a modificação da representação do conteúdo estudado à medida que novas informações surgirem.
 
-
-## Desenvolvimento
-
-- Conceito de Informação
+## Conceito de Informação
 
 O conceito de informação tem uma história rica e complexa que abrange vários campos de estudo, incluindo lingüística, matemática, filosofia, ciência da computação, engenharias e a ciência da informação. Embora não haja consenso sobre uma única definição de informação, consideramos aqui que, de modo abrangente, ela se refere à transmissão e recepção de dados, mensagens, significados e conhecimentos.
 
@@ -28,19 +25,18 @@ O conceito de informação tem uma história rica e complexa que abrange vários
 
 > Várias palavras gregas foram traduzidas com informatio ou informo, como hypotyposis (que significa modelo, especialmente em um contexto moral) e prolepsis (representação), mas a maioria dos usos de nível superior estão explicitamente relacionados a eidos, idea, typos e morphe; ou seja, a conceitos-chave da ontologia e epistemologia gregas (Capurro, 1978). Esta relação é claramente o caso de pensadores proeminentes como, por exemplo, Cícero (106-43 a.C.) e Agostinho (354-430 d.C.). No entanto, estes conceitos de nível superior (_higherlevel_) têm suas raízes no uso de corriqueiro (_low-level_) destas palavras, particularmente no contexto primitivo da cerâmica, bem como na experiência grega de _limitation_ e de _shining-forth_ que percebemos sensualmente (phainonemon).[^3]
 
-
 **Platão**
 
 A origem da concepção de informação no mundo ocidental remonta ao pensamento de Platão e está relacionada à epistemologia e à ontologia, incluindo a raiz da palavra forma na palavra infromação. A contribuição de Platão foi especialmente em relação à teoria das formas ou teoria das ideias. A teoria das formas de Platão sugere que existem tipos de formas ou ideias que são independentes do mundo físico que experimentamos. O impacto desta teoria está associado à identificação e definição de conceitos e de categorias fundamentais, de que a informação pode ser abstraída do mundo físico e organizada de acordo com princípios ou categorias. Esta noção terá impacto no desenvolvimento posterior de modelos de recuperação de informações baseados em regras e em padrões lógicos, bem como no desenvolvimento de linguagens de representação para bancos de dados.
 
 Conceitos em destaque:
 
-- _Teoria das ideias_: formas e ideias independentes do mundo físico que é experimentado pelos humanos;
-- _Eidos_ (essência): se refere à natureza ou substância fundamental de algo, as coisas no mundo físico são cópias imperfeitas das formas eternas;
-- _Idea_ (ideia): é a forma perfeita e eterna dos _Eidos_, objetos verdadeiros do conhecimento, são permanentes e universais, enquanto que as coisas do mundo físico são apenas sombras ou imitações dessas ideias;
-- _Type_ (tipo): classe ou categoria abstrata de objetos ou seres, forma de conhecimento superior, que permite uma compreensão mais profunda e abrangente das coisas do mundo físico;
-- _Morphe_ (forma): é aparência externa ou a forma de algo, é apenas a sombra da verdadeira forma ou essência dos _Eidos_;
-- _Prólepsis_ (prolepse, representação): capacidade humana de representar ou antecipar mentalmente algo antes da experimentação direta, é fundamental para o conhecimento, pois permite ter uma visão prévia das ideias e dos tipos antes de encontrá-los no mundo físico.
+- _Teoria das ideias_: formas e ideias independentes do mundo físico que é experimentado pelos humanos
+- _Eidos_ (essência): se refere à natureza ou substância fundamental de algo, as coisas no mundo físico são cópias imperfeitas das formas eternas
+- _Idea_ (ideia): é a forma perfeita e eterna dos _Eidos_, objetos verdadeiros do conhecimento, são permanentes e universais, enquanto que as coisas do mundo físico são apenas sombras ou imitações dessas ideias
+- _Type_ (tipo): classe ou categoria abstrata de objetos ou seres, forma de conhecimento superior, que permite uma compreensão mais profunda e abrangente das coisas do mundo físico
+- _Morphe_ (forma): é aparência externa ou a forma de algo, é apenas a sombra da verdadeira forma ou essência dos _Eidos_
+- _Prólepsis_ (prolepse, representação): capacidade humana de representar ou antecipar mentalmente algo antes da experimentação direta, é fundamental para o conhecimento, pois permite ter uma visão prévia das ideias e dos tipos antes de encontrá-los no mundo físico
 
 **Aristóteles**
 
@@ -48,9 +44,9 @@ Aristóteles irá destacar a importância da estrutura dos objetos e do seu cont
 
 Conceitos em destaque:
 
-- _Estrutura_ de um objeto: carrega características (informações) que são necessárias à sua compreensão;
-- _Lógica aristotélica_;
-- _Silogismo_.
+- _Estrutura_ de um objeto: carrega características (informações) que são necessárias à sua compreensão
+- _Lógica aristotélica_
+- _Silogismo_
 
 **Marco Túlio Cícero**
 
@@ -62,11 +58,10 @@ Conceitos em destaque:
 
 - _Informatio_: substantivo sobre o ato de informar como uma tradução para os termos platônicos;
 - _Informare_:  verbo de informação como uma tradução para os termos platônicos.
-- _Evidentia_:
-- _Humanitas_:
-- _Qualitas_:
-- _Quantitas_:
-
+- _Evidentia_
+- _Humanitas_
+- _Qualitas_
+- _Quantitas_
 
 **Santo Agostinho**
 
@@ -93,7 +88,7 @@ No século 14 (1301-1400) surge a palavra _enformation_ relacionada a treinament
 
 Conceito em destaque:
 
-_Enformation_: palavra é relacionada a treinamento, instrução, comunicação do conhecimento instrutivo (The Oxford English Dictionary, 1970, p. 1003)
+- _Enformation_: palavra é relacionada a treinamento, instrução, comunicação do conhecimento instrutivo (The Oxford English Dictionary, 1970, p. 1003)
 
 Em 1450 a palavra _enformation_ aparece também tendo o sentido de inteligência.
 
@@ -101,7 +96,7 @@ Em 1870 o surgimento da grafia _information_ com o sentido de inspiração, anim
 
 Conceito em destaque:
 
-_Information_: inpiração, animação, o corpo animado pela alma.
+- _Information_: inpiração, animação, o corpo animado pela alma.
 
 É importante ressaltar que a compreensão moderna do conceito de "informação" como uma entidade quantificável e mensurável é uma construção relativamente recente na história do pensamento humano, e que o uso dos termos -_informare_ e _informatio_ na antiguidade, bem como os seus desdobramento, podem ser considerados um precursores desse desenvolvimento conceitual. 
 
