@@ -1,11 +1,12 @@
 ---
 title: Trabalho tema 1 - Informação e Sociedade da Informação
 proposta: Resumo dos temas abordando a cronografia. Quais foram as grandes abordagens? Como elas ocorreram? Quais as consequências da abordagem? 
+
 ---
 
-PROGRAMA DE PÓS-GRADUAÇÃO EM CIÊNCVIA DA INFORMAÇÃO - IBICT/UFRJ
+**PROGRAMA DE PÓS-GRADUAÇÃO EM CIÊNCIA DA INFORMAÇÃO - IBICT/UFRJ**
 
-Disciplina: Cronografia da Ciência da Informação
+**Disciplina: Cronografia da Ciência da Informação**
 
 Docente: Lillian Maria Araujo de Rezende Alvares
 
@@ -158,12 +159,12 @@ Conceitos em destaque:
 
 **Wersig e Neveling (1975)**
 
-- 1. Abordagem Estrutural: as estruturas da natureza possuem informação e elas estão disponíveis independente da capacidade de apreensão pelos seres humanos, a informação é uma característica dos objetos físicos.
-- 2. Abordagem do Conhecimento: a informação existe a partir do momento que ela é conhecida, ou seja, que as pessoas percebam as estruturas da natureza.
-- 3. Abordagem da Mensagem: informação é sinônimo da mensagem a ser transmitida, é usada para os trabalhos que envolvem, por exemplo, a Teoria Matemática da Comunicação desenvovlida por Shannon e Weaver.
-- 4. Abordagem do Significado: apenas o conteúdo e o significado da mensagem é considerado informação, a informação é o que ele produz de conhecimento.
-- 5. Abordagem do Efeito: a informação só acontece se ela produz um efeito em quem a partilha, se ela muda o estado atual do que se sabe, é usada nos estudos de usuário e nas ciências comportamentais.
-- 6. Abordagem do Processo: a informação é o próprio processo de geração, transmissão, armazenamento e recuperação da informação, ela não é apenas "um" dos processos.
+- Abordagem Estrutural: as estruturas da natureza possuem informação e elas estão disponíveis independente da capacidade de apreensão pelos seres humanos, a informação é uma característica dos objetos físicos.
+- Abordagem do Conhecimento: a informação existe a partir do momento que ela é conhecida, ou seja, que as pessoas percebam as estruturas da natureza.
+- Abordagem da Mensagem: informação é sinônimo da mensagem a ser transmitida, é usada para os trabalhos que envolvem, por exemplo, a Teoria Matemática da Comunicação desenvovlida por Shannon e Weaver.
+- Abordagem do Significado: apenas o conteúdo e o significado da mensagem é considerado informação, a informação é o que ele produz de conhecimento.
+- Abordagem do Efeito: a informação só acontece se ela produz um efeito em quem a partilha, se ela muda o estado atual do que se sabe, é usada nos estudos de usuário e nas ciências comportamentais.
+- Abordagem do Processo: a informação é o próprio processo de geração, transmissão, armazenamento e recuperação da informação, ela não é apenas "um" dos processos.
 
 **Belkin e Robertson (1976)**
 
