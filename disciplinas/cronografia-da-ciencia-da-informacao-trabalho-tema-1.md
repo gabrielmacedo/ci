@@ -1,11 +1,9 @@
 ---
 title: Trabalho tema 1 - Informação e Sociedade da Informação
-  
+proposta: Resumo dos temas abordando a cronografia. Quais foram as grandes abordagens? Como elas ocorreram? Quais as consequências da abordagem? 
 ---
 
-Resumo dos temas abordando a cronografia. Quais foram as grandes abordagens? Como elas ocorreram? Quais as consequências da abordagem? 
-
-## Introdução
+## Resumo esquemático do tema 1 - Informação e Sociedade da Informação
 
 Compreendemos que o surgimento do conceito de informação está relacionado com a evolução da linguagem, passando pela invenção da escrita até a sua transcrição em diferentes meios de suporte, bem como os processos de transferência de informações entre pessoas e objetos ao longo da história.
 
@@ -100,7 +98,7 @@ Conceito em destaque:
 
 É importante ressaltar que a compreensão moderna do conceito de "informação" como uma entidade quantificável e mensurável é uma construção relativamente recente na história do pensamento humano, e que o uso dos termos -_informare_ e _informatio_ na antiguidade, bem como os seus desdobramento, podem ser considerados um precursores desse desenvolvimento conceitual. 
 
-**Século 20**
+**Século 20, um breve relato**
 
 A compreensão atual do conceito de informação inclui não apenas a forma em que ela é apresentada (palavras escritas, imagens, sons, sinais) e o conteúdo que ela carrega (o significado dessas mensagens), mas também o processo de comunicação que se desenrola entre o emissor e o receptor. Em geral, como proposta de sistematização moderna, os conceitos relacionados à informação estão associados a seis aspectos principais: significado, conhecimento, ensino, comunicação, representação e estímulo. Esses elementos são cruciais para uma compreensão mais abrangente da informação, visto que cada um deles representa uma dimensão importante da forma como ela é criada, compartilhada e utilizada nas diversas esferas da sociedade.
 
@@ -113,7 +111,7 @@ Conceitos em destaque:
 - _Representação_
 - _Estímulo_
 
-O estudo moderno da informação inclui, como elementos fundamentais para a compreensão de suas relações, os processos de produção, transmissão e uso da informação. Esses processos são cruciais para entendermos como a informação é criada, disseminada e utilizada em diferentes contextos, possibilitando uma compreensão mais ampla do papel que ela desempenha na sociedade e na formação da cultura e do conhecimento.
+O estudo moderno da informação inclui ainda, como elementos fundamentais para a compreensão de suas relações, os processos de produção, transmissão e uso da informação. Esses processos são cruciais para entendermos como a informação é criada, disseminada e utilizada em diferentes contextos, possibilitando uma compreensão mais ampla do papel que ela desempenha na sociedade e na formação da cultura e do conhecimento.
 
 Conceitos em destaque:
 
@@ -121,59 +119,77 @@ Conceitos em destaque:
 - _Processos de transmissão_
 - _Processos de uso_
 
+As noções de informação pode ser agrupadas em duas propriedades: a informação é extensiva e informação reduz incerteza.
+
+Conceitos em destaque:
+
+- _Informação é extensiva_: ampla, genérica e sua aplicação pode ser considerada para um número amplo de pessoas ou coisas, passa por um processo aditivo de se somar ao que já estava presente, é reprodutível e é transmissível.
+- _Informação reduz a incerteza_: a quantidade de informações disponíveis reduz diretamente a incerteza, quanto maior a quantidade de informação na mensagem mais precisa ela se torna.
+
+É possível, de forma sintética, separar a compreensão do fenômeno informacional já no século 20 em duas abordagens: as teorias quantitivas da informação e as teorias qualitativas da informação.
+
+**Teorias quantitativas da informação**
+
+- Medidas de entropia em física (1906)
+- Função de Nyquist (1924)
+- Informações de Fisher (1925)
+- A função Hartley (1928)
+- Informações de Shannon (1948)
+- Complexidade de Kolmogrov (1965)
+- Informação Quântica (2011)
+
+**Teorias quantitativas da informação**
+
+- Teoria quantitativa de infromação qualitativa (1969)
+- Abordagem semiótio-cibernética (1972)
+- Equação de Brokes (1980)
+- Teoria da Naturalização da Informação (1981, 1997)
+
+**Seis abordagens da informação**
+
+**Wersig e Neveling (1975)**
+
+- 1. Abordagem Estrutural: as estruturas da natureza possuem informação e elas estão disponíveis independente da capacidade de apreensão pelos seres humanos, a informação é uma característica dos objetos físicos.
+- 2. Abordagem do Conhecimento: a informação existe a partir do momento que ela é conhecida, ou seja, que as pessoas percebam as estruturas da natureza.
+- 3. Abordagem da Mensagem: informação é sinônimo da mensagem a ser transmitida, é usada para os trabalhos que envolvem, por exemplo, a Teoria Matemática da Comunicação desenvovlida por Shannon e Weaver.
+- 4. Abordagem do Significado: apenas o conteúdo e o significado da mensagem é considerado informação, a informação é o que ele produz de conhecimento.
+- 5. Abordagem do Efeito: a informação só acontece se ela produz um efeito em quem a partilha, se ela muda o estado atual do que se sabe, é usada nos estudos de usuário e nas ciências comportamentais.
+- 6. Abordagem do Processo: a informação é o próprio processo de geração, transmissão, armazenamento e recuperação da informação, ela não é apenas "um" dos processos.
+
+**Belkin e Robertson (1976)**
+
+Belkin e Robertson propõem que informação deva ser entendida como um fenômeno capaz de transformar a estrutura cognitiva do sujeito dos sujeitos, não se resume a um conjunto de dados ou fatos. Na interação entre o emissor e o receptor, o receptor é influenciado pela sua estrutura cognitiva prévia, ou seja, suas crenças, valores, conhecimentos e experiências. Quando a informação é recebida, ela é contrastada com essas estruturas existentes, e pode levar a mudanças na percepção, interpretação e entendimento do receptor. A informação é então assimilada em relação a essas estruturas, quando altera o entendimento anterior do sujeito.
+
+**Mikhailov (1983)**
+
+A Ciência da Informação tem sua origem na informação científica. Criou o VINITI (Rússia), instituto dedicado ao estudo e prática da informação científica na Rússia. Informação é o resultado de uma atividade social de produção de conhecimento.
+
 **Buckland**
 
 Buckland (1991)[^2] explora diversas concepções do termo "informação" e reconhece sua polissemia. Segundo o autor, a informação pode ser entendida de três maneiras: 1) como um processo de comunicação, 2) como um conhecimento intangível e 3) como uma coisa tangível, contida em documentos, textos e outros meios que transmitem conhecimento. O autor também apresenta um quarto ponto, relacionado ao processamento da informação, que atravessa as três primeiras concepções. Destaca também o conceito de "evidência" como sinônimo de "informação como coisa". A informação como evidência é aquela que leva a mudanças no estado atual de conhecimento dos indivíduos, independentemente de sua utilidade ou veracidade. O autor ressalta que é o agente humano que manipula a evidência, ou seja, a informação como coisa. Serão então os sistemas de informação modernos os responsáveis por manipular a informação como coisa, e, para o autor, esta será a razão pela qual há uma prevalência deste entendimento de sobre o conceito.
 
 Conceitos em destaque:
 
-- _Processo de comunicação_: ação de transmitir a informação.
-- _Informação como conhecimento_: informação como uma entidade intangível vinculada ao conhecimento.
-- _Informação como coisa_: informação é uma entidade tangível que está contida em meios de suporte que podem transmitir conhecimento.
+- _Informação como processo_: o processo e a ação de criar, codificar, transmitir, comunicar, compartilhar e receber a informação, é o conheciimento transmitido.
+- _Informação como conhecimento_: informação como uma entidade intangível vinculada ao conhecimento, relativo aos processos cognitivos do sujeito.
+- _Informação como coisa_: informação é uma entidade tangível que está contida em meios de suporte que podem transmitir conhecimento, tais como dados e documentos.
 - _Evidência_: sinônimo para informação como coisa, é a informação que muda o estado de conhecimento dos indivíduos.
 
+## Construindo um modelo de análise
 
-**Norbert Wiener**
+O método selecionado para dar conta da complexidade de elementos envolvidos numa proposta de cronografia da Ciência da Informação, objeto deste trabalho, é a construção de uma base de dados em formato de grafos.
 
+A abordagem por grafos, além de já ter sido utilizada por alguns precursores da ciência da informação para a construção de modelos, é uma poderosa ferramenta para lidar com a complexidade do fenômeno informacional. Neste método, os objetos informacionais contidos no texto acima serão representados como um conjunto de elementos (ou "nós") e conexões (ou "arestas") que os unem. Cada elemento ou conexão poderá estar associado a uma variedade de propriedades (ou "metadados") que fornecerão informações adicionais sobre o objeto.
 
+Como um primeiro grupo de componentes teremos a distribuição de tipos de elementos (nós) para:
+- pessoas, conceitos, publicações e fatos notórios.
 
+Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propriedade relacionada, sem maiores detalhes. Com o avançar do entendimento essas conexões serão também classificadas quanto aos seus relacionamentos, podendo assumir também uma direção.
 
-
-
-
-
-
-
-- Teorias da Informação
-- Sociedade da Informação
-
-Breve resumo:
-
-Karl Popper:
-
-teorias científicas podem ser testadas e refutadas empiricamente.
-Thomas Gieryn:
-
-Boundary work: demarcação de campos científicos passa por disputas de poder e tentativas de estabelecimento de monopólios; não apenas uma discussão técnica.
-Shannon-Weaver (1948):
-
-teoria quantitativa da comunicação, empresta termos a outros campos para adaptar o conceito de informação. Conceitos como entropia (desordem) do sistema, quanto maior a entropia (maior a incerteza) -> maior a informação em termos de quantidade de dados necessários.
-Norbert Weiner (1948):
-
-cybernetics, controle e comunicação no animal e na máquina, a sociedade só pode ser compreendida através do estudo das mensagens, por meio dos seus emissores e receptores.
-teoria das mensagens, teoria probabilística da linguagem, 1) tranmissão da mensagem; 2) linguagem; 3) estudo da forma de controle entre animal, homem e máquina. Perspectiva de comunicação e controle entre homem-homem e homem-máquina.
-
-### Primeiro passo
-
-- Autores e conceitos: uma delimitação do percursos histórico
+Abaixo é apresentado um primeiro modelo desse grafo contendo os autores aqui citados e os conceitos em destaque:
 
 
 
-
-- Autores
-- Conceitos
-
-- Delimitação do percurso histórico: Antes de Shannon(AS) e Depois de Shannon (DS)
 
 
 ## Conclusão
