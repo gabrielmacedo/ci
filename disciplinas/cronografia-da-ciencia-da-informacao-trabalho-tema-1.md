@@ -103,17 +103,47 @@ Conceito em destaque:
 
 _Information_: inpiração, animação, o corpo animado pela alma.
 
-É importante ressaltar que a compreensão moderna do conceito de "informação" como uma entidade quantificável e mensurável é uma construção relativamente recente na história do pensamento humano, e que o uso dos termos -_informare_ e _informatio_ na antiguidade, bem como os seus desdobramento, podem ser considerados um precursores desse desenvolvimento conceitual. A compreensão atual do conceito de informação inclui não apenas a forma em que ela é apresentada (palavras escritas, imagens, sons, sinais), bem como o conteúdo que ela carrega (o significado dessas mensagens), mas também o processo de comunicação que se desenrola entre o emissor e o receptor. Isso significa que a informação é mais do que apenas o que está sendo comunicado; é também o processo de comunicação em si. 
+É importante ressaltar que a compreensão moderna do conceito de "informação" como uma entidade quantificável e mensurável é uma construção relativamente recente na história do pensamento humano, e que o uso dos termos -_informare_ e _informatio_ na antiguidade, bem como os seus desdobramento, podem ser considerados um precursores desse desenvolvimento conceitual. 
 
-**Buckland**
+**Século 20**
 
-Buckland (1991)[^2] explora diversas concepções do termo "informação" e reconhece sua polissemia. Segundo o autor, a informação pode ser entendida de três maneiras: 1) como um processo de comunicação, 2) como um conhecimento intangível e 3) como uma coisa tangível, contida em documentos, textos e outros meios que transmitem conhecimento. O autor também apresenta um quarto ponto, relacionado ao processamento da informação, que atravessa as três primeiras concepções. Destaca também o conceito de "evidência" como sinônimo de "informação como coisa". A informação como evidência é aquela que leva a mudanças no estado atual de conhecimento dos indivíduos, independentemente de sua utilidade ou veracidade. O autor ressalta que é o agente humano que manipula a evidência, ou seja, a informação como coisa. Serão então os sistemas de informação modernos os responsáveis por manipular essa informação como coisa, e, para o autor, esta será a razão pela qual há uma prevalência desta abordagem.
+A compreensão atual do conceito de informação inclui não apenas a forma em que ela é apresentada (palavras escritas, imagens, sons, sinais) e o conteúdo que ela carrega (o significado dessas mensagens), mas também o processo de comunicação que se desenrola entre o emissor e o receptor. Em geral, como proposta de sistematização moderna, os conceitos relacionados à informação estão associados a seis aspectos principais: significado, conhecimento, ensino, comunicação, representação e estímulo. Esses elementos são cruciais para uma compreensão mais abrangente da informação, visto que cada um deles representa uma dimensão importante da forma como ela é criada, compartilhada e utilizada nas diversas esferas da sociedade.
 
 Conceitos em destaque:
 
-- _Processo de comunicação_: ação de 
+- _Significado_
+- _Conhecimento_
+- _Ensino_
+- _Comunicação_
+- _Representação_
+- _Estímulo_
+
+O estudo moderno da informação inclui, como elementos fundamentais para a compreensão de suas relações, os processos de produção, transmissão e uso da informação. Esses processos são cruciais para entendermos como a informação é criada, disseminada e utilizada em diferentes contextos, possibilitando uma compreensão mais ampla do papel que ela desempenha na sociedade e na formação da cultura e do conhecimento.
+
+Conceitos em destaque:
+
+- _Processos de produção_
+- _Processos de transmissão_
+- _Processos de uso_
+
+**Buckland**
+
+Buckland (1991)[^2] explora diversas concepções do termo "informação" e reconhece sua polissemia. Segundo o autor, a informação pode ser entendida de três maneiras: 1) como um processo de comunicação, 2) como um conhecimento intangível e 3) como uma coisa tangível, contida em documentos, textos e outros meios que transmitem conhecimento. O autor também apresenta um quarto ponto, relacionado ao processamento da informação, que atravessa as três primeiras concepções. Destaca também o conceito de "evidência" como sinônimo de "informação como coisa". A informação como evidência é aquela que leva a mudanças no estado atual de conhecimento dos indivíduos, independentemente de sua utilidade ou veracidade. O autor ressalta que é o agente humano que manipula a evidência, ou seja, a informação como coisa. Serão então os sistemas de informação modernos os responsáveis por manipular a informação como coisa, e, para o autor, esta será a razão pela qual há uma prevalência deste entendimento de sobre o conceito.
+
+Conceitos em destaque:
+
+- _Processo de comunicação_: ação de transmitir a informação.
+- _Informação como conhecimento_: informação como uma entidade intangível vinculada ao conhecimento.
 - _Informação como coisa_: informação é uma entidade tangível que está contida em meios de suporte que podem transmitir conhecimento.
 - _Evidência_: sinônimo para informação como coisa, é a informação que muda o estado de conhecimento dos indivíduos.
+
+
+**Norbert Wiener**
+
+
+
+
+
 
 
 
@@ -124,7 +154,19 @@ Conceitos em destaque:
 
 Breve resumo:
 
+Karl Popper:
 
+teorias científicas podem ser testadas e refutadas empiricamente.
+Thomas Gieryn:
+
+Boundary work: demarcação de campos científicos passa por disputas de poder e tentativas de estabelecimento de monopólios; não apenas uma discussão técnica.
+Shannon-Weaver (1948):
+
+teoria quantitativa da comunicação, empresta termos a outros campos para adaptar o conceito de informação. Conceitos como entropia (desordem) do sistema, quanto maior a entropia (maior a incerteza) -> maior a informação em termos de quantidade de dados necessários.
+Norbert Weiner (1948):
+
+cybernetics, controle e comunicação no animal e na máquina, a sociedade só pode ser compreendida através do estudo das mensagens, por meio dos seus emissores e receptores.
+teoria das mensagens, teoria probabilística da linguagem, 1) tranmissão da mensagem; 2) linguagem; 3) estudo da forma de controle entre animal, homem e máquina. Perspectiva de comunicação e controle entre homem-homem e homem-máquina.
 
 ### Primeiro passo
 
