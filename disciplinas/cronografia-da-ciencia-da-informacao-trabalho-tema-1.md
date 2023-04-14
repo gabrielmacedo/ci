@@ -3,7 +3,14 @@ title: Trabalho tema 1 - Informação e Sociedade da Informação
 proposta: Resumo dos temas abordando a cronografia. Quais foram as grandes abordagens? Como elas ocorreram? Quais as consequências da abordagem? 
 ---
 
-## Resumo esquemático do tema 1 - Informação e Sociedade da Informação
+PROGRAMA DE PÓS-GRADUAÇÃO EM CIÊNCVIA DA INFORMAÇÃO - IBICT/UFRJ
+Disciplina: Cronografia da Ciência da Informação
+Docente: Lillian Maria Araujo de Rezende Alvares
+Discente: Gabriel Santiago Macedo
+
+Módulo 1: Informação e Sociedade da Informação
+
+## Resumo esquemático 
 
 Compreendemos que o surgimento do conceito de informação está relacionado com a evolução da linguagem, passando pela invenção da escrita até a sua transcrição em diferentes meios de suporte, bem como os processos de transferência de informações entre pessoas e objetos ao longo da história.
 
@@ -20,8 +27,6 @@ A proposta é estudar cada um deles com o nível de detalhe disponível no momen
 O conceito de informação tem uma história rica e complexa que abrange vários campos de estudo, incluindo lingüística, matemática, filosofia, ciência da computação, engenharias e a ciência da informação. Embora não haja consenso sobre uma única definição de informação, consideramos aqui que, de modo abrangente, ela se refere à transmissão e recepção de dados, mensagens, significados e conhecimentos.
 
 ### Antiguidade e precursores do conceito de informação 
-
-> Várias palavras gregas foram traduzidas com informatio ou informo, como hypotyposis (que significa modelo, especialmente em um contexto moral) e prolepsis (representação), mas a maioria dos usos de nível superior estão explicitamente relacionados a eidos, idea, typos e morphe; ou seja, a conceitos-chave da ontologia e epistemologia gregas (Capurro, 1978). Esta relação é claramente o caso de pensadores proeminentes como, por exemplo, Cícero (106-43 a.C.) e Agostinho (354-430 d.C.). No entanto, estes conceitos de nível superior (_higherlevel_) têm suas raízes no uso de corriqueiro (_low-level_) destas palavras, particularmente no contexto primitivo da cerâmica, bem como na experiência grega de _limitation_ e de _shining-forth_ que percebemos sensualmente (phainonemon).[^3]
 
 **Platão**
 
@@ -50,7 +55,7 @@ Conceitos em destaque:
 
 Capurro atribui a Marco Túlio Cícero a provável criação dos termos _informatio_ (substantivo) e _informare_ (verbo) sobre o ato de informar como uma tradução para os termos platônicos.
 
-> Várias palavras gregas foram traduzidas com informatio ou informo, como hypotyposis (que significa modelo, especialmente em um contexto moral) e prolepsis (representação), mas a maioria dos usos de nível superior estão explicitamente relacionados a eidos, idea, typos e morphe; isto é, a conceitos-chave da ontologia e epistemologia grega (Capurro, 1978).[^3]
+> Várias palavras gregas foram traduzidas com informatio ou informo, como hypotyposis (que significa modelo, especialmente em um contexto moral) e prolepsis (representação), mas a maioria dos usos de nível superior estão explicitamente relacionados a eidos, idea, typos e morphe; ou seja, a conceitos-chave da ontologia e epistemologia gregas (Capurro, 1978). Esta relação é claramente o caso de pensadores proeminentes como, por exemplo, Cícero (106-43 a.C.) e Agostinho (354-430 d.C.). No entanto, estes conceitos de nível superior (_higherlevel_) têm suas raízes no uso de corriqueiro (_low-level_) destas palavras, particularmente no contexto primitivo da cerâmica, bem como na experiência grega de _limitation_ e de _shining-forth_ que percebemos sensualmente (phainonemon).[^3]
 
 Conceitos em destaque:
 
@@ -182,17 +187,15 @@ O método selecionado para dar conta da complexidade de elementos envolvidos num
 A abordagem por grafos, além de já ter sido utilizada por alguns precursores da ciência da informação para a construção de modelos, é uma poderosa ferramenta para lidar com a complexidade do fenômeno informacional. Neste método, os objetos informacionais contidos no texto acima serão representados como um conjunto de elementos (ou "nós") e conexões (ou "arestas") que os unem. Cada elemento ou conexão poderá estar associado a uma variedade de propriedades (ou "metadados") que fornecerão informações adicionais sobre o objeto.
 
 Como um primeiro grupo de componentes teremos a distribuição de tipos de elementos (nós) para:
-- pessoas, conceitos, publicações e fatos notórios.
+- pessoas, conceitos, publicações e eventos notórios.
 
-Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propriedade relacionada, sem maiores detalhes. Com o avançar do entendimento essas conexões serão também classificadas quanto aos seus relacionamentos, podendo assumir também uma direção.
+Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propriedade relacionada de forma mútua, sem maiores detalhes. Com o avançar do entendimento essas conexões serão também classificadas quanto aos seus relacionamentos, podendo assumir também uma direção.
 
 Abaixo é apresentado um primeiro modelo desse grafo contendo os autores aqui citados e os conceitos em destaque:
 
+> https://kumu.io/ibict/cronografia
 
-
-
-
-## Conclusão
+É esperado que esse esforço inicial de proposta de um método contribua para os resumos futuros da disciplina.
 
 ## Referências
 
