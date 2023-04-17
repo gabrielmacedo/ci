@@ -194,6 +194,8 @@ A abordagem por grafos, além de já ter sido utilizada por alguns precursores d
 Como um primeiro grupo de componentes teremos a distribuição de tipos de elementos (nós) para:
 - pessoas, conceitos, publicações e eventos notórios.
 
+- Referência de metadadados: BAHNEMANN, G. et al. Transforming metadata into linked data to improve digital collection discoverability: a content pilot project. Dublin, OH: OCLC Research, 2021. [^4]
+
 Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propriedade relacionada de forma mútua, sem maiores detalhes. Com o avançar do entendimento essas conexões serão também classificadas quanto aos seus relacionamentos, podendo assumir também uma direção.
 
 Abaixo é apresentado um primeiro modelo desse grafo contendo os autores aqui citados e os conceitos em destaque:
@@ -209,3 +211,5 @@ Abaixo é apresentado um primeiro modelo desse grafo contendo os autores aqui ci
 [^2]: BUCKLAND, M. K. Information as thing. Journal of the American Society for Information Science, v. 42, n. 5, p. 351-360, 1991.
 
 [^3]: CAPURRO, R., & HJORLAND, B. (2005). The concept of information. Annual Review of Information Science and Technology, 37(1), 343–411. doi:10.1002/aris.1440370109 
+
+[^4]: OCLC, 2021. Disponível em: https://www.oclc.org/research/publications/2021/oclcresearch-transforming-metadata-into-linked-data.html. Acesso em: 17/04/2023.
