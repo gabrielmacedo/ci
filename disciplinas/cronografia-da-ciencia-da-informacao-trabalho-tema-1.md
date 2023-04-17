@@ -191,10 +191,11 @@ O método selecionado para dar conta da complexidade de elementos envolvidos num
 
 A abordagem por grafos, além de já ter sido utilizada por alguns precursores da ciência da informação para a construção de modelos, é uma poderosa ferramenta para lidar com a complexidade do fenômeno informacional. Neste método, os objetos informacionais contidos no texto acima serão representados como um conjunto de elementos (ou "nós") e conexões (ou "arestas") que os unem. Cada elemento ou conexão poderá estar associado a uma variedade de propriedades (ou "metadados") que fornecerão informações adicionais sobre o objeto.
 
-Como um primeiro grupo de componentes teremos a distribuição de tipos de elementos (nós) para:
-- pessoas, conceitos, publicações e eventos notórios.
+- Grupo de componentes teremos a distribuição de tipos de elementos (nós) para: pessoas, conceitos, publicações e eventos notórios.
 
-- Referência de metadadados: BAHNEMANN, G. et al. Transforming metadata into linked data to improve digital collection discoverability: a content pilot project. Dublin, OH: OCLC Research, 2021. [^4]
+- Referência de metadadados: BAHNEMANN, G. et al. Transforming metadata into linked data to improve digital collection discoverability: a content pilot project. Dublin, OH: OCLC Research, 2021.[^4]
+
+![](https://i.imgur.com/k1j0uuN.jpg)
 
 Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propriedade relacionada de forma mútua, sem maiores detalhes. Com o avançar do entendimento essas conexões serão também classificadas quanto aos seus relacionamentos, podendo assumir também uma direção.
 
