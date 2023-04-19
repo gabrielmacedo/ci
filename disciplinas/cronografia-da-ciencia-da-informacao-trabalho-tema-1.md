@@ -1,8 +1,8 @@
 ---
 title: Trabalho tema 1 - Informação e Sociedade da Informação
 author: Gabriel Santiago Macedo
-  affiliation: Universidade Federal do Rio de Janeiro - UFRJ  
-  email: gabrielmacedo@discente.unb.br
+affiliation: Universidade Federal do Rio de Janeiro - UFRJ  
+email: gabrielmacedo@discente.unb.br
 date: 19/04/2023
 abstract: Resumo dos temas abordando a cronografia. Quais foram as grandes abordagens? Como elas ocorreram? Quais as consequências da abordagem? 
 
