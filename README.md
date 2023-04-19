@@ -29,6 +29,11 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - [Chat PDF](https://www.chatpdf.com/) - Chat with any PDF
 - [ShareGPT](https://sharegpt.com/) - Compartilhar sessão do chatGPT com um clique e url persistente
 
+
+### Escrita de artigos acadêmicos
+
+- [Manubot](https://greenelab.github.io/meta-review/) - Manuscrito descrevendo a escrita colaborativa aberta com Manubot
+
 ### Metabuscadores
 
 **Baseados em termos/texto de busca**:
