@@ -18,7 +18,10 @@ author: >-
 #    orcid: 0000-0001-8845-7985
 #    affiliation: 1
 # affiliations:
-#  - name: Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI)
+#  - name: 
+#      Universidade Federal do Rio de Janeiro (UFRJ), Instituto 
+#      Brasileiro de Informação em Ciência e Tecnologia (IBICT), 
+#      Programa de Pós-Gradução em Ciência da Informação (PPGCI)
 #    index: 1
 date: 19/04/2023
 abstract: >-
@@ -56,10 +59,7 @@ license:
 bibliography: biblioteca.bib
 lang: pt-BR
 draft: true
-
 ---
-
-- Autor: Gabriel Santiago Macedo^[Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI), gabrielmacedo@discente.ibict.br, orcid 0000-0001-8845-7985; Disciplina - Cronografia da Ciência da Informação, Docente - Lillian Maria Araujo de Rezende Alvares.]
 
 # Módulo 1: Informação e Sociedade da Informação
 
