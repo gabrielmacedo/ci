@@ -53,7 +53,7 @@ Conceitos em destaque:
 
 Capurro atribui a Marco Túlio Cícero a provável criação dos termos _informatio_ (substantivo) e _informare_ (verbo) sobre o ato de informar como uma tradução para os termos platônicos.
 
-> Várias palavras gregas foram traduzidas com informatio ou informo, como hypotyposis (que significa modelo, especialmente em um contexto moral) e prolepsis (representação), mas a maioria dos usos de nível superior estão explicitamente relacionados a eidos, idea, typos e morphe; ou seja, a conceitos-chave da ontologia e epistemologia gregas (Capurro, 1978). Esta relação é claramente o caso de pensadores proeminentes como, por exemplo, Cícero (106-43 a.C.) e Agostinho (354-430 d.C.). No entanto, estes conceitos de nível superior (_higherlevel_) têm suas raízes no uso de corriqueiro (_low-level_) destas palavras, particularmente no contexto primitivo da cerâmica, bem como na experiência grega de _limitation_ e de _shining-forth_ que percebemos sensualmente (phainonemon).[^3]
+> > Várias palavras gregas foram traduzidas com informatio ou informo, como hypotyposis (que significa modelo, especialmente em um contexto moral) e prolepsis (representação), mas a maioria dos usos de nível superior estão explicitamente relacionados a eidos, idea, typos e morphe; ou seja, a conceitos-chave da ontologia e epistemologia gregas (Capurro, 1978). Esta relação é claramente o caso de pensadores proeminentes como, por exemplo, Cícero (106-43 a.C.) e Agostinho (354-430 d.C.). No entanto, estes conceitos de nível superior (_higherlevel_) têm suas raízes no uso de corriqueiro (_low-level_) destas palavras, particularmente no contexto primitivo da cerâmica, bem como na experiência grega de _limitation_ e de _shining-forth_ que percebemos sensualmente (phainonemon).[@capurro2005]
 
 Conceitos em destaque:
 
@@ -77,7 +77,7 @@ Conceitos em destaque:
 
 **São Tomás de Aquino**
 
-Para Capurro[@capurro2005], São Tomás de Aquino entende o homem como uma relação imbricada entre a matéria e a alma (_anima_), sendo a informação o princípio ativo da alma que passa para a matéria e origina um ser sensitivo.
+Para Capurro [@capurro2005], São Tomás de Aquino entende o homem como uma relação imbricada entre a matéria e a alma (_anima_), sendo a informação o princípio ativo da alma que passa para a matéria e origina um ser sensitivo.
 
 Conceitos em destaque:
 
