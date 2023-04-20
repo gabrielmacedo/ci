@@ -95,7 +95,7 @@ Conceitos em destaque:
 - _Humanitas_
 - _Qualitas_
 - _Quantitas_
-
+ 
 **Santo Agostinho**
 
 A compreensão do pensamento humano é realizada através de três processos mentais: 1) a sensbilidade que se dá pela percepção; 2) a memória percebida pela visão, chamada _informatio_; e 3) o ato de pensar. Estabelece as regras para a vida nos mosteiros, entre elas a _Regularis informatio_ ou _Regula sororum_.
