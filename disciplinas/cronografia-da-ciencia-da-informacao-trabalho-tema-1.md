@@ -169,7 +169,7 @@ A Ciência da Informação tem sua origem na informação científica. Criou o V
 
 **Buckland**
 
-Buckland [@buckland1991][^2] explora diversas concepções do termo "informação" e reconhece sua polissemia. Segundo o autor, a informação pode ser entendida de três maneiras: 1) como um processo de comunicação, 2) como um conhecimento intangível e 3) como uma coisa tangível, contida em documentos, textos e outros meios que transmitem conhecimento. O autor também apresenta um quarto ponto, relacionado ao processamento da informação, que atravessa as três primeiras concepções. Destaca também o conceito de "evidência" como sinônimo de "informação como coisa". A informação como evidência é aquela que leva a mudanças no estado atual de conhecimento dos indivíduos, independentemente de sua utilidade ou veracidade. O autor ressalta que é o agente humano que manipula a evidência, ou seja, a informação como coisa. Serão então os sistemas de informação modernos os responsáveis por manipular a informação como coisa, e, para o autor, esta será a razão pela qual há uma prevalência deste entendimento de sobre o conceito.
+Buckland [@buckland1991] explora diversas concepções do termo "informação" e reconhece sua polissemia. Segundo o autor, a informação pode ser entendida de três maneiras: 1) como um processo de comunicação, 2) como um conhecimento intangível e 3) como uma coisa tangível, contida em documentos, textos e outros meios que transmitem conhecimento. O autor também apresenta um quarto ponto, relacionado ao processamento da informação, que atravessa as três primeiras concepções. Destaca também o conceito de "evidência" como sinônimo de "informação como coisa". A informação como evidência é aquela que leva a mudanças no estado atual de conhecimento dos indivíduos, independentemente de sua utilidade ou veracidade. O autor ressalta que é o agente humano que manipula a evidência, ou seja, a informação como coisa. Serão então os sistemas de informação modernos os responsáveis por manipular a informação como coisa, e, para o autor, esta será a razão pela qual há uma prevalência deste entendimento de sobre o conceito.
 
 Conceitos em destaque:
 
@@ -201,11 +201,3 @@ Abaixo é apresentado um primeiro modelo desse grafo contendo os autores aqui ci
 É esperado que esse esforço inicial de proposta de um método contribua para os resumos futuros da disciplina.
 
 ## Referências
-
-[^1]: BBC, 2017: O que diz o primeiro documento escrito da história. Disponível em: https://www.bbc.com/portuguese/geral-39842626. Acesso em: 13/04/2023.
-
-[^2]: BUCKLAND, M. K. Information as thing. Journal of the American Society for Information Science, v. 42, n. 5, p. 351-360, 1991.
-
-[^3]: CAPURRO, R., & HJORLAND, B. (2005). The concept of information. Annual Review of Information Science and Technology, 37(1), 343–411. doi:10.1002/aris.1440370109 
-
-[^4]: OCLC, 2021. Disponível em: https://www.oclc.org/research/publications/2021/oclcresearch-transforming-metadata-into-linked-data.html. Acesso em: 17/04/2023.
