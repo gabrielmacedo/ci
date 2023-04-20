@@ -190,7 +190,7 @@ A abordagem por grafos, além de já ter sido utilizada por alguns precursores d
 
 ![](https://i.imgur.com/k1j0uuN.jpg)
 
-Fonte: OCLC, 2021.[^4]
+Fonte: [@bahnemann2021]
 
 Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propriedade relacionada de forma mútua, sem maiores detalhes. Com o avançar do entendimento essas conexões serão também classificadas quanto aos seus relacionamentos, podendo assumir também uma direção.
 
