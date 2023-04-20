@@ -1,7 +1,7 @@
 ---
-title: Resumo Módulo 1
-subtitle: Informação e Sociedade da Informação
-authors:
+title: Resumo Módulo 1 - Informação e Sociedade da Informação
+# subtitle: Informação e Sociedade da Informação
+author:
 - name: Gabriel Santiago Macedo
   email: gabrielmacedo@discente.ibict.br
   orcid: 0000-0001-8845-7985
