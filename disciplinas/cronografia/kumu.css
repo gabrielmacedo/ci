@@ -1,0 +1,62 @@
+@controls {
+  toolbar: false;
+
+  bottom {
+    showcase {
+      target: element;
+      by: "element type";
+      as: labels;
+      multiple: true;
+      default: select-all;
+      mode: normal;
+    }
+  }
+}
+
+@settings {
+  template: stakeholder;
+  element-color: categorize("Element Type", neon2);
+  direct-decorations: true;
+  element-size: 30;
+  connection-size: 7;
+  connection-curvature: 0.11;
+  font-size: 34;
+}
+
+creative-work {
+  icon: book solid;
+}
+
+concept {
+  icon: ball solid;
+  bullseye: solid;
+  bullseye-color: #000000;
+}
+
+event {
+  icon: graduation-cap solid;
+}
+
+person {
+  size: 50;
+  shadow-color: #fd7234;
+  shadow-size: 2;
+}
+
+/* elements:  */
+organization {
+  icon: building;
+  color: transparent;
+  size: 60;
+  shadow-color: #d93e4a;
+  shadow-opacity: 0.2;
+  shadow-size: 2;
+}
+
+element {
+  popover: "<div>{{image}}</div></br> <div>{{label}} </div> </br></div> {{description}} </br></br></div> <div>TAGS:</div></br> <div> {{tags}} </div>";
+}
+
+connection {
+  popover: "**{{label}}** </br> {{description}}";
+}
