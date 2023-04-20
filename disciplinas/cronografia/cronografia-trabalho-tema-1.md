@@ -78,7 +78,7 @@ A proposta é estudar cada um deles com o nível de detalhe disponível no momen
 
 ## Conceito de Informação
 
-O conceito de informação tem uma história rica e complexa que abrange vários campos de estudo, incluindo linguística, matemática, filosofia, ciência da computação, engenharias e a ciência da informação. Embora não haja consenso sobre uma única definição de informação, consideramos aqui que, de modo abrangente, ela se refere à transmissão e recepção de dados, mensagens, significados e conhecimentos.
+O conceito de informação tem uma história rica e complexa que abrange vários campos de estudo, incluindo linguística, matemática, filosofia, ciência da computação, engenharias e a ciência da informação. Embora não haja consenso sobre uma única definição de informação, consideramos aqui que, de modo abrangente, ela se refere à transmissão e recepção de dados, mensagens, significados e conhecimentos [@day2001].
 
 Dado que o propósito deste estudo reside, inicialmente, na identificação dos autores e conceitos-chave do campo da ciência da informação, as próximas seções se dedicarão a examinar essas duas categorias de conteúdo, as quais serão posteriormente integradas por meio da utilização de uma base de dados com grafos.
 
