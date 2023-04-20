@@ -5,13 +5,13 @@ tags:
   - science information
   - chronography
 author: >-
-Gabriel Santiago Macedo^[Universidade Federal do Rio de
-Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e
-Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da 
-Informação (PPGCI), gabrielmacedo@discente.ibict.br, 
-[orcid:0000-0001-8845-7985](https://orcid.org/0000-0001-8845-7985);
-Disciplina - Cronografia da Ciência da Informação, Docente - 
-Lillian Maria Araujo de Rezende Alvares.]
+    Gabriel Santiago Macedo^[Universidade Federal do Rio de
+    Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e
+    Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da 
+    Informação (PPGCI), gabrielmacedo@discente.ibict.br, 
+    [orcid:0000-0001-8845-7985](https://orcid.org/0000-0001-8845-7985);
+    Disciplina - Cronografia da Ciência da Informação, Docente - 
+    Lillian Maria Araujo de Rezende Alvares.]
 # authors:
 #  - name: Gabriel Santiago Macedo
 #    email: gabrielmacedo@discente.ibict.br
