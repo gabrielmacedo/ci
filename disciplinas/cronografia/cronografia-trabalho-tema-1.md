@@ -242,9 +242,9 @@ A abordagem por grafos, além de já ter sido utilizada por alguns precursores d
 
 - Grupo de componentes teremos a distribuição de tipos de elementos (nós) para: pessoas, conceitos, publicações e eventos notórios.
 
-- Referência para o conjunto de metadados [@bahnemann2021].
+- Referência para o conjunto de metadados adaptada de uma ontologia de classes proposta pela OCLC [@bahnemann2021].
 
-![CONTENTdm Class Hierarchy Data Model [@bahnemann2021].](https://i.imgur.com/k1j0uuN.jpg)
+![CONTENTdm Class Hierarchy Data Model [@bahnemann2021].](https://researchworks.oclc.org/cdmld/screenshots/class-ontology.png)
 
 Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propriedade relacionada de forma mútua, sem maiores detalhes. Com o avançar do entendimento essas conexões serão também classificadas quanto aos seus relacionamentos, podendo assumir também uma direção.
 
