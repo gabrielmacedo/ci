@@ -207,8 +207,6 @@ Abaixo é apresentado um primeiro modelo desse grafo contendo os autores aqui ci
 
 É esperado que esse esforço inicial de proposta de um método contribua para os resumos futuros da disciplina.
 
-## Referências
-
 [^1]: BBC, 2017: O que diz o primeiro documento escrito da história. Disponível em: https://www.bbc.com/portuguese/geral-39842626. Acesso em: 13/04/2023.
 
 [^2]: BUCKLAND, M. K. Information as thing. Journal of the American Society for Information Science, v. 42, n. 5, p. 351-360, 1991.
