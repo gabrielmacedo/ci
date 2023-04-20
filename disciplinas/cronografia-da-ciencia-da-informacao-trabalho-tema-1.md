@@ -9,6 +9,22 @@ author:
     organization: Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI)
 date: 19/04/2023
 abstract: Resumo do tema 1 da disciplina "Cronografia da Ciência da Informação",  "Informação e Sociedade da Informação", Docente - Lillian Maria Araujo de Rezende Alvares. O texto tem por objetivo apresentar uma breve referência aos autores e principais conceitos estudados. Como método os resumos elaborados usarão um modelo de aproximação sucessiva do problema, tendo como referência de partida a construção de uma base de dados com grafos, também conhecida como _knowledge graph_ ou grafo de conhecimento, para estabelecer os relacionamentos entre os elementos, as conexões e os metadados que farão parte dessa proposta. Com o avanço do tema e o surgimento de novos conceitos e abordagens, o grafo de conhecimento ganhará referências de web semântica e vínculos com a Wikidata, visando expandir a experiência de descoberta sobre a duração dos acontecimentos que constituem a cronografia da Ciência da Informação.
+copyright:
+  statement: >-
+    © 2023 The author. Published under a CC BY-SA 4.0 license.
+  year: 2023
+  holder: Gabriel Santiago Macedo
+license:
+  - text: >-
+      This work is licensed under a Creative Commons
+      Attribution-ShareAlike 4.0 International License.
+    type: open-access
+    link: 'https://creativecommons.org/licenses/by-sa/4.0/'
+  - >-
+      The copyright holder grants the IBICT permission to 
+      archive and post a copy of this paper on the Journal
+      Article websites.
+bibliography: biblioteca.bib
 lang: pt-BR
 
 ---
