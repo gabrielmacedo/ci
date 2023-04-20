@@ -256,7 +256,7 @@ A seguir é apresentado um primeiro modelo dessa proposta de grafo contendo auto
 
 Com a utilização de metadados da Wikidata as consultas poderão ganhar um escopo imersivo e se beneficiar da grande massa de dados ligados (_linked data_) disponíveis na rede. Uma consulta SPARQL na Wikidata ao elemento ([Q92760](https://w.wiki/6cCc)), correspondente à Claude Shannon, pode retornar uma série de propriedades e fatos relacionados. 
 
-Consulta SPARQL na Wikidata ao item wdt:P50 (autor) wd:Q92760 (Claude Shannon):
+Consulta SPARQL na Wikidata ao item wdt:P50 (autor) wd:Q92760 (Claude Shannon)[@wikidata_contributors_q92760_2023]:
 ```SPARQL
 SELECT ?item ?itemLabel ?image
 WHERE {
@@ -268,7 +268,7 @@ WHERE {
 
 No exemplo a seguir selecionamos o elemento (Q724029) que identifica o seu trabalho seminal "A Mathematical Theory of Communication", de 1948, junto com  as premiações recebidas pelo autor: 
 
-![](https://user-images.githubusercontent.com/20596966/233453449-32d71a74-db2f-4646-9c9c-02625fc086cb.png)
+![Wikidata - Q92760 [@wikidata_contributors_q92760_2023].](https://user-images.githubusercontent.com/20596966/233453449-32d71a74-db2f-4646-9c9c-02625fc086cb.png)
 
 É esperado que esse esforço inicial de proposta de um método contribua para a organização do conhecimento e a sua representação nos resumos dos próximos temas da disciplina.
 
