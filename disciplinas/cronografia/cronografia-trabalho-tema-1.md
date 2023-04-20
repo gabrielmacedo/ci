@@ -268,10 +268,7 @@ WHERE {
 
 No exemplo a seguir selecionamos o elemento (Q724029) que identifica o seu trabalho seminal "A Mathematical Theory of Communication", de 1948, junto com  as premiações recebidas pelo autor: 
 
-![](https://user-images.githubusercontent.com/20596966/233427122-5d686e72-b996-4f60-b304-562e8ca5d5c3.png)
-
 ![](https://user-images.githubusercontent.com/20596966/233453449-32d71a74-db2f-4646-9c9c-02625fc086cb.png)
-
 
 É esperado que esse esforço inicial de proposta de um método contribua para a organização do conhecimento e a sua representação nos resumos dos próximos temas da disciplina.
 
