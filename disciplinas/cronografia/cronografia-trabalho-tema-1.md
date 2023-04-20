@@ -261,8 +261,10 @@ Consulta SPARQL na Wikidata ao item wdt:P50 (autor) wd:Q92760 (Claude Shannon)[@
 SELECT ?item ?itemLabel ?image
 WHERE {
  ?item wdt:P50 wd:Q92760.
- OPTIONAL { ?item wdt:P18 ?image } .
- SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+ OPTIONAL { ?item wdt:P18 ?image }.
+ SERVICE wikibase:label  
+ { bd:serviceParam wikibase:
+ language "en". }
 }
 ```
 
