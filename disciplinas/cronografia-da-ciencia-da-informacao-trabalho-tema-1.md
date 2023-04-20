@@ -1,5 +1,5 @@
 ---
-title: Resumo Módulo 1 - Informação e Sociedade da Informação
+title: Módulo 1 - Informação e Sociedade da Informação
 # subtitle: Informação e Sociedade da Informação
 tags:
   - science information
@@ -25,7 +25,7 @@ author: >-
 #    index: 1
 date: 19/04/2023
 abstract: >-
-    Resumo do tema 1 da disciplina "Cronografia da Ciência da 
+    Módulo 1 da disciplina "Cronografia da Ciência da 
     Informação",  "Informação e Sociedade da Informação", 
     Docente - Lillian Maria Araujo de Rezende Alvares. O texto 
     tem por objetivo apresentar uma breve referência aos autores 
