@@ -23,8 +23,8 @@ license:
     link: 'https://creativecommons.org/licenses/by-sa/4.0/'
   - >-
       The copyright holder grants the IBICT permission to 
-      archive and post a copy of this paper on the Journal
-      Article websites.
+      archive and post a copy of this paper in the journal 
+      article databases.
 bibliography: biblioteca.bib
 lang: pt-BR
 
