@@ -188,7 +188,7 @@ A abordagem por grafos, além de já ter sido utilizada por alguns precursores d
 
 - Referência de metadadados: BAHNEMANN, G. et al. Transforming metadata into linked data to improve digital collection discoverability: a content pilot project. Dublin, OH: OCLC Research, 2021.
 
-![OCLC Research, 2021 [@bahnemann2021].](https://i.imgur.com/k1j0uuN.jpg){ width=600px }
+![CONTENTdm Class Hierarchy Data Model [@bahnemann2021].](https://i.imgur.com/k1j0uuN.jpg){ width=400px }
 
 Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propriedade relacionada de forma mútua, sem maiores detalhes. Com o avançar do entendimento essas conexões serão também classificadas quanto aos seus relacionamentos, podendo assumir também uma direção.
 
