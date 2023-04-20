@@ -1,0 +1,5 @@
+Código para gerar artigo em PDF no Pandoc usando
+
+Bash (Linux): pandoc -s https://raw.githubusercontent.com/gabrielmacedo/ci/main/disciplinas/cronografia/cronografia-trabalho-tema-1.md -V 'geometry: top=2cm, left=2cm, right=2cm, bottom=2cm' -V 'linestretch:1' -V 'pagestyle:plain' -V 'fontsize=11pt' -V 'linkcolor:blue' -V 'classoption=twocolumn' -V 'monofont:DejaVuSansMono' --csl=/mnt/c/Users/gabriel.macedo/Desktop/converter-artigo/abnt.csl --bibliography=/mnt/c/Users/gabriel.macedo/Desktop/converter-artigo/biblioteca.bib -o artigo-bash.pdf
+
+Powershell (Windows): pandoc -s https://raw.githubusercontent.com/gabrielmacedo/ci/main/disciplinas/cronografia/cronografia-trabalho-tema-1.md --pdf-engine=xelatex -V 'geometry: top=3cm, left=3cm, right=2cm, bottom=2cm' -V 'linestretch:1' -V 'pagestyle:plain' -V 'fontsize=11pt' -V 'linkcolor:blue' -V 'classoption=twocolumn' "--csl=https://raw.githubusercontent.com/gabrielmacedo/ci/main/abnt.csl" --citeproc "--bibliography=https://raw.githubusercontent.com/gabrielmacedo/ci/main/biblioteca.bib" -o artigo-powershell.pdf
