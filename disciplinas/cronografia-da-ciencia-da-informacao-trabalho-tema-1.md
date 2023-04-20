@@ -23,13 +23,13 @@ A proposta é estudar cada um deles com o nível de detalhe disponível no momen
 
 ## Conceito de Informação
 
-O conceito de informação tem uma história rica e complexa que abrange vários campos de estudo, incluindo lingüística, matemática, filosofia, ciência da computação, engenharias e a ciência da informação. Embora não haja consenso sobre uma única definição de informação, consideramos aqui que, de modo abrangente, ela se refere à transmissão e recepção de dados, mensagens, significados e conhecimentos.
+O conceito de informação tem uma história rica e complexa que abrange vários campos de estudo, incluindo linguística, matemática, filosofia, ciência da computação, engenharias e a ciência da informação. Embora não haja consenso sobre uma única definição de informação, consideramos aqui que, de modo abrangente, ela se refere à transmissão e recepção de dados, mensagens, significados e conhecimentos.
 
 ### Antiguidade e precursores do conceito de informação 
 
 **Platão**
 
-A origem da concepção de informação no mundo ocidental remonta ao pensamento de Platão e está relacionada à epistemologia e à ontologia, incluindo a raiz da palavra forma na palavra infromação. A contribuição de Platão foi especialmente em relação à teoria das formas ou teoria das ideias. A teoria das formas de Platão sugere que existem tipos de formas ou ideias que são independentes do mundo físico que experimentamos. O impacto desta teoria está associado à identificação e definição de conceitos e de categorias fundamentais, de que a informação pode ser abstraída do mundo físico e organizada de acordo com princípios ou categorias. Esta noção terá impacto no desenvolvimento posterior de modelos de recuperação de informações baseados em regras e em padrões lógicos, bem como no desenvolvimento de linguagens de representação para bancos de dados.
+A origem da concepção de informação no mundo ocidental remonta ao pensamento de Platão e está relacionada à epistemologia e à ontologia, incluindo a raiz da palavra forma na palavra informação. A contribuição de Platão foi especialmente em relação à teoria das formas ou teoria das ideias. A teoria das formas de Platão sugere que existem tipos de formas ou ideias que são independentes do mundo físico que experimentamos. O impacto desta teoria está associado à identificação e definição de conceitos e de categorias fundamentais, de que a informação pode ser abstraída do mundo físico e organizada de acordo com princípios ou categorias. Esta noção terá impacto no desenvolvimento posterior de modelos de recuperação de informações baseados em regras e em padrões lógicos, bem como no desenvolvimento de linguagens de representação para bancos de dados.
 
 Conceitos em destaque:
 
@@ -98,7 +98,7 @@ Em 1870 o surgimento da grafia _information_ com o sentido de inspiração, anim
 
 Conceito em destaque:
 
-- _Information_: inpiração, animação, o corpo animado pela alma.
+- _Information_: inspiração, animação, o corpo animado pela alma.
 
 É importante ressaltar que a compreensão moderna do conceito de "informação" como uma entidade quantificável e mensurável é uma construção relativamente recente na história do pensamento humano, e que o uso dos termos -_informare_ e _informatio_ na antiguidade, bem como os seus desdobramento, podem ser considerados um precursores desse desenvolvimento conceitual. 
 
@@ -130,7 +130,7 @@ Conceitos em destaque:
 - _Informação é extensiva_: ampla, genérica e sua aplicação pode ser considerada para um número amplo de pessoas ou coisas, passa por um processo aditivo de se somar ao que já estava presente, é reprodutível e é transmissível.
 - _Informação reduz a incerteza_: a quantidade de informações disponíveis reduz diretamente a incerteza, quanto maior a quantidade de informação na mensagem mais precisa ela se torna.
 
-É possível, de forma sintética, separar a compreensão do fenômeno informacional já no século 20 em duas abordagens: as teorias quantitivas da informação e as teorias qualitativas da informação.
+É possível, de forma sintética, separar a compreensão do fenômeno informacional já no século 20 em duas abordagens: as teorias quantitativas da informação e as teorias qualitativas da informação.
 
 **Teorias quantitativas da informação**
 
@@ -155,7 +155,7 @@ Conceitos em destaque:
 
 - Abordagem Estrutural: as estruturas da natureza possuem informação e elas estão disponíveis independente da capacidade de apreensão pelos seres humanos, a informação é uma característica dos objetos físicos.
 - Abordagem do Conhecimento: a informação existe a partir do momento que ela é conhecida, ou seja, que as pessoas percebam as estruturas da natureza.
-- Abordagem da Mensagem: informação é sinônimo da mensagem a ser transmitida, é usada para os trabalhos que envolvem, por exemplo, a Teoria Matemática da Comunicação desenvovlida por Shannon e Weaver.
+- Abordagem da Mensagem: informação é sinônimo da mensagem a ser transmitida, é usada para os trabalhos que envolvem, por exemplo, a Teoria Matemática da Comunicação desenvolvida por Shannon e Weaver.
 - Abordagem do Significado: apenas o conteúdo e o significado da mensagem é considerado informação, a informação é o que ele produz de conhecimento.
 - Abordagem do Efeito: a informação só acontece se ela produz um efeito em quem a partilha, se ela muda o estado atual do que se sabe, é usada nos estudos de usuário e nas ciências comportamentais.
 - Abordagem do Processo: a informação é o próprio processo de geração, transmissão, armazenamento e recuperação da informação, ela não é apenas "um" dos processos.
@@ -174,7 +174,7 @@ Buckland [@buckland1991] explora diversas concepções do termo "informação" e
 
 Conceitos em destaque:
 
-- _Informação como processo_: o processo e a ação de criar, codificar, transmitir, comunicar, compartilhar e receber a informação, é o conheciimento transmitido.
+- _Informação como processo_: o processo e a ação de criar, codificar, transmitir, comunicar, compartilhar e receber a informação, é o conhecimento transmitido.
 - _Informação como conhecimento_: informação como uma entidade intangível vinculada ao conhecimento, relativo aos processos cognitivos do sujeito.
 - _Informação como coisa_: informação é uma entidade tangível que está contida em meios de suporte que podem transmitir conhecimento, tais como dados e documentos.
 - _Evidência_: sinônimo para informação como coisa, é a informação que muda o estado de conhecimento dos indivíduos.
@@ -187,7 +187,7 @@ A abordagem por grafos, além de já ter sido utilizada por alguns precursores d
 
 - Grupo de componentes teremos a distribuição de tipos de elementos (nós) para: pessoas, conceitos, publicações e eventos notórios.
 
-- Referência de metadadados: BAHNEMANN, G. et al. Transforming metadata into linked data to improve digital collection discoverability: a content pilot project. Dublin, OH: OCLC Research, 2021.
+- Referência de metadados: BAHNEMANN, G. et al. Transforming metadata into linked data to improve digital collection discoverability: a content pilot project. Dublin, OH: OCLC Research, 2021.
 
 ![CONTENTdm Class Hierarchy Data Model [@bahnemann2021].](https://i.imgur.com/k1j0uuN.jpg){ width=400px }
 
