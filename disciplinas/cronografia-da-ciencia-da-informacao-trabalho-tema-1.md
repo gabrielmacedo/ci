@@ -4,14 +4,15 @@ title: Resumo Módulo 1 - Informação e Sociedade da Informação
 tags:
   - science information
   - chronography
-authors:
-  - name: Gabriel Santiago Macedo
-    email: gabrielmacedo@discente.ibict.br
-    orcid: 0000-0001-8845-7985
-    affiliation: 1
-affiliations:
-  - name: Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI)
-    index: 1
+author: Gabriel Santiago Macedo^[Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI), gabrielmacedo@discente.ibict.br, [orcid 0000-0001-8845-7985](https://orcid.org/0000-0001-8845-7985); Disciplina - Cronografia da Ciência da Informação, Docente - Lillian Maria Araujo de Rezende Alvares.]
+# authors:
+#  - name: Gabriel Santiago Macedo
+#    email: gabrielmacedo@discente.ibict.br
+#    orcid: 0000-0001-8845-7985
+#    affiliation: 1
+#affiliations:
+#  - name: Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI)
+#    index: 1
 date: 19/04/2023
 abstract: Resumo do tema 1 da disciplina "Cronografia da Ciência da Informação",  "Informação e Sociedade da Informação", Docente - Lillian Maria Araujo de Rezende Alvares. O texto tem por objetivo apresentar uma breve referência aos autores e principais conceitos estudados. Como método os resumos elaborados usarão um modelo de aproximação sucessiva do problema, tendo como referência de partida a construção de uma base de dados com grafos, também conhecida como _knowledge graph_ ou grafo de conhecimento, para estabelecer os relacionamentos entre os elementos, as conexões e os metadados que farão parte dessa proposta. Com o avanço do tema e o surgimento de novos conceitos e abordagens, o grafo de conhecimento ganhará referências de web semântica e vínculos com a Wikidata, visando expandir a experiência de descoberta sobre a duração dos acontecimentos que constituem a cronografia da Ciência da Informação.
 copyright:
