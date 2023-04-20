@@ -248,7 +248,7 @@ A abordagem por grafos, além de já ter sido utilizada por alguns precursores d
 
 Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propriedade relacionada de forma mútua, sem maiores detalhes. Com o avançar do entendimento essas conexões serão também classificadas quanto aos seus relacionamentos, podendo assumir também uma direção.
 
-Abaixo é apresentado um primeiro modelo desse grafo contendo os autores aqui citados e os conceitos em destaque: https://kumu.io/ibict/cronografia.
+A seguir é apresentado um primeiro modelo dessa proposta de grafo contendo autores e conceitos destacados: https://kumu.io/ibict/cronografia.
 
 ![Kumu.io - organização por grupos [@macedo_cronografia_2023].](https://user-images.githubusercontent.com/20596966/233405407-5e4cc4c8-c4f4-4668-9cc9-2679b0fdcfb3.png "Organização por grupos")
 
