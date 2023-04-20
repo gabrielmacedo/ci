@@ -234,7 +234,7 @@ Conceitos em destaque:
 - _Informação como coisa_: informação é uma entidade tangível que está contida em meios de suporte que podem transmitir conhecimento, tais como dados e documentos.
 - _Evidência_: sinônimo para informação como coisa, é a informação que muda o estado de conhecimento dos indivíduos.
 
-## Construindo um modelo de análise
+## A construção de um modelo de análise
 
 O método selecionado para dar conta da complexidade de elementos envolvidos numa proposta de cronografia da Ciência da Informação, objeto deste trabalho, é a construção de uma base de dados em formato de grafos.
 
