@@ -254,7 +254,7 @@ A seguir é apresentado um primeiro modelo dessa proposta de grafo contendo auto
 
 ![Kumu.io - organização por grafo [@macedo_cronografia_2023].](https://user-images.githubusercontent.com/20596966/233407309-4d131b13-4906-490f-bd1a-2d1c0d4eef18.png "Organização por grafo")
 
-Consulta Wikidata, Cluade Shannon: https://w.wiki/6cCc
+Com a utilização de metadados da Wikidata as consultas poderão ganhar um escopo imersivo e se beneficiar da grande massa de dados ligados (_linked data_) disponíveis na rede. Uma consulta SPARQL na Wikidata ao elemento ([Q92760](https://w.wiki/6cCc)), correspondente à Claude Shannon, pode retornar uma série de propriedades e fatos relacionados. No exemplo a seguir selecionamos o elemento (Q724029) que identifica o seu trabalho seminal "A Mathematical Theory of Communication", de 1948, junto com  as premiações recebidas pelo autor: 
 
 ![](https://user-images.githubusercontent.com/20596966/233427122-5d686e72-b996-4f60-b304-562e8ca5d5c3.png)
 
