@@ -250,9 +250,9 @@ Nesse primeiro passo, as conexões (arestas) assumirão apenas o papel de propri
 
 Abaixo é apresentado um primeiro modelo desse grafo contendo os autores aqui citados e os conceitos em destaque: https://kumu.io/ibict/cronografia.
 
-![Kumu.io: organização por grupos [@macedo_cronografia_2023]](https://user-images.githubusercontent.com/20596966/233405407-5e4cc4c8-c4f4-4668-9cc9-2679b0fdcfb3.png "Organização por grupos")
+![Kumu.io - organização por grupos [@macedo_cronografia_2023].](https://user-images.githubusercontent.com/20596966/233405407-5e4cc4c8-c4f4-4668-9cc9-2679b0fdcfb3.png "Organização por grupos")
 
-![Kumu.io: organização por grafo [@macedo_cronografia_2023]](https://user-images.githubusercontent.com/20596966/233407309-4d131b13-4906-490f-bd1a-2d1c0d4eef18.png "Organização por grafo")
+![Kumu.io - organização por grafo [@macedo_cronografia_2023].](https://user-images.githubusercontent.com/20596966/233407309-4d131b13-4906-490f-bd1a-2d1c0d4eef18.png "Organização por grafo")
 
 É esperado que esse esforço inicial de proposta de um método contribua para a organização do conhecimento e a sua representação nos resumos dos próximos temas da disciplina.
 
