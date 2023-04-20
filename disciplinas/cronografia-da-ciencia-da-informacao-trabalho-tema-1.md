@@ -1,6 +1,6 @@
 ---
 title: Trabalho tema 1 - Informação e Sociedade da Informação
-author: Gabriel Santiago Macedo^[Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-gradução em Ciência da Informação (PPGCI), gabrielmacedo@discente.ibict.br]
+author: Gabriel Santiago Macedo^[Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI), gabrielmacedo@discente.ibict.br]
 date: 19/04/2023
 abstract: Resumo dos temas abordando a cronografia. Quais foram as grandes abordagens? Como elas ocorreram? Quais as consequências da abordagem? 
 
