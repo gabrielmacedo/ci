@@ -57,7 +57,7 @@ license:
       archive and post a copy of this paper in the journal 
       article databases.
 bibliography: "https://raw.githubusercontent.com/gabrielmacedo/ci/main/biblioteca.bib"
-csl: "https://github.com/gabrielmacedo/ci/raw/main/ibict.csl"
+csl: "https://github.com/gabrielmacedo/ci/raw/main/abnt.csl"
 lang: pt-BR
 draft: true
 ---
