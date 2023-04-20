@@ -56,7 +56,7 @@ license:
       The copyright holder grants the IBICT permission to 
       archive and post a copy of this paper in the journal 
       article databases.
-bibliography: biblioteca.bib
+bibliography: "https://raw.githubusercontent.com/gabrielmacedo/ci/main/disciplinas/biblioteca.bib"
 csl: "https://raw.githubusercontent.com/gabrielmacedo/ci/main/disciplinas/ibict.csl"
 lang: pt-BR
 draft: true
