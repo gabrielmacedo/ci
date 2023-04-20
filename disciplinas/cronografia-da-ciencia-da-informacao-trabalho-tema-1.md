@@ -77,7 +77,7 @@ Conceitos em destaque:
 
 **São Tomás de Aquino**
 
-Para Capurro (1985), São Tomás de Aquino entende o homem como uma relação imbricada entre a matéria e a alma (_anima_), sendo a informação o princípio ativo da alma que passa para a matéria e origina um ser sensitivo.
+Para Capurro[@capurro2005], São Tomás de Aquino entende o homem como uma relação imbricada entre a matéria e a alma (_anima_), sendo a informação o princípio ativo da alma que passa para a matéria e origina um ser sensitivo.
 
 Conceitos em destaque:
 
@@ -169,7 +169,7 @@ A Ciência da Informação tem sua origem na informação científica. Criou o V
 
 **Buckland**
 
-Buckland (1991)[^2] explora diversas concepções do termo "informação" e reconhece sua polissemia. Segundo o autor, a informação pode ser entendida de três maneiras: 1) como um processo de comunicação, 2) como um conhecimento intangível e 3) como uma coisa tangível, contida em documentos, textos e outros meios que transmitem conhecimento. O autor também apresenta um quarto ponto, relacionado ao processamento da informação, que atravessa as três primeiras concepções. Destaca também o conceito de "evidência" como sinônimo de "informação como coisa". A informação como evidência é aquela que leva a mudanças no estado atual de conhecimento dos indivíduos, independentemente de sua utilidade ou veracidade. O autor ressalta que é o agente humano que manipula a evidência, ou seja, a informação como coisa. Serão então os sistemas de informação modernos os responsáveis por manipular a informação como coisa, e, para o autor, esta será a razão pela qual há uma prevalência deste entendimento de sobre o conceito. [@capurro2005]
+Buckland (1991)[^2] explora diversas concepções do termo "informação" e reconhece sua polissemia. Segundo o autor, a informação pode ser entendida de três maneiras: 1) como um processo de comunicação, 2) como um conhecimento intangível e 3) como uma coisa tangível, contida em documentos, textos e outros meios que transmitem conhecimento. O autor também apresenta um quarto ponto, relacionado ao processamento da informação, que atravessa as três primeiras concepções. Destaca também o conceito de "evidência" como sinônimo de "informação como coisa". A informação como evidência é aquela que leva a mudanças no estado atual de conhecimento dos indivíduos, independentemente de sua utilidade ou veracidade. O autor ressalta que é o agente humano que manipula a evidência, ou seja, a informação como coisa. Serão então os sistemas de informação modernos os responsáveis por manipular a informação como coisa, e, para o autor, esta será a razão pela qual há uma prevalência deste entendimento de sobre o conceito.
 
 Conceitos em destaque:
 
