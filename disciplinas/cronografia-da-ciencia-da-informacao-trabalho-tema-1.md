@@ -12,12 +12,12 @@ author: >-
     [orcid:0000-0001-8845-7985](https://orcid.org/0000-0001-8845-7985);
     Disciplina - Cronografia da Ciência da Informação, Docente - 
     Lillian Maria Araujo de Rezende Alvares.]
-# authors:
+# author:
 #  - name: Gabriel Santiago Macedo
 #    email: gabrielmacedo@discente.ibict.br
-#    orcid: 0000-0001-8845-7985
+#    orcid_id: 0000-0001-8845-7985
 #    affiliation: 1
-# affiliations:
+# affiliation:
 #  - name: 
 #      Universidade Federal do Rio de Janeiro (UFRJ), Instituto 
 #      Brasileiro de Informação em Ciência e Tecnologia (IBICT), 
@@ -57,6 +57,7 @@ license:
       archive and post a copy of this paper in the journal 
       article databases.
 bibliography: biblioteca.bib
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/harvard-anglia-ruskin-university.csl"
 lang: pt-BR
 draft: true
 ---
