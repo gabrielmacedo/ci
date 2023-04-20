@@ -258,7 +258,6 @@ Com a utilização de metadados da Wikidata as consultas poderão ganhar um esco
 
 ![](https://user-images.githubusercontent.com/20596966/233427122-5d686e72-b996-4f60-b304-562e8ca5d5c3.png)
 
-
 É esperado que esse esforço inicial de proposta de um método contribua para a organização do conhecimento e a sua representação nos resumos dos próximos temas da disciplina.
 
 ## Referências
