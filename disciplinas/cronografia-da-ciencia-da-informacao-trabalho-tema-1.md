@@ -4,7 +4,8 @@ title: Resumo Módulo 1 - Informação e Sociedade da Informação
 tags:
   - science information
   - chronography
-author: Gabriel Santiago Macedo^[Universidade Federal do Rio de
+author: >-
+Gabriel Santiago Macedo^[Universidade Federal do Rio de
 Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e
 Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da 
 Informação (PPGCI), gabrielmacedo@discente.ibict.br, 
