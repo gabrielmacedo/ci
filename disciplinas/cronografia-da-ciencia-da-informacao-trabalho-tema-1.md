@@ -188,7 +188,7 @@ A abordagem por grafos, além de já ter sido utilizada por alguns precursores d
 
 - Referência de metadadados: BAHNEMANN, G. et al. Transforming metadata into linked data to improve digital collection discoverability: a content pilot project. Dublin, OH: OCLC Research, 2021.
 
-![](https://i.imgur.com/k1j0uuN.jpg)
+![](https://i.imgur.com/k1j0uuN.jpg){width=300px}
 
 Fonte: [@bahnemann2021]
 
