@@ -1,5 +1,5 @@
 ---
-title: Trabalho tema 1 - Informação e Sociedade da Informação
+title: Resumo Módulo 1 - Informação e Sociedade da Informação
 author: Gabriel Santiago Macedo^[Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI), gabrielmacedo@discente.ibict.br, Disciplina - Cronografia da Ciência da Informação, Docente - Lillian Maria Araujo de Rezende Alvares.]
 date: 19/04/2023
 abstract: Resumo do tema 1 da disciplina "Cronografia da Ciência da Informação",  "Informação e Sociedade da Informação", Docente - Lillian Maria Araujo de Rezende Alvares. O texto tem por objetivo apresentar uma breve referência aos autores e principais conceitos estudados. Como método os resumos elaborados usarão um modelo de aproximação sucessiva do problema, tendo como referência de partida a construção de uma base de dados com grafos, também conhecido como _knowledge graph_ ou grafo de conhecimento, para estabelecer os relacionamentos entre os elementos, as conexões e os metadados que farão parte dessa proposta. Com o avanço do tema e o surgimento de novos conceitos e abordagens, a grafo de conhecimento ganhará referências de web semântica e vínculos com a Wikidata, visando expandir a experiência de descoberta sobre a Ciência da Informação.
@@ -8,7 +8,7 @@ abstract: Resumo do tema 1 da disciplina "Cronografia da Ciência da Informaçã
 
 # Módulo 1: Informação e Sociedade da Informação
 
-## Resumo esquemático 
+## Apresentação
 
 Compreendemos que o surgimento do conceito de informação está relacionado com a evolução da linguagem, passando pela invenção da escrita até a sua transcrição em diferentes meios de suporte, bem como os processos de transferência de informações entre pessoas e objetos ao longo da história.
 
