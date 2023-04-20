@@ -1,6 +1,7 @@
 ---
-title: Resumo Módulo 1 - Informação e Sociedade da Informação
-author:
+title: Resumo Módulo 1
+subtitle: Informação e Sociedade da Informação
+authors:
 - name: Gabriel Santiago Macedo
   email: gabrielmacedo@discente.ibict.br
   orcid: 0000-0001-8845-7985
@@ -29,7 +30,7 @@ lang: pt-BR
 
 ---
 
-- Gabriel Santiago Macedo^[Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI), gabrielmacedo@discente.ibict.br, orcid 0000-0001-8845-7985; Disciplina - Cronografia da Ciência da Informação, Docente - Lillian Maria Araujo de Rezende Alvares.]
+- Autor: Gabriel Santiago Macedo^[Universidade Federal do Rio de Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), Programa de Pós-Gradução em Ciência da Informação (PPGCI), gabrielmacedo@discente.ibict.br, orcid 0000-0001-8845-7985; Disciplina - Cronografia da Ciência da Informação, Docente - Lillian Maria Araujo de Rezende Alvares.]
 
 # Módulo 1: Informação e Sociedade da Informação
 
