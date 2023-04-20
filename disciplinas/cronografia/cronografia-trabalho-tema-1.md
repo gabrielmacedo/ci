@@ -242,7 +242,7 @@ A abordagem por grafos, além de já ter sido utilizada por alguns precursores d
 
 - Grupo de componentes teremos a distribuição de tipos de elementos (nós) para: pessoas, conceitos, publicações e eventos notórios.
 
-- Referência de metadados: BAHNEMANN, G. et al. Transforming metadata into linked data to improve digital collection discoverability: a content pilot project. Dublin, OH: OCLC Research, 2021.
+- Referência para o conjunto de metadados [@bahnemann2021].
 
 ![CONTENTdm Class Hierarchy Data Model [@bahnemann2021].](https://i.imgur.com/k1j0uuN.jpg)
 
