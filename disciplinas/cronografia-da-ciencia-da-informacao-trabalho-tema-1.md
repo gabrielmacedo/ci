@@ -57,7 +57,7 @@ license:
       archive and post a copy of this paper in the journal 
       article databases.
 bibliography: biblioteca.bib
-csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/harvard-anglia-ruskin-university.csl"
+csl: "https://raw.githubusercontent.com/gabrielmacedo/ci/main/disciplinas/ibict.csl"
 lang: pt-BR
 draft: true
 ---
