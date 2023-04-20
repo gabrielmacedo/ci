@@ -254,6 +254,11 @@ A seguir é apresentado um primeiro modelo dessa proposta de grafo contendo auto
 
 ![Kumu.io - organização por grafo [@macedo_cronografia_2023].](https://user-images.githubusercontent.com/20596966/233407309-4d131b13-4906-490f-bd1a-2d1c0d4eef18.png "Organização por grafo")
 
+Consulta Wikidata, Cluade Shannon: https://w.wiki/6cCc
+
+![](https://user-images.githubusercontent.com/20596966/233427122-5d686e72-b996-4f60-b304-562e8ca5d5c3.png)
+
+
 É esperado que esse esforço inicial de proposta de um método contribua para a organização do conhecimento e a sua representação nos resumos dos próximos temas da disciplina.
 
 ## Referências
