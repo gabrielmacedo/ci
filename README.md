@@ -68,6 +68,10 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 - [Catálogo de padrões de metadados](https://rdamsc.bath.ac.uk/) - buscar metadados e mapeamento entre esquemas de metadados diferentes.
 
+### Programação para humanidades
+
+[Python Intermediário para Humanistas](http://intermediate-python.pythonhumanities.com/intro.html)
+
 ### Repositórios
 
 - ROAR
