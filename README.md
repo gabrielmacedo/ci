@@ -17,6 +17,10 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 - [Sutori](https://www.sutori.com/en/) - **Sutori** é uma ferramenta colaborativa de instrução e apresentação para a sala de aula. Para todas as faixas etárias, a Sutori é a parceira perfeita para tarefas multimídia de Estudos Sociais, Inglês, Língua, Artes, STEM e PBL.
 
+### Criar cursos online (MOOC)
+
+- [LiaScript](https://liascript.github.io/)
+
 ### Citações
 
 - [OpenCitations](https://opencitations.net/)
@@ -59,6 +63,10 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 ### Pesquisa de conceitos
 
 - [Plato](https://plato.stanford.edu/) - Plato Stanford Encyclopedia of Philosophy
+
+### Pesquisa de metadados
+
+- [Catálogo de padrões de metadados](https://rdamsc.bath.ac.uk/) - buscar metadados e mapeamento entre esquemas de metadados diferentes.
 
 ### Repositórios
 
