@@ -726,6 +726,119 @@ PERSPECTIVA CULTURAL
 <img width="518" alt="image" src="https://user-images.githubusercontent.com/20596966/230420312-fc8e588b-2d4d-41c1-b561-085c77bc6d24.png">
 
 
+
+
+AULA em 04/05/2023
+
+- Texto Lena Vânia
+
+<img width="738" alt="image" src="https://user-images.githubusercontent.com/20596966/236208145-a79b06dc-395b-4aed-9ac5-7020cdd4d476.png">
+
+
+PRECURSORES
+
+- Otlet
+- Mikhailov
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/20596966/236208209-bedc99bc-e699-489f-890c-4b6e15936ae0.png">
+
+FASES do processo evolutivo
+
+<img width="708" alt="image" src="https://user-images.githubusercontent.com/20596966/236208453-7327508c-cb29-4093-a11c-3c992b251b3f.png">
+
+- ARTIGOS DA ARIST (entre 1966-2003)
+
+3 FASES
+
+<img width="644" alt="image" src="https://user-images.githubusercontent.com/20596966/236208734-83617e41-3d55-46e6-8634-9af4eb0fcc4f.png">
+
+Fase conceitual e de reconhecimento interdisciplinar
+(1961-1969)
+
+<img width="625" alt="image" src="https://user-images.githubusercontent.com/20596966/236208933-60d818be-b965-4df3-8832-c2cfb26d9f47.png">
+
+BORKO (1968)
+
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/20596966/236209017-bbf7986f-8186-4992-892a-53d1892c25ad.png">
+
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/20596966/236209082-02420e8d-4431-43eb-bcb7-cc331ab10261.png">
+
+MIKHAILOV (1969)
+
+<img width="617" alt="image" src="https://user-images.githubusercontent.com/20596966/236209570-127a33fd-9a4a-4b00-8cda-fecbb3bd895c.png">
+
+"a principal razão para a emergência da Informatica não
+foi tanto o aumento dos produtos e saídas da literatura
+mas os aspectos inerentes ao estágio atual do
+desenvolvimento da ciência e tecnologia"
+
+MERTA (1969)
+
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/20596966/236210171-f768b915-710a-4f95-bf19-4316c6de6c15.png">
+
+Merta (1969)
+"estudar e criar elos sociais e transmitir e intercambiar
+informação". Ele afirma: "um cientista da informação, como um
+sociólogo e um psicólogo, avalia o conteúdo da comunicação,
+sobretudo do ponto de vista do movimento da informação,
+isto é, observa a informação de sua origem ate sua utilização
+social"
+
+
+GOFMAN (1975)
+
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/20596966/236210886-478ecc4b-baf0-461f-b092-e99e26eb9910.png">
+
+HARMON
+
+<img width="682" alt="image" src="https://user-images.githubusercontent.com/20596966/236211164-be28f71f-921a-4eec-b517-c665ac94920c.png">
+
+ROBERTS
+
+<img width="730" alt="image" src="https://user-images.githubusercontent.com/20596966/236211209-5b0abe76-23d1-416a-8e5a-2ebd5a556a31.png">
+
+HERNER
+
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/20596966/236211740-af8d73d6-35b0-4f51-b8e2-3415d65252ee.png">
+
+
+ESTUDOS TEÓRICOS SOBRE O CONCEITO DE INFORMAÇÃO
+
+<img width="680" alt="image" src="https://user-images.githubusercontent.com/20596966/236212122-d8fc0f88-c4f4-45b3-ab46-a16fcee60e5b.png">
+
+AUTORES
+
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/20596966/236212263-bf9fae7a-1ea8-450c-86f7-76fd417ac4c3.png">
+
+MARCOS
+
+- ANÁLISE HISTÓRICA, EMPÍRICA E TEÓRICA da CI
+
+200 aniversario do Departamento Estudos de Informação da Universidade de Tampere (1991)
+
+"clarificar as concepções do objeto de pesquisa, o escopo e fenômeno central da Ciência da Informação e da Biblioteca em três diferentes perspectivas, historica, empírica e teorica."
+
+
+NOMECLATURAS
+
+- Ciência da Informação e da Biblioteca
+- Estudos de Informação
+- Ciência da Informação
+- Estudos de Biblioteca e Informação
+- Educação e Psicologia
+- Ciências da Comunicação
+- Comunicação, Informação e Estudos de Informação e Biblioteca
+
+ASPECTOS ABORDADOS NA TERCEIRA FASE
+
+- Divergencias de nomenclatura
+- Necessidade de mais reuniões científicas
+- Necessidade de aperfeiçoar as pesquisas na area atraves de especializações
+- Discussões conceituais
+- Discussões sobre os paradigmas da area
+- Interdisciplinaridade
+- Estudos da informação
+- Estudos historicos
+
 ## Referências para Cronografia
 
 - [The History and Historiography of Information Science: Some Reflections](https://www.researchgate.net/publication/222489196_The_History_and_Historiography_of_Information_Science_Some_Reflections/comments) January 1996. Information Processing and Management 32(1):3-17. DOI: 10.1016/0306-4573(95)00046-J Source dx.doi.org. W. Boyd RaywardW. Boyd Rayward
