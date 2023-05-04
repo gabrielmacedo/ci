@@ -28,6 +28,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 - [Chat PDF](https://www.chatpdf.com/) - Chat with any PDF
 - [ShareGPT](https://sharegpt.com/) - Compartilhar sessão do chatGPT com um clique e url persistente
+- [Humata](https://humata.ai) - Resumo e perguntas e respostas a documentos em PDF usando o chatGPT 
 
 ### Criar cursos online (MOOC)
 
@@ -59,6 +60,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - [Connected Papers](https://www.connectedpapers.com/)
 - [Litmaps](https://app.litmaps.com/)
 - [GeneralIndex](https://archive.org/details/GeneralIndex)
+- [Research Rabbit](https://researchrabbitapp.com/home)
 
 ### Pesquisa de conceitos
 
