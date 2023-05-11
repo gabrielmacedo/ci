@@ -58,6 +58,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 **Baseado em objetos e redes de relacionamento/citações**:
 
 - [Connected Papers](https://www.connectedpapers.com/)
+- [Elicit AI](https://elicit.org) O assistente de pesquisa de IA. O Elicit usa modelos de linguagem para ajudá-lo a automatizar fluxos de trabalho de pesquisa, como partes de revisão de literatura.
 - [Litmaps](https://app.litmaps.com/)
 - [GeneralIndex](https://archive.org/details/GeneralIndex)
 - [Research Rabbit](https://researchrabbitapp.com/home)
