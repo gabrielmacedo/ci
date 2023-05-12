@@ -44,6 +44,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 **Baseados em termos/texto de busca**:
 
 - [Dimensions](https://www.dimensions.ai) - aberta
+- [Consensus.app](https://consensus.app/) - busca artigos com base numa pergunta e tenta identificar consensos entre os materiais encontrados
 - Web of Science
 - Scopus
 - Publish or Perish
