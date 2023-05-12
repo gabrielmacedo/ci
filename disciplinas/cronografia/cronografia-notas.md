@@ -818,7 +818,7 @@ MARCOS
 "clarificar as concepções do objeto de pesquisa, o escopo e fenômeno central da Ciência da Informação e da Biblioteca em três diferentes perspectivas, historica, empírica e teorica."
 
 
-NOMECLATURAS
+NOMECLATURAS 
 
 - Ciência da Informação e da Biblioteca
 - Estudos de Informação
