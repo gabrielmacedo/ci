@@ -87,11 +87,19 @@ Os Grandes Modelos de Linguagem têm demonstrado potencial na compreensão e ger
 ## Referências
 
 [@alvares2010]: Lillian Alvares e Rogério Henrique de Araújo Júnior, 2010. Marcos históricos da ciência da informação: breve cronologia dos pioneiros, das obras clássicas e dos eventos fundamentais. https://www.scielo.br/j/tinf/a/rQZcj9bqkmQW5xrpLK8Z8NL/abstract/?lang=pt
+
 [@pinheiro1995]:  Pinheiro, L. V. R., & Loureiro, J. M. M. (1995). Traçados e limites da ciência da informação. Ciência Da Informação, 24(1). https://doi.org/10.18225/ci.inf.v24i1.609
+
 [@turing1936]: Alan Turing, "On computable numbers, with an application to the Entscheidungsproblem", Proceedings of the London Mathematical Society, Series 2, 42 (1936), pp 230 - 265.
+
 [@zins2007]: Zins, C. Conceptual approaches for defining data, information, and knowledge. Journal of the American Society for Information Science and Technology, v.58, n.4, p.479-493, 2007. https://doi.org/10.1002/asi.20508
+
 [@hutchins1997]: Hutchins, J. From First Conception to First Demonstration: the Nascent Years of Machine Translation, 1947–1954. A Chronology. Machine Translation 12, 195–252 (1997). https://doi.org/10.1023/A:1007969630568
+
 [@wiener1948]: Wiener, Norbert (1948). Cybernetics: Or Control and Communication in the Animal and the Machine. Cambridge, Massachusetts: MIT Press.
+
 [@shannon1948]: Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27(4), 623–656. doi:10.1002/j.1538-7305.1948.tb00917.x
+
 [@shannon1951] C. E. Shannon, "Prediction and entropy of printed English," in The Bell System Technical Journal, vol. 30, no. 1, pp. 50-64, Jan. 1951, doi: 10.1002/j.1538-7305.1951.tb01366.x.
+
 [@turing1950]: A. M. TURING, I.—COMPUTING MACHINERY AND INTELLIGENCE, Mind, Volume LIX, Issue 236, October 1950, Pages 433–460, https://doi.org/10.1093/mind/LIX.236.433
