@@ -839,6 +839,21 @@ ASPECTOS ABORDADOS NA TERCEIRA FASE
 - Estudos da informação
 - Estudos historicos
 
+
+25/05/2023
+
+BELKIN - https://doi.org/10.1108/eb026653 - Information Concepts For Information Science
+
+> _Abstract_: A ciência da informação, ou informática, tem sido quase desde o início caracterizada por uma autoconsciência aparentemente desordenada, exemplificada pela preocupação com seu status em relação a outras disciplinas, com seu status como ciência e com o significado de seus objetos de estudo. investigação e os objetivos dessa investigação. A bibliografia de Port, a pesquisa de Wellisch sobre as definições da ciência da informação e a pesquisa histórica de Harmon fornecem evidências substanciais dessa autoconsciência. Alguns aspectos dessa atitude devem-se, é claro, aos problemas sociais e políticos enfrentados por qualquer nova disciplina (ou campo de investigação que aspire a tal status), como a indiferença ou hostilidade da comunidade acadêmica estabelecida, a luta por uma parte da pesquisa limitada e fundos de desenvolvimento, o complexo de inferioridade associado a não ter métodos de investigação bem definidos em uma situação social que exige sua aceitação, e assim por diante. Outros aspectos dessa autoconsciência podem, no entanto, estar mais relacionados a preocupações estritamente internas, "científicas"; isto é, para problemas dentro da estrutura teórica da ciência da informação que devem ser resolvidos para que seja feito um progresso substancial na solução de seus problemas práticos. Esta revisão examina as contribuições para um desses problemas: a questão de um conceito adequado de informação para a ciência da informação.
+
+<img width="447" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/cb609910-d781-4efb-b5aa-9b3334eccbba">
+
+<img width="420" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/a9fcf371-b6cc-4fcf-ae74-7a45930f16d3">
+
+<img width="428" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/4aac9561-6cbd-4cfb-b159-174a0ac7b3b8">
+
+
+
 ## Referências para Cronografia
 
 - [The History and Historiography of Information Science: Some Reflections](https://www.researchgate.net/publication/222489196_The_History_and_Historiography_of_Information_Science_Some_Reflections/comments) January 1996. Information Processing and Management 32(1):3-17. DOI: 10.1016/0306-4573(95)00046-J Source dx.doi.org. W. Boyd RaywardW. Boyd Rayward
