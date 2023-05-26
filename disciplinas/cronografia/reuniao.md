@@ -10,4 +10,18 @@ BRCRIS
 
 <img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/8275d2c1-90a8-4c31-9183-c795bd0634ea">
 
-<img width="435" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/8e5eefeb-c785-4b8a-8ee0-2a4b2e4f3db9">
+<img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/0ff8e61d-6ea4-4aa2-9e14-d67f5bdde82f">
+
+<img width="437" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/1b01e820-6487-4981-a58d-6162e47bbba3">
+
+<img width="437" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/8239e9a6-39a1-4f22-9494-6f2e6cb44c87">
+
+<img width="437" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/c97752de-4e31-4635-83e3-2fef67bf8690">
+
+<img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/648b28b3-b6aa-48af-a973-c5d9b10a0f58">
+
+<img width="435" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/8289267c-cfa4-4e94-b46f-9fa919f52240">
+
+<img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/713dfebd-854f-4ba3-b844-a8b78a3ef325">
+
+<img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/eac1b7ab-e2c7-4dc3-a751-5351114ed82b">
