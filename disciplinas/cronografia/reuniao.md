@@ -25,3 +25,11 @@ BRCRIS
 <img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/713dfebd-854f-4ba3-b844-a8b78a3ef325">
 
 <img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/eac1b7ab-e2c7-4dc3-a751-5351114ed82b">
+
+<img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/5079fd0b-61cf-4822-9184-446b43ebc56a">
+
+<img width="437" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/ac8e0531-8b5e-47c8-8597-98bab0e06992">
+
+<img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/f1746baf-8ae1-4fc9-ada4-36863e258e70">
+
+<img width="436" alt="image" src="https://github.com/gabrielmacedo/ci/assets/20596966/fa7a233d-6d8b-461d-8e82-48dc9a2651ca">
