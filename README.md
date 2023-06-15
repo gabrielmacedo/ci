@@ -13,6 +13,10 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 ## Ferramentas
 
+### Agrupamentos - Awesome lists
+
+- [TAPor 3](https://tapor.ca/home) - **TAPor 3** ferramenta para descobrir recursos de pesquisa para estudar textos.
+
 ### Apresentações para sala de aula
 
 - [Sutori](https://www.sutori.com/en/) - **Sutori** é uma ferramenta colaborativa de instrução e apresentação para a sala de aula. Para todas as faixas etárias, a Sutori é a parceira perfeita para tarefas multimídia de Estudos Sociais, Inglês, Língua, Artes, STEM e PBL.
