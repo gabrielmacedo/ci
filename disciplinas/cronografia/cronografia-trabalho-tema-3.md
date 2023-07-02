@@ -51,11 +51,27 @@ draft: true
 
 # Módulo 3: Epistemologia da Ciência da Informação
 
-Este resumo apresenta um recorte sobre o percurso histórico da epistemologia da Ciência da Informação (CI). A natureza cronográfica a ser empregada neste texto tem por objetivo identificar os eventos relacionados ao estudo da informação em face das novas tecnologias, especialmente quanto ao campo prático da _recuperação da informação_.
+Este resumo apresenta um recorte sobre o percurso histórico da epistemologia da Ciência da Informação (CI). A natureza cronográfica a ser empregada neste texto tem por objetivo identificar os eventos relacionados ao estudo da informação em face das novas tecnologias, especialmente quanto ao campo da _recuperação da informação_.
 
-Considerando que a epistemologia busca compreender a natureza do conhecimento científico, suas bases, limitações e métodos, uma análise das tecnologias contemporâneas de recuperação de informações requer a identificação dos marcos do seu desenvolvimento e a compreensão da relação temporal estabelecida entre estes. 
+Considerando que a epistemologia busca compreender a natureza do conhecimento científico, suas bases, limitações e métodos, uma análise das tecnologias contemporâneas de Processamento de Linguagem Natural (PLN), ou em inglês, _Natural Language Processing_ (NLP), para a recuperação de informações requer, inicialmente, a identificação dos marcos do seu desenvolvimento e a compreensão da relação temporal estabelecida entre estes.
 
-Como sinalizado por @pinheiro1995, o desenvolvimento da computação e da inteligência artificial apontava para a produção de modificações significativas na compreensão dos fenômenos informacionais, sendo portanto necessário aos pesquisadores da ciência da informação o aprofundar o entendimento da relação entre a informação e a tecnologia.
+Conforme observado por @pinheiro1995 há quase 30 anos, o avanço da computação e da inteligência artificial promoveriam mudanças significativas na compreensão dos fenômenos informacionais. Atualmente, com a ampla adoção de sistemas de PLN, como o ChatGPT (_Generative Pre-trained Transformer_), a análise da evolução desses modelos torna-se ainda mais relevante para os pesquisadores da ciência da informação que estão interessados em aprofundar o entendimento das interrelações entre informação e tecnologia. Ao abordar as formas de recuperação da informação produzidas por esses sistemas, os pesquisadores podem realizar uma avaliação crítica das limitações e contribuições apresentadas, além de expandir a capacidade de identificar áreas não exploradas, desafios em aberto ou questões não resolvidas que demandam atenção e investigação adicional.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sinalizamos que tomamos aqui o conceito de informação como visto por xxxx em xxxxx, no qual há uma relação funcional para a caracterização do conceito, ou seja, ele deve responder à uma intenção teleológica e de utilidade para os usuários, mais do que a uma busca por uma definição terminológica precisa.
+estabelecer uma base sólida de conhecimento científico para orientar a pesquisa e a prática nessa área.
+
 
 
 
