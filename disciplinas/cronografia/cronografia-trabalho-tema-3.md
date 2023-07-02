@@ -60,40 +60,33 @@ Atualmente, com a ampla adoção de sistemas de PLN, como o ChatGPT (_Generative
 
 Ao abordar as formas de recuperação da informação produzidas por esses sistemas, os pesquisadores podem realizar uma avaliação crítica das limitações e contribuições apresentadas, além de expandir a capacidade de identificar áreas não exploradas, desafios em aberto ou questões não resolvidas que demandam atenção e investigação adicional.
 
-Seriam os atuais modelos de interação homem-máquina como o ChatGPT, ou seja, interfaces com sistemas pré-treinados para realizar conversas em linguagem natural uma resposta consistente aos problemas de _complexidade e difusão de conhecimento_ ou mesmo de _explosão informacional_, sob os quais se debruçaram respectivamente Paul Otlet e Vannevar Bush?
+Podemos nos perguntar se, seriam os atuais modelos de interação homem-máquina como o ChatGPT, ou seja, interfaces com sistemas pré-treinados para realizar conversas em linguagem natural uma resposta consistente aos problemas de _complexidade e difusão de conhecimento_ ou mesmo de _explosão informacional_, sob os quais se debruçaram respectivamente Paul Otlet e Vannevar Bush?
 
-A premência da relação entre a tecnologia e a informação foi abordada por esses e outros autores ao longo do tempo, sendo uma questão central à ciência da informação desde a sua proposição enquanto ciência, no início dos anos 1960. A recuperação da informação, em específico, foi até considerada como "o  _núcleo_  da  área  por diferentes autores, entre os quais Saracevic, em seu livro _Introduction to Information Science de 1970_" [@araujo2014].
+A relação entre a tecnologia e a informação foi abordada por esses e outros autores ao longo do tempo, sendo uma questão central à ciência da informação desde a sua proposição enquanto ciência, no início dos anos 1960. A recuperação da informação, em específico, foi até considerada como "o  _núcleo_  da  área  por diferentes autores, entre os quais Saracevic, em seu livro _Introduction to Information Science de 1970_" [@araujo2014].
 
-Visando dar continuidade ao trabalho empenhado no resumo anterior, do módulo 02, adotaremos aqui o recorte temporal entre o final dos anos 1950 até os anos 1990.
+Visando dar continuidade ao trabalho empenhado no resumo anterior, do módulo 02, adotaremos aqui o recorte temporal entre o final dos anos 1950 até os anos 1970.
 
-Como exemplo, são os processos de recuperação da informação que motivaram Cyril Cleverdon, um ex-bibliotecário da _Engine Division of the Bristol Aeroplane Co. Ltd._, a implementar o _The ASLIB Cranfield Research Project_, no _College of Aeronautics at Cranfield_, e os testes que o sucederam, entre 1958 e 1963 que foram realizados também em outros centros de estudos.
+Os problemas de recuperação da informação que motivaram Cyril Cleverdon, um ex-bibliotecário da _Engine Division of the Bristol Aeroplane Co. Ltd._, a implementar o _The ASLIB Cranfield Research Project_, no _College of Aeronautics at Cranfield_, e os testes que o sucederam, entre 1958 e 1963 que foram realizados também em outros centros de estudos são exemplos seminais abordados por autores da ciência da informação [@araujo2014].
 
 Os projetos consistiram numa pesquisa, inicialmente sem a utiliação de computadores, com o objetivo de melhorar a eficiência dos sistemas de recuperação de informação, avaliando melhores linguagens e métodos de indexação [@cleverdon1960; @cleverdon1967].
 
-O primeiro projeto, iniciado em abril de 1958, foi caracterizada pela comparação de 4 modelos de indexação sob uma coleação de documentação de aviaçao: Classificação Decimal Universal, catálogo de assuntos em ordem alfabéfica, esquema de classificação facetada, sistema de termo único. Os testes envolveram a comparação da eficiência relativa de cada um dos quatro índices em comparação a um conjunto de questões. As questões usadas foram produzidas por representantes de cerca de cinquenta organizações no Reino Unido, Estados Unidos, Canadá e Holanda [@cleverdon1960]. 
+O primeiro projeto, iniciado em abril de 1958, foi caracterizado pela comparação de 4 modelos de indexação sob uma coleção de documentos de aviaçao: Classificação Decimal Universal (CDU), catálogo de assuntos em ordem alfabéfica, esquema de classificação facetada, sistema de termo único. Os testes envolveram a comparação da eficiência relativa de cada um dos quatro índices em comparação a um conjunto de questões. As questões usadas foram produzidas por representantes de cerca de cinquenta organizações no Reino Unido, Estados Unidos, Canadá e Holanda [@cleverdon1960]. 
 
 Ao tratar detalhadamente das razões de fracasso ou de sucesso na busca de informação relevante, o projeto objetivou levantar os requisitos que um sistema de recuperação de informação deveria atender. Cleverdon [-@cleverdon1960, p.9] indica que a ausência de experimentos práticos atrelados às teorias de indexação a superestimavam, "todos aqueles que tentam resolver os problemas de recuperação de informações estão trabalhando muito no escuro, incertos quanto aos problemas reais e totalmente incapazes de aplicar quaisquer medições às soluções propostas". 
 
 Assim, conclui que o requisito principal para avaliar a recuperação da informação é um padrão de medição reconhecido e um método de medição satisfatório. E, com o projeto, esperavam ter dados suficientes para formar um padrão de medição para sistemas de recuperação [@cleverdon1960]. Em termos de desempenho, foi constatado que todos os sistemas operavam em níveis próximos de eficiência [@cleverdon1967].
 
-Em 1963, cinco anos após o início dos experimentos, os testes realizados com a documentação de metalurgia da Western Reserve University, seviram para estabelecer duas medidas utilizadas para avaliar os sistemas, a taxa de recuperação ou revocação (_recall ratio_) e a taxa de precisão (_precision ratio_) [aitchison1963; @cleverdon1967]. 
+Em 1963, cinco anos após o início dos experimentos, os testes realizados com a documentação de metalurgia da _Western Reserve University_, seviram para estabelecer duas medidas utilizadas para avaliar os sistemas, a taxa de recuperação ou revocação (_recall ratio_) e a taxa de precisão (_precision ratio_) [aitchison1963; @cleverdon1967]. 
 
 ![Figura 1: Recuperação/Precisão, @cleverdon1967](https://github.com/gabrielmacedo/ci/assets/20596966/7afc38a1-ca30-4a0b-88ff-be5259f718da)
 
-Os resultados dos testes indicaram a relação inversa entre recuperação e precisão. Considerando que a taxa de recuperação máxima possível de 100 por cento pode ser obtida ao recuperar todos os documentos disponíveis, a melhoria na taxa de precisão implicaria portanto numa queda na taxa de recuperação. De forma inversa, para aumentar a taxa recuperação, um maior número de documentos não relevantes também seriam recuperados. "Este é sempre o caso ao operar dentro de um determinado sistema" [@cleverdon1967].
+Os resultados dos testes indicaram a relação inversa entre recuperação e precisão. Considerando que a taxa de recuperação máxima possível de 100 por cento pode ser obtida ao recuperar todos os documentos disponíveis, a melhoria na taxa de precisão implicaria portanto numa queda na taxa de recuperação. De forma inversa, para aumentar a taxa de recuperação, um maior número de documentos não relevantes também seriam recuperados. "Este é sempre o caso ao operar dentro de um determinado sistema" [@cleverdon1967, p. ?].
+
+É interessante observar que até esse momento o PNL contrapunha tanto os métodos manuais, sem auxílio mecanizado, quanto a introdução de computadores. As investigações realizadas por Salton com o sistema SMART (_System for the Mechanical Analysis and Retrieval of Text_), publicadas em 1965, eram semelhantes às que estavam sendo feitas em Cranfield. O sistema SMART focava em comparar os efeitos de diferentes dispositivos ou opções. No entanto, havia diferenças significativas entre as duas abordagens. Salton utilizava um computador grande, permitindo processamento avançado de dados e algoritmos complexos, enquanto Cranfield dependia de técnicas manuais e estatísticas.
 
 
 
-
-
-
-
-
-
-
-
-
-Após a não concretização das altas expectativas geradas com o experimento de tradução automatizada do russo para o inglês, iniciado no experimento da Georgetown-IBM de 1954, o governo dos Estados Unidos cria 10 anos depois, em 1964, o ALPAC (_Automatic Language Processing Advisory Committee_). O ALPAC foi um comitê composto por sete cientistas liderado por John R. Pierce, com o objetivo de avaliar o progresso da linguística computacional e da tradução automatizada. 
+Após a não concretização das altas expectativas geradas com o experimento de tradução automatizada do russo para o inglês, iniciado no experimento da Georgetown-IBM de 1954, o governo dos Estados Unidos cria 10 anos depois, em 1964, o ALPAC (_Automatic Language Processing Advisory Committee_). O ALPAC foi um comitê composto por sete cientistas, liderado por John R. Pierce, com o objetivo de avaliar o progresso da linguística computacional e da tradução automatizada. 
 
 O relatório intitulado _Language and Machines_, publicado 02 anos depois pelo ALPAC, em 1966, é cético sobre o custo e a eficácia da tradução automatizada, indicando que para o estado atual da tecnologia não houve a tradução de texto científico geral e que a utilidade das traduções dependeria de pós-edição humana. O documento ainda enfatiza que seria necessário ampliar a pesquisa básica em lingüística computacional e na construção de auxílios de máquina para tradutores humanos [@alpac1966]. 
 
