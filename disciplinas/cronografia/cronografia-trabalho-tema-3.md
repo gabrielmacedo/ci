@@ -66,7 +66,30 @@ A premência da relação entre a tecnologia e a informação foi abordada por e
 
 Visando dar continuidade ao trabalho empenhado no resumo anterior, do módulo 02, adotaremos aqui o recorte temporal entre o final dos anos 1950 até os anos 1990.
 
-Como exemplo, são os processos de recuperação da informação que motivaram Cyril Cleverdon, um ex-bibliotecário da _Engine Division of the Bristol Aeroplane Co. Ltd._, a implementar os _The ASLIB Cranfield Research Project_ I e II, iniciados em 1958 e em 1963, no _College of Aeronautics at Cranfield_. Os projetos consistiram numa pesquisa com o objetivo de melhorar a eficiência da recuperação dos sistemas de recuperação de informação, avaliando melhores linguagens e métodos de indexação [@cleverdon1960; @cleverdon1967].
+Como exemplo, são os processos de recuperação da informação que motivaram Cyril Cleverdon, um ex-bibliotecário da _Engine Division of the Bristol Aeroplane Co. Ltd._, a implementar o _The ASLIB Cranfield Research Project_, no _College of Aeronautics at Cranfield_, e os testes que o sucederam, entre 1958 e 1963 que foram realizados também em outros centros de estudos.
+
+Os projetos consistiram numa pesquisa, inicialmente sem a utiliação de computadores, com o objetivo de melhorar a eficiência dos sistemas de recuperação de informação, avaliando melhores linguagens e métodos de indexação [@cleverdon1960; @cleverdon1967].
+
+O primeiro projeto, iniciado em abril de 1958, foi caracterizada pela comparação de 4 modelos de indexação sob uma coleação de documentação de aviaçao: Classificação Decimal Universal, catálogo de assuntos em ordem alfabéfica, esquema de classificação facetada, sistema de termo único. Os testes envolveram a comparação da eficiência relativa de cada um dos quatro índices em comparação a um conjunto de questões. As questões usadas foram produzidas por representantes de cerca de cinquenta organizações no Reino Unido, Estados Unidos, Canadá e Holanda [@cleverdon1960]. 
+
+Ao tratar detalhadamente das razões de fracasso ou de sucesso na busca de informação relevante, o projeto objetivou levantar os requisitos que um sistema de recuperação de informação deveria atender. Cleverdon [-@cleverdon1960, p.9] indica que a ausência de experimentos práticos atrelados às teorias de indexação a superestimavam, "todos aqueles que tentam resolver os problemas de recuperação de informações estão trabalhando muito no escuro, incertos quanto aos problemas reais e totalmente incapazes de aplicar quaisquer medições às soluções propostas". 
+
+Assim, conclui que o requisito principal para avaliar a recuperação da informação é um padrão de medição reconhecido e um método de medição satisfatório. E, com o projeto, esperavam ter dados suficientes para formar um padrão de medição para sistemas de recuperação [@cleverdon1960]. Em termos de desempenho, foi constatado que todos os sistemas operavam em níveis próximos de eficiência [@cleverdon1967].
+
+Em 1963, cinco anos após o início dos experimentos, os testes realizados com a documentação de metalurgia da Western Reserve University, seviram para estabelecer duas medidas utilizadas para avaliar os sistemas, a taxa de recuperação ou revocação (_recall ratio_) e a taxa de precisão (_precision ratio_) [aitchison1963; @cleverdon1967]. 
+
+![Figura 1: Recuperação/Precisão, @cleverdon1967](https://github.com/gabrielmacedo/ci/assets/20596966/7afc38a1-ca30-4a0b-88ff-be5259f718da)
+
+Os resultados dos testes indicaram a relação inversa entre recuperação e precisão. Considerando que a taxa de recuperação máxima possível de 100 por cento pode ser obtida ao recuperar todos os documentos disponíveis, a melhoria na taxa de precisão implicaria portanto numa queda na taxa de recuperação. De forma inversa, para aumentar a taxa recuperação, um maior número de documentos não relevantes também seriam recuperados. "Este é sempre o caso ao operar dentro de um determinado sistema" [@cleverdon1967].
+
+
+
+
+
+
+
+
+
 
 
 
@@ -85,7 +108,7 @@ Entre 1968 e 1970, Terry Winograd desenvolveu o SHRDLU, um programa de demonstra
 
 Seu objetivo era superar os problemas de manipulação apenas sintática e gramatical presentes nos primeiros sistemas de tradução automatizada, como os aplicados na tradução entre inglês e russo. O autor reconhecia a necessidade de lidar com os aspectos semânticos e de conferir aos computadores a capacidade de usar um conhecimento prévio sobre os assuntos para os quais deveria oferecer resposta. O entendimento da linguagem por máquinas deveria combinar "gramática, semântica e racioncínio de uma maneira muito íntima, chamando cada parte para ajudar as outras" [@winograd1971, p. 12].
 
-[Figura 1: Grafo indicando o funcionamento do programa SHRDLU. As setas indicam qual parte do programa aciona a outra - @winograd1971] (https://github.com/gabrielmacedo/ci/assets/20596966/1c8d43f6-6644-432d-b9cb-b7e6b67d199a)
+![- Grafo indicando o funcionamento do programa SHRDLU. As setas indicam qual parte do programa aciona a outra - @winograd1971] (https://github.com/gabrielmacedo/ci/assets/20596966/1c8d43f6-6644-432d-b9cb-b7e6b67d199a)
 
 
 
