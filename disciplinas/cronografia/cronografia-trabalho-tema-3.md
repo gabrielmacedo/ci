@@ -66,7 +66,7 @@ A premência da relação entre a tecnologia e a informação foi abordada por e
 
 Visando dar continuidade ao trabalho empenhado no resumo anterior, do módulo 02, adotaremos aqui o recorte temporal entre o final dos anos 1950 até os anos 1990.
 
-Como exemplo, são os processos de recuperação da informação que motivaram Cyril Cleverdon, um ex-bibliotecário da _Engine Division of the Bristol Aeroplane Co. Ltd._, a implementar os _The ASLIB Cranfield Research Project_ I e II, iniciados em 1958 e em 1963, no _College of Aeronautics at Cranfield_. Os projetos consistiram numa pesquisa com o objetivo de melhorar a eficácia de recuperação dos sistemas de recuperação de informação, avaliando melhores linguagens e métodos de indexação [@cleverdon1960; @cleverdon1967].
+Como exemplo, são os processos de recuperação da informação que motivaram Cyril Cleverdon, um ex-bibliotecário da _Engine Division of the Bristol Aeroplane Co. Ltd._, a implementar os _The ASLIB Cranfield Research Project_ I e II, iniciados em 1958 e em 1963, no _College of Aeronautics at Cranfield_. Os projetos consistiram numa pesquisa com o objetivo de melhorar a eficiência da recuperação dos sistemas de recuperação de informação, avaliando melhores linguagens e métodos de indexação [@cleverdon1960; @cleverdon1967].
 
 
 
