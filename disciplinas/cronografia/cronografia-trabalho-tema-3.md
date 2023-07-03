@@ -103,7 +103,7 @@ Entre 1968 e 1970, Terry Winograd desenvolveu o SHRDLU, um programa de demonstra
 
 Seu objetivo era superar os problemas de manipulação apenas sintática e gramatical presentes nos primeiros sistemas de tradução automatizada, como os aplicados na tradução entre inglês e russo. O autor reconhecia a necessidade de lidar com os aspectos semânticos e de conferir aos computadores a capacidade de usar um conhecimento prévio sobre os assuntos para os quais deveria oferecer resposta. O entendimento da linguagem por máquinas deveria combinar "gramática, semântica e racioncínio de uma maneira muito íntima, chamando cada parte para ajudar as outras" [@winograd1971, p. 12].
 
-![- Grafo indicando o funcionamento do programa SHRDLU. As setas indicam qual parte do programa aciona a outra - @winograd1971] (https://github.com/gabrielmacedo/ci/assets/20596966/1c8d43f6-6644-432d-b9cb-b7e6b67d199a)
+![Grafo indicando o funcionamento do programa SHRDLU. As setas indicam qual parte do programa aciona a outra - @winograd1971](https://github.com/gabrielmacedo/ci/assets/20596966/1c8d43f6-6644-432d-b9cb-b7e6b67d199a)
 
 
 
