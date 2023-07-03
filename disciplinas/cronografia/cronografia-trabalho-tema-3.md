@@ -80,11 +80,13 @@ Em 1963, cinco anos após o início dos experimentos, os testes realizados com a
 
 ![Figura 1: Recuperação/Precisão, @cleverdon1967](https://github.com/gabrielmacedo/ci/assets/20596966/7afc38a1-ca30-4a0b-88ff-be5259f718da)
 
-Os resultados dos testes indicaram a relação inversa entre recuperação e precisão. Considerando que a taxa de recuperação máxima possível de 100 por cento pode ser obtida ao recuperar todos os documentos disponíveis, a melhoria na taxa de precisão implicaria portanto numa queda na taxa de recuperação. De forma inversa, para aumentar a taxa de recuperação, um maior número de documentos não relevantes também seriam recuperados. "Este é sempre o caso ao operar dentro de um determinado sistema" [@cleverdon1967, p. ?].
+Os resultados dos testes indicaram a relação inversa entre recuperação e precisão. Considerando que a taxa de recuperação máxima possível de 100 por cento pode ser obtida ao recuperar todos os documentos disponíveis, a melhoria na taxa de precisão implicaria portanto numa queda na taxa de recuperação. De forma inversa, para aumentar a taxa de recuperação, um maior número de documentos não relevantes também seriam recuperados. "Este é sempre o caso ao operar dentro de um determinado sistema" [@cleverdon1967, p. 179].
 
-É interessante observar que até esse momento o PNL contrapunha tanto os métodos manuais, sem auxílio mecanizado, quanto a introdução de computadores. As investigações realizadas por Salton com o sistema SMART (_System for the Mechanical Analysis and Retrieval of Text_), publicadas em 1965, eram semelhantes às que estavam sendo feitas em Cranfield. O sistema SMART focava em comparar os efeitos de diferentes dispositivos ou opções. No entanto, havia diferenças significativas entre as duas abordagens. Salton utilizava um computador grande, permitindo processamento avançado de dados e algoritmos complexos, enquanto Cranfield dependia de técnicas manuais e estatísticas.
+Outra abordagem de indexação foi porposta por Salton com o sistema SMART (_System for the Mechanical Analysis and Retrieval of Text_), desenvolvido nos anos 1960. Embora tratasse de problemas semalhantes aos que estavam tsendo rabalhados em Cranfield, ao comparar os efeitos de diferentes formas de indexação de textos, havia diferenças significativas entre as duas abordagens. A mais significativa delas consistia na utilizava de computadores por Salton, permitindo processamento avançado de dados e algoritmos complexos, enquanto os experimentos de Cranfield dependiam de técnicas manuais e estatísticas.
 
+Uma das principais contribuições do sistema SMART foi o desenvolvimento do modelo de espaço vetorial (_vector space model_) para recuperação de informações. Esse modelo utilizava representações matemáticas dos documentos e das consultas para calcular a similaridade entre eles. Em vez de se basear apenas na presença ou ausência de palavras-chave, o modelo vetorial considerava a relevância e importância relativa dos termos, permitindo uma recuperação mais precisa. Além disso o SMART implementou a indexação automática de documentos, utilizando técnicas como a extração de palavras-chave e a atribuição de pesos aos termos com base em sua frequência nos documentos. O SMART também introduziu a ideia de consultas interativas, permitindo aos usuários refinar suas consultas com base nos resultados apresentados. Isso possibilitava uma interação mais dinâmica entre o usuário e o sistema de recuperação de informações [@salton1965].
 
+Apesar das metodologias divergentes, tanto o desenvolvimento do SMART quanto dos projetos de Cranfield fizeram contribuições significativas para o campo da recuperação de informações. 
 
 Após a não concretização das altas expectativas geradas com o experimento de tradução automatizada do russo para o inglês, iniciado no experimento da Georgetown-IBM de 1954, o governo dos Estados Unidos cria 10 anos depois, em 1964, o ALPAC (_Automatic Language Processing Advisory Committee_). O ALPAC foi um comitê composto por sete cientistas, liderado por John R. Pierce, com o objetivo de avaliar o progresso da linguística computacional e da tradução automatizada. 
 
@@ -151,7 +153,7 @@ a construção da ontologia em um canal marca os limites da utilidade da teoria 
 
 
 
-
+A CENTRALIDADE DOS PROBLEMAS DE LINGUISTICA
 
 
 
