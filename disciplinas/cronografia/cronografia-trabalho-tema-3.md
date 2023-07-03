@@ -78,7 +78,7 @@ Assim, conclui que o requisito principal para avaliar a recuperação da informa
 
 Em 1963, cinco anos após o início dos experimentos, os testes realizados com a documentação de metalurgia da _Western Reserve University_, seviram para estabelecer duas medidas utilizadas para avaliar os sistemas, a taxa de recuperação ou revocação (_recall ratio_) e a taxa de precisão (_precision ratio_) [aitchison1963; @cleverdon1967]. 
 
-![Figura 1 - Recuperação/Precisão, @cleverdon1967](https://github.com/gabrielmacedo/ci/assets/20596966/7afc38a1-ca30-4a0b-88ff-be5259f718da)
+![Recuperação/Precisão, @cleverdon1967](https://github.com/gabrielmacedo/ci/assets/20596966/7afc38a1-ca30-4a0b-88ff-be5259f718da)
 
 Os resultados dos testes indicaram a relação inversa entre recuperação e precisão. Considerando que a taxa de recuperação máxima possível de 100 por cento pode ser obtida ao recuperar todos os documentos disponíveis, a melhoria na taxa de precisão implicaria, portanto, numa queda na taxa de recuperação. De forma inversa, para aumentar a taxa de recuperação um maior número de documentos não relevantes também seria recuperado. "Este é sempre o caso ao operar dentro de um determinado sistema" [@cleverdon1967, p. 179].
 
@@ -102,7 +102,7 @@ A relação de comunicação entre homens e máquinas continuou sendo explorada 
 
 Atuando sobre o problema do mundo de blocos, entre 1968 e 1970, Terry Winograd desenvolveu o SHRDLU, um programa de demonstração voltado à compreensão de linguagem natural em inglês, usando as linguagens LISP e Planner. Em sua tese no Massachusetts Institute of Technology (MIT), publicada em 1971, sob o título _PROCEDURES AS A REPRESENTATION FOR DATA IN A COMPUTER PROGRAM FOR UNDERSTANDING NATURAL LANGUAGE_ o autor descreve o sistema como um modelo capaz de receber comandos e de interagir por textos em linguagem natural, respondendo a frases e realizando ações com as figuras presentes no micromundo, além de pedir esclarecimentos quando não consegue deduzir, ou seja, fazer inferência sobre o sentido de uma interação com base no contexto disponível.
 
-![Figura 2 - Diálogo no SHRDLU demonstrando a interação para a máquina pegar o bloco vermelho - @winograd1971, p. 38](https://github.com/gabrielmacedo/ci/assets/20596966/414a890f-b488-4cfe-a925-70401ebf4108)
+![Diálogo no SHRDLU demonstrando a interação para a máquina pegar o bloco vermelho - @winograd1971, p. 38](https://github.com/gabrielmacedo/ci/assets/20596966/414a890f-b488-4cfe-a925-70401ebf4108)
 
 Seu objetivo era superar os problemas de manipulação apenas sintática e gramatical presentes nos primeiros sistemas de tradução automatizada, como os aplicados na tradução entre inglês e russo. O autor reconhecia a necessidade de lidar com os aspectos semânticos e de conferir aos computadores a capacidade de usar um conhecimento prévio sobre os assuntos para os quais deveria oferecer resposta. O entendimento da linguagem por máquinas deveria combinar "gramática, semântica e raciocínio de uma maneira muito íntima, chamando cada parte para ajudar as outras" [@winograd1971, p. 12].
 
