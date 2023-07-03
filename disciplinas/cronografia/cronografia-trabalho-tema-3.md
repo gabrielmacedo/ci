@@ -76,7 +76,7 @@ Ao tratar detalhadamente das razões de fracasso ou de sucesso na busca de infor
 
 Assim, conclui que o requisito principal para avaliar a recuperação da informação é um padrão de medição reconhecido e um método de medição satisfatório. E, com o projeto, esperavam ter dados suficientes para formar um padrão de medição para sistemas de recuperação [@cleverdon1960]. Em termos de desempenho, foi constatado que todos os sistemas operavam em níveis próximos de eficiência [@cleverdon1967].
 
-Em 1963, cinco anos após o início dos experimentos, os testes realizados com a documentação de metalurgia da _Western Reserve University_, seviram para estabelecer duas medidas utilizadas para avaliar os sistemas, a taxa de recuperação ou revocação (_recall ratio_) e a taxa de precisão (_precision ratio_) [aitchison1963; @cleverdon1967]. 
+Em 1963, cinco anos após o início dos experimentos, os testes realizados com a documentação de metalurgia da _Western Reserve University_, seviram para estabelecer duas medidas utilizadas para avaliar os sistemas, a taxa de recuperação ou revocação (_recall ratio_) e a taxa de precisão (_precision ratio_) [@aitchison1963; @cleverdon1967]. 
 
 ![Recuperação/Precisão, @cleverdon1967](https://github.com/gabrielmacedo/ci/assets/20596966/7afc38a1-ca30-4a0b-88ff-be5259f718da)
 
