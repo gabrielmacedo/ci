@@ -19,7 +19,14 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 ### Apresentações para sala de aula
 
-- [Sutori](https://www.sutori.com/en/) - **Sutori** é uma ferramenta colaborativa de instrução e apresentação para a sala de aula. Para todas as faixas etárias, a Sutori é a parceira perfeita para tarefas multimídia de Estudos Sociais, Inglês, Língua, Artes, STEM e PBL.
+- [Sutori](https://www.sutori.com/en/) - **Sutori** é uma ferramenta colaborativa de instrução e apresentação para a sala de aula. Para todas as faixas etárias, a Sutori é a parceira perfeita para tarefas multimídia de Estudos Sociais, Inglês, Língua, Artes, STEM e PBL
+
+### Bibliometria e Cientometria
+
+- [Metaknowledge](https://metaknowledge.readthedocs.io/en/latest/) - Pacote em python e app de linha de comando para análises bibliométricas.
+- VosViewer
+- Bibliometrix - desenvolvido para linguagem R
+- CiteSpace
 
 ### Citações
 
