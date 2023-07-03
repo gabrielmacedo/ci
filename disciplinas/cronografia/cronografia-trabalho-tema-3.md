@@ -114,4 +114,23 @@ Rever o histórico apresentado neste resumo permite observar as origens das tecn
 
 Olhar para as tecnologias por meio da Ciência da Informação é fundamental para as discussões no âmbito desta disciplina, trazendo novas perspectivas para os profissionais envolvidos. Compreender a gênese desses  proporciona uma base sólida para entender as interações entre humanos e máquinas de hoje.
 
+## Linha do tempo
+
+Linha do tempo considerando o ano de início dos eventos, projetos, trabalhos ou marcos avaliados ao longo deste resumo:
+
+- 1954, projeto Georgetown-IBM sobre _machine translation_ (abordado no resumo anterior - módulo 2)
+- 1958, projeto Cranfield I
+- 1960, artigo _The ASLIB CRANFIELD RESEARCH PROJECT ON The COMPARATIVE EFFICIENCY OF INDEXING SYSTEMS_, _Aslib Proceedings_ sobre Cranfield I
+- 1960, desenvolvimento do SMART - _System for the Mechanical Analysis and Retrieval of Text_
+- 1963, projeto Cranfield com a documentação de metalurgia da _Western Reserve University_
+- 1963, artigo _Aslib Cranfield research project - A report on a test of the index of metallurgical literature of Western Reserve University_ sobre a documentação de metalurgia da _Western Reserve University_
+- 1963, projeto Cranfield II
+- 1965, artigo _The SMART automatic document retrieval systems—an illustration_ sobre o SMART
+- 1966, relatório _Language and Machines_ da ALPAC - _Automatic Language Processing Advisory Committee_ sobre esforços de _machine translation_ do projeto Georgetown-IBM
+- 1967, artigo _CRANFIELD TESTS ON INDEX LANGUAGE DEVICES_, _Aslib Proceedings_, sobre Cranfield I e II
+- 1968, documento _Nauchno-Tekhnicheskaja Informatsija_ (Informação Técnico-Científica) da União Soviética comentando o relatório da ALPAC
+- 1968, desenvolvimento do SHRDLU
+- 1971, tese _Procedures as a Representation for Data in a Computer Program for Understanding Natural Language_ sobre o SHRDLU
+- 1971, artigo _Automatic Translation of Languages Since 1960: A Linguist’s View_ avaliando o relatório da ALPAC
+
 ## Referências
