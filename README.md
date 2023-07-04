@@ -85,7 +85,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 ### Pesquisa reprodutível
 
-[The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
+- [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
 
 ### Programação para humanidades
 
@@ -102,5 +102,15 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 ### Repositórios de dados
 
 - [re3data](https://re3data.org)
+
+
+## Sistemas de indexação para Recuperação de Informações
+
+### Sistemas de indexação automática
+
+- [Medical Text Indexer (MTI)](https://ii.nlm.nih.qov/Interactive/MTI/mti.shtml) - termos biomédicos, sistema de indexação por atribuição
+- [Metamap](https://metamap.nlm.nih.govl) - termos biomédicos, sistema de indexação por atribuição
+- [KEA](http://community.nzdl.org/kea/_) - , sistema de indexação por atribuição que recebe um vocabulário controlado para o domínio do texto dos documentos
+- [YAKE](http://yake.inesctec.ptl) - sistema de indexação automática por extração que funciona em documentos de vários idiomas
 
 ## Bibliografia 
