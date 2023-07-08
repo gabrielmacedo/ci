@@ -67,6 +67,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - Scihub
 - [Oasis.br](https://oasisbr.ibict.br/)
 
+
 **Baseado em objetos e redes de relacionamento/citações**:
 
 - [Connected Papers](https://www.connectedpapers.com/)
@@ -74,6 +75,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - [Litmaps](https://app.litmaps.com/)
 - [GeneralIndex](https://archive.org/details/GeneralIndex)
 - [Research Rabbit](https://researchrabbitapp.com/home)
+- [scispace](https://typeset.io/)
 
 ### Pesquisa de conceitos
 
