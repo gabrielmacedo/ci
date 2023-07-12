@@ -49,6 +49,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 ### Escrita de artigos acadêmicos
 
 - [Manubot](https://greenelab.github.io/meta-review/) - Manuscrito descrevendo a escrita colaborativa aberta com Manubot
+- [USC Guides](https://libguides-usc-edu.translate.goog/writingguide) - Guias e roteiros de escrita para a produção de trabalhos acadêmicos
 
 ### Metabuscadores
 
@@ -88,6 +89,10 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 ### Pesquisa reprodutível
 
 - [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
+
+### Políticas de editoriais e de publicação
+
+- [Diadorim](https://diadorim.ibict.br/) - Diretórios de políticas editoriais das revistas científicas brasileiras
 
 ### Programação para humanidades
 
