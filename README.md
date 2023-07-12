@@ -105,6 +105,8 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - [Pantheon](https://pantheon.ufrj.br) (UFRJ)
 - [RIDI](http://ridi.ibict.br)
 - Socarxiv (Social and Behavior Science)
+- [Sherpa](https://sherpa.ac.uk/)
+
 
 ### Repositórios de dados
 
