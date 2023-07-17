@@ -5,6 +5,7 @@ tags:
   - science information
   - chronography
   - information retrieval
+  - large language models
 author: >-
     Gabriel Santiago Macedo^[Universidade Federal do Rio de
     Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e
