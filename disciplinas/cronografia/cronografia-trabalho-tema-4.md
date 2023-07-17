@@ -24,7 +24,7 @@ author: >-
 #      Brasileiro de Informação em Ciência e Tecnologia (IBICT), 
 #      Programa de Pós-Gradução em Ciência da Informação (PPGCI)
 #    index: 1
-date: 02/07/2023
+date: 17/07/2023
 abstract: >-
     Resumo do Módulo 4 da disciplina "Cronografia da Ciência da 
     Informação",  "Interdisciplinaridade na Ciência da Informação", 
