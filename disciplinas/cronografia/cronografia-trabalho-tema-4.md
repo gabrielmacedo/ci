@@ -1,5 +1,5 @@
 ---
-title: Módulo 4 - Transdisciplinaridade na Ciência da Informação
+title: Módulo 4 - Interdisciplinaridade na Ciência da Informação
 # subtitle: 
 tags:
   - science information
@@ -52,25 +52,33 @@ draft: true
 
 # Módulo 4: Interdisciplinaridade na Ciência da Informação
 
-Este resumo apresenta um recorte sobre o percurso histórico da interdisciplinaridade na Ciência da Informação (CI). A natureza cronográfica apresentada neste texto pretender identificar os eventos relacionados ao estudo da informação em seu diálogo com a tecnologia, principalmente sob o assunto da _Recuperação da Informação_ (RI).
+Este resumo apresenta um recorte sobre o percurso histórico da interdisciplinaridade na Ciência da Informação (CI). A natureza cronográfica apresentada neste texto pretender identificar os eventos relacionados ao estudo da informação em seu diálogo com a tecnologia, principalmente na área da _Recuperação da Informação_ (RI).
 
-Uma vez que os estudos sobre a interdisciplinaridade da Ciência da Informação lançam um olhar sobre as interseções de conteúdos de diferentes campos na construção do conhecimento científico, este trabalho buscará, através de uma análise das tecnologias contemporâneas de Processamento de Linguagem Natural (PLN), identificar os marcos do seu desenvolvimento, a relação temporal que estabelecem e a presença desse variado esforço de diferentes ciências na compreensão do seu objeto de estudo: a _informação_.
+Uma vez que os estudos sobre a interdisciplinaridade da Ciência da Informação lançam um olhar sobre as interseções de conteúdos de diferentes campos disciplinares na construção do conhecimento científico, este trabalho buscará, através de uma análise das tecnologias contemporâneas de Processamento de Linguagem Natural (PLN), identificar os marcos do seu desenvolvimento, a relação temporal que estabelecem e a presença desse variado esforço de diferentes ciências na compreensão dos problemas do seu objeto de estudo: a _informação_.
 
 O desenvolvimento recente de novas formas sociotécnicas de relacionamento com a linguagem, por meio de modelos pré-treinados de recuperação da informação, recoloca o desafio de compreender os avanços tecnológicos e as alternativas possíveis, aos pesquisadores da ciência da informação, nos sistemas de processamento da linguagem e de recuperação de informações.
 
-Se no passado a recuperação da informação se dava por meio de um processo mais ou menos controlado de indexação e recuperação de termos, ainda que com a ajuda de sistemas computacionais, os novos modelos chamados de Grandes Modelos de Linguagem (GML) ou, mais usualmente em inglês, _Large Language Models_ (LLM), trabalham a recuperação da informação usando a geração de conteúdo como característica mais destacada. 
+Até recentemente, o processo de recuperação da informação era predominantemente conduzido por meio de um método controlado de indexação e busca por termos, mesmo com o apoio de sistemas computacionais. Contudo, avanços recentes na área têm introduzido abordagens conhecidas como Grandes Modelos de Linguagem (GML) ou _Large Language Models (LLM)_, em inglês. Esses modelos se destacam pela capacidade de gerar conteúdo informacional diversificado, abrangendo textos, imagens e áudios, com base em um modelo computacional probabilístico manipulando uma imensa disponibilidade de informações e interagindo por meio de linguagem natural. É essa característica distintiva que vem sendo aplicada na recuperação de informações em sistemas conversacionais de interação homem-máquina, como o ChatGPT.
 
 Entender esse novo arranjo sociotécnico que envolve a seleção e a geração de informações possibilita uma avaliação crítica das limitações e contribuições desses modelos, ampliando a capacidade de identificar áreas não exploradas, desafios sem soluções e suscitar perguntas que demandem investigações aprofundadas.
 
 Quais critérios seriam necessários para avaliar a capacidade de recuperação de informações e de geração de linguagem natural presentes em tecnologias de GML? Como estabelecer métricas para comparar diferentes modelos e selecionar, a cada caso de uso, a melhor tecnologia disponível?
 
-Oferecer resposta à essas perguntas não é uma tarefa trivial. No entanto, em que pese a atualidade e o desenvolvimento recente dessas novas abordagens de processamento da linguagem natural, não seriam essas perguntas similares às realizadas nas experiências do projeto Cranfield I e II e no desenvolvimento do SMART, quando propõem os conceitos de taxa de revocação (_recall ratio_) e de taxa de precisão (_precision ratio_), como propostas por Aitchison [-@aitchison1963], Cleverdon [-@cleverdon1967] e Salton [-@salton1965], abordadas no resumo do módulo 3 desta disciplina? 
+Oferecer resposta à essas perguntas não é uma tarefa trivial. No entanto, em que pese a atualidade e o desenvolvimento recente dessas novas abordagens de processamento da linguagem natural, não seriam essas perguntas similares às realizadas nas experiências do projeto Cranfield I e II e no desenvolvimento do SMART, quando propõem os conceitos de taxa de revocação (_recall ratio_) e de taxa de precisão (_precision ratio_), propostas por Aitchison [-@aitchison1963], Cleverdon [-@cleverdon1967] e Salton [-@salton1965], abordadas no resumo do módulo 3 desta disciplina? 
 
-Aqui, salientamos também a visão de interdisciplinaridade apresentada por Saracevic [-@saracevic1995], ao indicar que não devemos estudar propriamente assuntos na Ciência da Informação, mas sim problemas. A abordagem centrada em problemas atinge diferentes temas e disciplinas, não respeitando o estabelecimento de fronteiras rígidas. A área da recuperação da informação, para o autor, é tomada como o espaço de consolidação maior dessa interdisciplinaridade. Afinal, várias disciplinas são mobilizadas para responder às questões sobre como ofertar informações úteis e como promover interações efetivas para os usuários.
+Aqui, salientamos também a visão de interdisciplinaridade apresentada por Saracevic [-@saracevic1995], ao indicar que não devemos estudar propriamente assuntos na Ciência da Informação, mas sim problemas. A abordagem centrada em problemas atinge diferentes temas e disciplinas, não respeitando o estabelecimento de fronteiras rígidas. A área da recuperação da informação, para o autor, é tomada como o espaço de consolidação maior dessa interdisciplinaridade. Afinal, várias disciplinas são mobilizadas para responder às questões sobre como ofertar informações úteis e como promover interações efetivas para os usuários frente à explosão informacional ocorrida.
 
-Assim, quanto aos desenvolvimentos dos modelos posteriores às formas de recuperação da informação já vistas, quais novas perguntas se colocaram e como elas foram respondidas? Ou, como apontou Saracevic [-@saracevic1995], como se deu a organização intelectual da informação, a sua recuperação, interação e quais sistemas e técnicas foram são usadas nesse processo?
+Assim, quanto aos desenvolvimentos dos modelos posteriores às formas de recuperação da informação já vistas, quais novas perguntas se colocaram e como elas foram respondidas? Ou, como apontou Saracevic [-@saracevic1995], como se deu a organização intelectual da informação, a sua recuperação, interação e quais sistemas e técnicas foram usadas nesse processo?
 
-Sobre essas últimas questões é que nos debruçaremos neste resumo. Para tanto, consideramos um recorte temporal a partir dos anos 1970, após a divulgação da tese _Procedures as a Representation for Data in a Computer Program for Understanding Natural Language_ sobre o desenvolvimento do sistema _SHRDLU_, visto anteriormente [@winograd1971]. Serão destacados os autores, as obras de referência e os conceitos centrais em suas abordagens. Adicionalmente serão acrescentados comentários destinados a oferecer um contexto narrativo aos textos.
+Sobre essas últimas questões é que nos debruçaremos neste resumo. Faremos um recorte temporal a partir dos anos 1970, após a divulgação da tese _Procedures as a Representation for Data in a Computer Program for Understanding Natural Language_ sobre o desenvolvimento do sistema _SHRDLU_, visto anteriormente [@winograd1971]. Serão destacados os autores, as obras de referência e os conceitos centrais em suas abordagens. Adicionalmente serão acrescentados comentários destinados a oferecer um contexto narrativo aos textos.
+
+
+
+
+
+
+
+
 
 
 
