@@ -94,7 +94,8 @@ Os autores indicam que uma teoria da compreensão da linguagem deveria levar em 
 
 Além do desenvolvimento do MARGIE, outros analisadores posteriores foram construídos na mesma tradição, produzindo alguns avanços incrementais, incluindo melhorias nas estruturas de controle e nos formatos padronizados para requisições (_requests_), como: ELI (RIESBECK; SCHANK, 1976 _apud_ RIESBECK, 1986), ELI-2 (GERSHMAN, 1979 _apud_ RIESBECK, 1986), SAM (SCHANK; ABELSON, 1977 _apud_ RIESBECK, 1986), PAM (WILENSKY, 1978 _apud_ RIESBECK, 1986), FRUMP (DEJONG, 1979 _apud_ FITZGERALD, 1996) e CA (BIRNBAUM; SELFRIDGE, 1981 _apud_ RIESBECK, 1986) [@fitz1996; @riesbeck1986]. 
 
-A imagem a seguir apresenta um diagrama de blocos indicando o modelo subjacente aos primeiros analisadores conceituais: ![Primeiros analisadores conceituais, [@riesbeck1986, p. 239]. (tradução automatizada com correções manuais)](https://github.com/gabrielmacedo/ci/assets/20596966/45b789e9-f181-4979-ab64-7670aad19b4a)
+A imagem a seguir apresenta um diagrama de blocos indicando o modelo subjacente aos primeiros analisadores conceituais: 
+![Primeiros analisadores conceituais, [@riesbeck1986, p. 239]. (tradução automatizada com correções manuais)](https://github.com/gabrielmacedo/ci/assets/20596966/45b789e9-f181-4979-ab64-7670aad19b4a)
 
 Enquanto categorização, podemos agrupar os modelos desenvolvidos na década de 1970 em função do analisador conceitual (_parser_) está vinculado a uma **tarefa semântica**, uma vez que o objetivo do analisar era extrair o sentido do texto, das setenças analisadas palavra a palavra da esquerda para a direita, por meio de um processo de inferência sobre o significado das palavras [@fitz1996; @riesbeck1986].
 
@@ -104,7 +105,8 @@ As representações conceituais são então descritas como Pacotes de Organizaç
 
 Riesbeck [-@riesbeck1986] descreve esses analisadores conceituais como sistemas de construção e armazenamento, nos quais o analisador sintático constrói uma representação conceitual durante a análise, que é posteriormente armazenada na memória. Um exemplo desse tipo de modelo é o DMAP (_Direct Memory Access Parsing_; Martin 1989, 1990), que busca modelar a análise como um processo integrado à memória. O DMAP é um analisador de reconhecimento, o que significa que ele se baseia em uma representação elaborada da memória conceitual para reconhecer referências a partes dessa memória [@fitz1996]. 
 
-O diagrama de blocos a seguir ilustra o modelo de analisador conceitual baseado em memória: ![Analisadores conceituais baseados em memória - [@riesbeck1986, p. 241]. (tradução automatizada com correções manuais)](https://github.com/gabrielmacedo/ci/assets/20596966/d8c1ec42-7a00-44f3-899d-52fe1a3601a8)
+O diagrama de blocos a seguir ilustra o modelo de analisador conceitual baseado em memória: 
+![Analisadores conceituais baseados em memória - [@riesbeck1986, p. 241]. (tradução automatizada com correções manuais)](https://github.com/gabrielmacedo/ci/assets/20596966/d8c1ec42-7a00-44f3-899d-52fe1a3601a8)
 
 Os analisadores baseados em semântica e em memória serão vinculados à ideia de **modelos cognitivos** para o processamento de linguagem natural, ou seja, uma tentativa de aproximar a tarefa da computação da maneira como as pessoas processam e compreendem textos. Os modelos cognitivos serão preponderantes até o início dos anos 1990. Após esse período, serão iniciadas as aplicações de sistemas baseados em redes neurais para a relização de tarefas de linguística computacional.
 
