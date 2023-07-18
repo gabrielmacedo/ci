@@ -62,7 +62,7 @@ O desenvolvimento recente de novas formas sociotécnicas de relacionamento com a
 
 Até recentemente, o processo de recuperação da informação era predominantemente conduzido por meio de um método controlado de indexação e busca por termos, mesmo com o apoio de sistemas computacionais. Contudo, avanços recentes na área têm introduzido abordagens que utilizam Grandes Modelos de Linguagem (GML) ou _Large Language Models (LLM)_, em inglês. Esses modelos se destacam pela capacidade de gerar conteúdo informacional diversificado, abrangendo textos, imagens e áudios, com base em um modelo computacional estatístico manipulando uma imensa disponibilidade de informações e interagindo por meio de linguagem natural com agentes humanos. É essa característica distintiva que vem sendo aplicada na recuperação de informações em sistemas conversacionais de interação homem-máquina.
 
-No caso mais destacado de sistema utilizando GML, como exemplo o ChatGPT em sua versão com o GPT-3.5, ocorreu uma integração de diversas tecnologias voltadas a melhorar os resultados das respostas. Ou seja, foi buscada a qualificação da recuperação de informações combinando tecnologias de aprendizado profundo (_deep learning_), aprendizado não supervisionado, ajuste fino de instrução, aprendizado multitarefa, aprendizado em contexto e aprendizado por reforço com feedback humano (_Reinforcement learning from Human Feedback - RLHF_) [@chatgpt2022; @wu2023].
+No caso mais destacado de sistema utilizando GML, como exemplo o ChatGPT em sua versão com o GPT-3.5, ocorreu uma integração de diversas tecnologias voltadas a melhorar os resultados das respostas. Ou seja, foi buscada a qualificação da recuperação de informações combinando tecnologias de aprendizado profundo (_deep learning_), aprendizado não supervisionado (_unsupervised learning_), ajuste fino de instrução (_instruction fine-tuning_), aprendizado multitarefa (_multi-task learning_), aprendizado em contexto (_in-context learning_) e aprendizado por reforço com feedback humano (_Reinforcement learning from Human Feedback - RLHF_) [@chatgpt2022; @wu2023].
 
 Entender esses novos arranjos sociotécnicos que envolvem a seleção e a geração de informações possibilita ao profissional de informação uma avaliação crítica das limitações e contribuições desses modelos, ampliando a capacidade de identificar áreas não exploradas, desafios sem soluções e suscitar perguntas que demandem investigações aprofundadas.
 
@@ -70,13 +70,13 @@ Quais critérios seriam necessários para avaliar a capacidade de recuperação 
 
 Oferecer resposta à essas perguntas não é uma tarefa trivial. No entanto, em que pese a atualidade e o desenvolvimento recente dessas novas abordagens de processamento da linguagem natural, não seriam essas perguntas similares - enquanto aos objetivos pretendidos - às já realizadas nas experiências pioneiras do projeto Cranfield I e II e no desenvolvimento do SMART, quando propõem os conceitos de taxa de revocação (_recall ratio_) e de taxa de precisão (_precision ratio_), como elaborados por Aitchison [-@aitchison1963], Cleverdon [-@cleverdon1967] e Salton [-@salton1965], visando identificar melhores abordagens para o problema de recuperar conteúdos de um determinado acervo? 
 
-Aqui, salientamos também a visão de interdisciplinaridade apresentada por Saracevic [-@saracevic1995], ao indicar que não devemos estudar propriamente assuntos na Ciência da Informação, mas sim problemas. A abordagem centrada em problemas atinge diferentes temas e disciplinas, não respeitando o estabelecimento de fronteiras rígidas. A área da recuperação da informação, para o autor, é tomada como o espaço de consolidação maior dessa interdisciplinaridade. Afinal, várias disciplinas são mobilizadas para responder às questões sobre como ofertar informações úteis e como promover interações efetivas para os usuários frente à explosão informacional ocorrida.
+Quanto à caracterização de um problema de informação, salientamos ainda a visão de interdisciplinaridade apresentada por Saracevic [-@saracevic1995], ao indicar que não devemos estudar propriamente assuntos na Ciência da Informação, mas sim problemas. A abordagem centrada em problemas atinge diferentes temas e disciplinas, não respeitando o estabelecimento de fronteiras rígidas. A área da recuperação da informação, para o autor, é tomada como o espaço de consolidação maior dessa interdisciplinaridade. Afinal, várias disciplinas são mobilizadas para responder às questões sobre como ofertar informações úteis e como promover interações efetivas para os usuários frente à explosão informacional ocorrida.
 
 Assim, quanto aos desenvolvimentos dos modelos posteriores às formas de recuperação da informação já vistas, quais novas perguntas se colocaram e como elas foram respondidas? Ou, como apontou Saracevic [-@saracevic1995], como se deu a organização intelectual da informação, a sua recuperação, interação e quais sistemas e técnicas foram usadas nesse processo?
 
-Sobre essas últimas questões é que nos debruçaremos neste resumo. Faremos um recorte temporal a partir dos anos 1970, após a divulgação da tese _Procedures as a Representation for Data in a Computer Program for Understanding Natural Language_ sobre o desenvolvimento do sistema _SHRDLU_, um modelo de mundo de blocos que experimentava a interação entre homem e máquina por meio de textos em linguagem natural, com um vocabulário limitado, como visto anteriormente [@winograd1971]. Serão destacados os autores, as obras de referência e os conceitos centrais em suas abordagens. Adicionalmente serão acrescentados comentários destinados a oferecer um contexto narrativo aos textos.
+Sobre essas últimas questões é que nos debruçaremos neste resumo. Faremos um recorte temporal a partir dos anos 1970 até o final dos anos 1980. Ou seja, iniciaremos após a divulgação da tese _Procedures as a Representation for Data in a Computer Program for Understanding Natural Language_ sobre o desenvolvimento do sistema _SHRDLU_, um modelo de mundo de blocos que experimentava a interação entre homem e máquina por meio de textos em linguagem natural, com um vocabulário limitado, como visto no resumo anterior [@winograd1971]. Serão destacados os autores, as obras de referência e os conceitos centrais em suas abordagens. Adicionalmente serão acrescentados comentários destinados a oferecer um contexto narrativo aos textos.
 
-O desenvolvimento subsequente ao _SHRDLU_, após 1970, se dá pela construção de ontologias na área de computação para análises conceituais. Tal esforço visava estruturar conceitos do mundo material em informações e dados que fossem corretamente classificados por um computador, superando as limitações de vocabulário que restringiam as aplicações desenvolvidas até então, muito centradas na sintaxe, para aplicações que pudessem capturar as relações semânticas da linguagem. Ou seja, deveria haver algum tipo de representação conceitual subjacente no qual os modelos computacionais pudessem usar de referência para a análise da linguagem.
+O desenvolvimento subsequente ao _SHRDLU_, após 1970, se dá pela construção de modelos de mundo na área de computação para análises conceituais. Tal esforço visava estruturar conceitos do mundo material em informações e dados que fossem corretamente classificados ou inferidos por um computador, superando as limitações de vocabulário que restringiam as aplicações desenvolvidas até então, muito centradas na sintaxe, para aplicações que pudessem capturar as relações semânticas da linguagem. Ou seja, deveria haver algum tipo de representação conceitual subjacente no qual os modelos computacionais pudessem usar de referência para a análise da linguagem.
 
 Os primeiros analisadores conceituais foram Spinoza e Spinoza II (Schank, _et al._ 1970 _apud_ @fitz1996). Dentre as diversas propostas, se destacou em 1975 o sistema MARGIE, um programa que fazia inferências em linguagem natural e que era inspirado na Teoria da Dependência Conceitual [@fitz1996]. Desenvolvido incialmente por Roger Schank como um esforço teórico no programa de pós-graduação em linguística na Universidade do Texas, a programação do sistema será iniciada, posteriormente, com um analisador conceitual (_conceptual parser_) elaborado no Projeto de Inteligência Artificial da Universidade de Standford, em parceria com Larry Tesler e Sylvia Weber [@schank1975]. 
 
@@ -95,9 +95,9 @@ Além do desenvolvimento do MARGIE, outros analisadores posteriores foram constr
 
 ![Primeiros analisadores conceituais, [@riesbeck1986, p. 239]. (tradução automatizada com correções manuais)](https://github.com/gabrielmacedo/ci/assets/20596966/45b789e9-f181-4979-ab64-7670aad19b4a)
 
-Enquanto categorização, podemos agrupar os modelos desenvolvidos na década de 1970 em função do analisador conceitual (_parser_) está vinculado a uma _tarefa semântica_, uma vez que o objetivo do analisar era extrair o sentido do texto, das setenças analisadas palavra a palavra da esquerda para a direita, por meio de um processo de inferência sobre o significado das palavras [@fitz1996; @riesbeck1986].
+Enquanto categorização, podemos agrupar os modelos desenvolvidos na década de 1970 em função do analisador conceitual (_parser_) está vinculado a uma **tarefa semântica**, uma vez que o objetivo do analisar era extrair o sentido do texto, das setenças analisadas palavra a palavra da esquerda para a direita, por meio de um processo de inferência sobre o significado das palavras [@fitz1996; @riesbeck1986].
 
-Já na década de 1980, o analisador passa a estar vinculado a uma _tarefa de memória_, crescendo o foco colocado sobre a modelagem de memória e a realização de inferência. Will Fitzgerald [-@fitz1996] destacará os modelos de Memória Dinâmica de Schank (Schank, 1982) relacionados ao IPP (Lebowitz, 1980), BORIS (Dyer, 1983) e o MOPTRANS (Lytinen, 1984). 
+Já na década de 1980, o analisador passa a estar vinculado a uma **tarefa de memória**, crescendo o foco colocado sobre a modelagem de memória e a realização de inferências. Will Fitzgerald [-@fitz1996] destacará os modelos de Memória Dinâmica de Schank (Schank, 1982) relacionados ao IPP (Lebowitz, 1980), BORIS (Dyer, 1983) e o MOPTRANS (Lytinen, 1984). 
 
 As representações conceituais são então descritas como Pacotes de Organização da Memória (POM) (_Memory Organization Packages_ - MOP). Os POM representaram um avanço em relação aos modelos conceituais anteriores devido à sua capacidade de adaptação dinâmica. Isso significava que o estado da memória computacional poderia se adaptar com base em novas entradas, como a de novo texto. Além disso, enfatizavam o empacotamento das representações conceituais, permitindo que essas representações fossem aprendidas e generalizadas por meio de experimentações. Isso resultava em uma melhor organização e armazenamento das informações na memória, contribuindo para uma maior fluidez no processamento e na decisão sobre novos conteúdos [@fitz1996]. A diagrama de blocos a seguir ilustra o modelo de analisador conceitual baseado em memória.
 
@@ -108,6 +108,27 @@ Riesbeck [-@riesbeck1986] descreve esses analisadores conceituais como sistemas 
 
 
 
+
+
+Novas perguntas quanto a 
+
+1) Intellectual Property Protection, The answer provided by
+ChatGPT is generated automatically, making it difficult to
+verify the source of the data; ChatGPT’s responses
+may over-reference other people’s work or articles, potentially leading to infringement disputes.
+  
+2) Safety Aspects: ChatGPT is easily to be used to generate
+misleading information or phishing emails for cyber scams at
+scale. 
+
+3) Ethics and Integrity: Due to ChatGPT’s high efficiency
+and high quality of response, it surpasses most of the existing
+problem-solving software. However, its diverse responses to
+the same question make it difficult to detect plagiarism or
+cheating.
+
+4) Environmental Impact: Since ChatGPT involves a huge
+amount of parameters and pre-training data, it consumes a significant amount of hardware resources during training. Providing ChatGPT services to millions of users every day also generates carbon emissions, which accumulate daily and are challenging to estimate.
 
 Rever o histórico apresentado neste resumo permite observar as origens das tecnologias de interação atuais. Essas tecnologias se concentram na capacidade das máquinas de entender e responder à linguagem natural. Os avanços recentes no processamento de linguagem natural, tais como os realizados pelo ChatGPT, destacam a importância de uma melhor compreensão das formas de recuperação de informações no campo da Ciência da Informação. A revisão cronográfica apresentada neste trabalho explora alguns marcos do desenvolvimento de sistemas de indexação e linguística computacional, contribuindo para esse objetivo. 
 
@@ -124,131 +145,8 @@ Em síntese, os GML são usados para treinamento das possibilidades de inferênc
 
 ## Linha do tempo
 
-Linha do tempo considerando o ano de início dos eventos, projetos, trabalhos ou marcos avaliados ao longo deste resumo:
 
-1975	Máquina de Vetores de Suporte (SVM)	Algoritmo de aprendizado supervisionado para classificação.	Vladimir Vapnik - "Estimation of Dependences Based on Empirical Data"
-1986	Redes Neurais Artificiais	Modelos computacionais inspirados na estrutura do cérebro humano.	David Rumelhart, Geoffrey Hinton, Ronald Williams - "Learning representations by back-propagating errors"
-2014	Word2Vec	Modelo de representação vetorial de palavras baseado em redes neurais.	Tomas Mikolov et al. - "Efficient Estimation of Word Representations in Vector Space"
-2017	Transformadores (Transformers)	Arquitetura de rede neural que captura relações de longo alcance.	Vaswani et al. - "Attention is All You Need"
-2018	Modelo de Linguagem Generativo Pré-Treinado (GPT)	Modelo de linguagem treinado em grandes conjuntos de dados.	Alec Radford et al. - "Improving Language Understanding by Generative Pre-training"
-2020	GPT-3	Modelo de linguagem de escala gigante com 175 bilhões de parâmetros.	Brown et al. - "Language Models are Few-Shot Learners"
-2021	ChatGPT	Sistema de chat baseado em GPT-3, permitindo interação em linguagem natural.	OpenAI - Lançamento público do ChatGPT
 
-1970: Backpropagation Algorithm
 
-Main Concepts: Algorithm for training artificial neural networks.
-Academic Work / Technological Event: Seppo Linnainmaa - "The Representation of the Cumulative Rounding Error of an Algorithm as a Taylor Expansion of the Local Rounding Errors" (Link)
-Relevance: The backpropagation algorithm is crucial for training neural networks, including the models underlying ChatGPT. It enables the optimization of neural network parameters by propagating error gradients backward through the network layers, facilitating the learning process.
-1973: Earley Parser
-
-Main Concepts: Parsing algorithm for context-free grammars.
-Academic Work / Technological Event: Jay Earley - "An Efficient Context-Free Parsing Algorithm" (Link)
-Relevance: Earley parser is an important algorithm for parsing context-free grammars, which helps in syntactic analysis and understanding of natural language. It aids in the processing of input text, enabling ChatGPT to parse and comprehend the grammatical structure of sentences.
-1983: Connectionist Models of Language Processing
-
-Main Concepts: Neural network models for natural language processing.
-Academic Work / Technological Event: James L. McClelland and David E. Rumelhart - "Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Volume 2" (Link)
-Relevance: Connectionist models of language processing, inspired by neural network architectures, play a significant role in ChatGPT's ability to process and generate natural language. These models capture the distributed representation of linguistic information, allowing for more nuanced understanding and generation of text.
-1986: Bidirectional Encoder Representations from Transformers (BERT)
-
-Main Concepts: Pre-training and fine-tuning of transformer models for language understanding.
-Academic Work / Technological Event: Jacob Devlin et al. - "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" (Link)
-Relevance: BERT is a landmark model that introduced the concept of pre-training transformer-based models on large-scale datasets. This approach significantly improved language understanding and became a foundation for subsequent advancements in language models, including ChatGPT.
-1998: Recursive Neural Networks (RNN)
-
-Main Concepts: Neural network architecture capable of processing structured recursive data.
-Academic Work / Technological Event: Richard Socher et al. - "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank" (Link)
-Relevance: Recursive Neural Networks (RNNs) are relevant for ChatGPT as they provide a framework for processing structured and hierarchical information, such as syntactic and semantic structures of sentences. These networks enable the model to capture compositional relationships between words and generate coherent responses.
-1998: WordNet
-
-Main Concepts: Lexical database of semantic relationships between words.
-Academic Work / Technological Event: George A. Miller - "WordNet: An Electronic Lexical Database" (Link)
-Relevance: WordNet is a valuable resource for ChatGPT as it provides a structured representation of word meanings and semantic relationships. Incorporating WordNet's knowledge helps the model to understand word senses, synonyms, hypernyms, and hyponyms, improving its ability to generate contextually appropriate and semantically accurate responses.
-2003: Conditional Random Fields (CRF)
-
-Main Concepts: Probabilistic models for structured prediction, such as sequence labeling.
-Academic Work / Technological Event: John Lafferty et al. - "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data" (Link)
-Relevance: Conditional Random Fields (CRFs) are useful for various natural language processing tasks, including part-of-speech tagging and named entity recognition. These models capture dependencies between input features and output labels, enhancing ChatGPT's ability to generate responses that respect linguistic structures and adhere to specific patterns.
-2013: Skip-gram with Negative Sampling (Word2Vec)
-
-Main Concepts: Word embedding model based on neural networks.
-Academic Work / Technological Event: Tomas Mikolov et al. - "Efficient Estimation of Word Representations in Vector Space" (Link)
-Relevance: The Word2Vec model, specifically the skip-gram with negative sampling variant, is instrumental in capturing distributed representations of words in vector space. These embeddings help ChatGPT to understand semantic relationships between words and generate more contextually coherent responses.
-2014: Sequence-to-Sequence (Seq2Seq) Models
-
-Main Concepts: Neural network models for sequence generation and machine translation.
-Academic Work / Technological Event: Ilya Sutskever et al. - "Sequence to Sequence Learning with Neural Networks" (Link)
-Relevance: Seq2Seq models, typically based on recurrent neural networks (RNNs) or transformers, are instrumental in tasks like machine translation and text generation. ChatGPT leverages the sequence-to-sequence paradigm to transform input queries into output responses, enabling conversational interactions.
-2017: Attention Mechanism
-
-Main Concepts: Mechanism to focus on relevant parts of input data in neural network models.
-Academic Work / Technological Event: Dzmitry Bahdanau et al. - "Neural Machine Translation by Jointly Learning to Align and Translate" (Link)
-Relevance: The attention mechanism plays a vital role in neural network models, including transformers. It allows ChatGPT to focus on relevant parts of the input sequence, enabling more precise understanding and generation of contextually relevant responses.
-2018: Transformer-XL
-
-Main Concepts: Transformer-based model with enhanced context understanding and longer-term dependencies.
-Academic Work / Technological Event: Zihang Dai et al. - "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context" (Link)
-Relevance: Transformer-XL addresses the limitation of fixed-length context in transformers, allowing models to capture longer-term dependencies in text. This improvement enhances ChatGPT's contextual understanding, enabling it to generate more coherent and contextually aware responses.
-
-1971: Gramáticas Livres de Contexto (CFG)
-
-Conceitos Principais: Formalismo para descrever a estrutura sintática das linguagens.
-Trabalhos Acadêmicos / Eventos Tecnológicos: Noam Chomsky - "Hierarchy of Formal Languages" (Link)
-Relevância: O uso de gramáticas livres de contexto é relevante para o ChatGPT, pois fornece uma estrutura formal para descrever a estrutura sintática das linguagens naturais. Com base nesse formalismo, o ChatGPT pode compreender e gerar frases gramaticalmente corretas, auxiliando na produção de respostas coerentes e inteligíveis.
-1972: Autômatos Finitos Determinísticos (DFA)
-
-Conceitos Principais: Modelos computacionais de processamento de linguagem.
-Trabalhos Acadêmicos / Eventos Tecnológicos: Michael O. Rabin e Dana Scott - "Finite Automata and Their Decision Problem" (Link)
-Relevância: Os autômatos finitos determinísticos (DFA) são importantes para o ChatGPT, pois fornecem um modelo teórico para o processamento de linguagem. Embora o ChatGPT utilize abordagens mais avançadas, a compreensão de conceitos fundamentais de autômatos finitos é relevante para entender como os modelos de linguagem podem lidar com a estrutura e o processamento de sequências de texto.
-1975: Máquina de Vetores de Suporte (SVM)
-
-Conceitos Principais: Algoritmo de aprendizado supervisionado para classificação e regressão.
-Trabalhos Acadêmicos / Eventos Tecnológicos: Vladimir Vapnik - "Estimation of Dependences Based on Empirical Data" (Link)
-Relevância: Os Support Vector Machines (SVMs) são relevantes para o ChatGPT por serem uma técnica de aprendizado utilizada para classificação e regressão. A compreensão desses algoritmos é importante para entender como o ChatGPT pode ser treinado e ajustado para responder apropriadamente a diferentes tipos de entrada e fornecer respostas relevantes e úteis aos usuários.
-1980: Modelos Ocultos de Markov (HMM)
-
-Conceitos Principais: Modelos probabilísticos para sequências de eventos.
-Trabalhos Acadêmicos / Eventos Tecnológicos: L. E. Baum e outros - "A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains" (Link)
-Relevância: Os Modelos Ocultos de Markov são relevantes para o ChatGPT por serem modelos probabilísticos capazes de modelar sequências de eventos. Esses modelos são úteis para entender e prever a estrutura e a probabilidade de uma sequência de palavras, auxiliando o ChatGPT a gerar respostas coerentes e contextualmente relevantes.
-1986: Redes Neurais Artificiais
-
-Conceitos Principais: Modelos computacionais inspirados na estrutura do cérebro humano.
-Trabalhos Acadêmicos / Eventos Tecnológicos: David Rumelhart, Geoffrey Hinton, Ronald Williams - "Learning representations by back-propagating errors" (Link)
-Relevância: As Redes Neurais Artificiais são fundamentais para o ChatGPT, pois são modelos computacionais inspirados no funcionamento do cérebro humano. Essas redes têm a capacidade de aprender e representar informações complexas, permitindo ao ChatGPT compreender e gerar texto em linguagem natural de maneira mais sofisticada e contextualmente adequada.
-1997: Algoritmo de PageRank
-
-Conceitos Principais: Algoritmo de classificação de páginas da web para mecanismos de busca.
-Trabalhos Acadêmicos / Eventos Tecnológicos: Sergey Brin e Lawrence Page - "The Anatomy of a Large-Scale Hypertextual Web Search Engine" (Link)
-Relevância: O algoritmo de PageRank é relevante para o ChatGPT, pois foi uma das bases para a construção de mecanismos de busca eficientes e escaláveis. Embora o ChatGPT não seja um mecanismo de busca, a capacidade de organizar e classificar informações é fundamental para gerar respostas relevantes e informativas com base na entrada do usuário.
-2001: Support Vector Machines (SVM)
-
-Conceitos Principais: Algoritmo de aprendizado de máquina para classificação e regressão.
-Trabalhos Acadêmicos / Eventos Tecnológicos: Corinna Cortes e Vladimir Vapnik - "Support-Vector Networks" (Link)
-Relevância: Os Support Vector Machines (SVMs) são relevantes para o ChatGPT por serem uma técnica de aprendizado utilizada para classificação e regressão. A compreensão desses algoritmos é importante para entender como o ChatGPT pode ser treinado e ajustado para responder apropriadamente a diferentes tipos de entrada e fornecer respostas relevantes e úteis aos usuários.
-2014: Word2Vec
-
-Conceitos Principais: Modelo de representação vetorial de palavras baseado em redes neurais.
-Trabalhos Acadêmicos / Eventos Tecnológicos: Tomas Mikolov et al. - "Efficient Estimation of Word Representations in Vector Space" (Link)
-Relevância: O Word2Vec é relevante para o ChatGPT, pois é uma técnica de representação de palavras que captura informações semânticas e relacionamentos entre palavras. Isso permite que o ChatGPT compreenda e gere texto que reflete a semântica e o contexto das palavras utilizadas, melhorando a qualidade e a relevância das respostas geradas.
-2017: Transformadores (Transformers)
-
-Conceitos Principais: Arquitetura de rede neural que captura relações de longo alcance.
-Trabalhos Acadêmicos / Eventos Tecnológicos: Vaswani et al. - "Attention is All You Need" (Link)
-Relevância: A arquitetura dos Transformadores é essencial para o ChatGPT, permitindo que o modelo capture relações de longo alcance em sequências de texto. Os mecanismos de atenção dos Transformadores são fundamentais para compreender e gerar respostas coerentes e contextualmente relevantes, melhorando a capacidade do ChatGPT de entender e responder às perguntas e comandos dos usuários.
-2018: Modelo de Linguagem Generativo Pré-Treinado (GPT)
-
-Conceitos Principais: Modelo de linguagem treinado em grandes conjuntos de dados.
-Trabalhos Acadêmicos / Eventos Tecnológicos: Alec Radford et al. - "Improving Language Understanding by Generative Pre-training" (Link)
-Relevância: O modelo de linguagem generativo pré-treinado (GPT) é um marco importante para o ChatGPT, pois demonstra como modelos de linguagem podem ser treinados em grandes conjuntos de dados para gerar texto de alta qualidade. O GPT estabeleceu a base para o desenvolvimento de modelos de linguagem em grande escala, como o ChatGPT, permitindo que ele gere respostas mais fluentes e coerentes aos usuários.
-2020: GPT-3
-
-Conceitos Principais: Modelo de linguagem de escala gigante com 175 bilhões de parâmetros.
-Trabalhos Acadêmicos / Eventos Tecnológicos: Brown et al. - "Language Models are Few-Shot Learners" (Link)
-Relevância: O GPT-3 é relevante para o ChatGPT, pois é um modelo de linguagem de escala gigante que demonstra a capacidade de aprender e gerar texto de alta qualidade em diversos contextos. O GPT-3 estabeleceu novos padrões em termos de tamanho e complexidade dos modelos de linguagem, inspirando o desenvolvimento do ChatGPT e aprimorando sua capacidade de gerar respostas mais abrangentes e informativas.
-2021: ChatGPT
-
-Conceitos Principais: Sistema de chat baseado em GPT-3, permitindo interação em linguagem natural.
-Trabalhos Acadêmicos / Eventos Tecnológicos: OpenAI - Lançamento público do ChatGPT (Link)
-Relevância: O ChatGPT é o produto final desta linha do tempo, construído sobre os avanços anteriores em modelos de linguagem e técnicas de processamento de linguagem natural. O ChatGPT incorpora os conceitos e técnicas relevantes mencionados anteriormente, permitindo interação em linguagem natural e geração de respostas contextuais e inteligentes. É uma aplicação prática e relevante dos avanços da inteligência artificial e do processamento de linguagem natural.
 
 ## Referências
