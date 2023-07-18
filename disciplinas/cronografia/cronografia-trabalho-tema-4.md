@@ -108,12 +108,27 @@ Riesbeck [-@riesbeck1986] descreve esses analisadores conceituais como sistemas 
 
 ![Analisadores conceituais baseados em memória - [@riesbeck1986, p. 241]. (tradução automatizada com correções manuais)](https://github.com/gabrielmacedo/ci/assets/20596966/d8c1ec42-7a00-44f3-899d-52fe1a3601a8)
 
-Os analisadores baseados em semântica e em memória serão vinculados à ideia de **modelos cognitivos** para o processamento de linguagem natural, ou seja, uma tentativa de aproximar a tarefa da computação da maneira como as pessoas processam e compreendem textos. Os modelos cognitivos serão preponderantes até o início dos anos 1990 quando, então, se iniciam as aplicações de sistemas baseados em aprendizado de máquina (_machine learning_) para a relização de tarefas de linguística computacional.
+Os analisadores baseados em semântica e em memória serão vinculados à ideia de **modelos cognitivos** para o processamento de linguagem natural, ou seja, uma tentativa de aproximar a tarefa da computação da maneira como as pessoas processam e compreendem textos. Os modelos cognitivos serão preponderantes até o início dos anos 1990. Após esse período, serão iniciadas as aplicações de sistemas baseados em redes neurais para a relização de tarefas de linguística computacional.
 
 Este resumo procurou compreender os desafios e as soluções encontradas no processamento de linguagem natural, em diálogo com as teorias e respostas que emergiram no campo da computação entre os anos 1970 e 1990. Entende-se que esse esforço auxilia na compreensão das visões sobre essa trajetória, sobre a recuperação e o uso eficiente de um conjunto informacional cada vez maior e mais disponível.
 
 Revisitar os modelos do passado pode evitar a repetição de trajetórias equivocadas ou mesmo a identificação de necessidades persistentes. Por exemplo, a capacidade de comparar soluções com base em dados empíricos e a necessidade de criar métricas de avaliação quanto à precisão da recuperação informacional, seja de um documento completo ou de fragmentos recortados por mapeamentos semânticos, inferidos por sistemas baseados em regras. Como sugeriu Saracevic [-@saracevic1995], apreender o fenômeno informacional por meio do enfrentamento de problemas pode contribuir para distinguir as novas tecnologias e perceber que caminhos parecem mais promissores. E é nesse sentido que observar as origens das tecnologias de interação atuais, considerando os marcos do desenvolvimento da linguística computacional e sob o aspecto interdisciplinar na Ciência da Informação, que novas e velhas questões pertinentes podem ser exploradas.
 
 ## Linha do tempo
+
+- 1970: primeiros analisadores conceituais - Spinoza e Spinoza II.
+- 1971: divulgação do sistema _SHRDLU_.
+- 1975: sistema MARGIE.
+- 1976: sistema ELI.
+- 1977: sistema SAM.
+- 1978: sistema PAM.
+- 1979: sistema ELI-2.
+- 1979: sistema FRUMP.
+- 1980: sistema IPP.
+- 1981: sistema CA.
+- 1982: Memória Dinâmica de Schank.
+- 1983: sistema BORIS.
+- 1984: sistema MOPTRANS.
+- 1989: sistema DMAP.
 
 ## Referências
