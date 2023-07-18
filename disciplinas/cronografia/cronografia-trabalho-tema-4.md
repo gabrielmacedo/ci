@@ -66,7 +66,7 @@ No caso mais destacado de sistema utilizando GML, como exemplo o ChatGPT em sua 
 
 Entender esses novos arranjos sociotécnicos que envolvem a seleção e a geração de informações possibilita ao profissional de informação uma avaliação crítica das limitações e contribuições desses modelos, ampliando a capacidade de identificar áreas não exploradas, desafios sem soluções e suscitar perguntas que demandem investigações aprofundadas.
 
-Quais critérios seriam necessários para avaliar a capacidade de recuperação de informações e de geração de linguagem natural presentes em tecnologias de GML? Como estabelecer métricas para comparar diferentes modelos e selecionar, a cada caso de uso, a melhor tecnologia disponível?
+Quais critérios seriam necessários para avaliar a capacidade de recuperação de informações e de geração de linguagem natural presentes em novas tecnologias? Como estabelecer métricas para comparar diferentes modelos e selecionar, a cada caso de uso, a melhor tecnologia disponível?
 
 Oferecer resposta à essas perguntas não é uma tarefa trivial. No entanto, em que pese a atualidade e o desenvolvimento recente dessas novas abordagens de processamento da linguagem natural, não seriam essas perguntas similares - enquanto aos objetivos pretendidos - às já realizadas nas experiências pioneiras do projeto Cranfield I e II e no desenvolvimento do SMART, quando propõem os conceitos de taxa de revocação (_recall ratio_) e de taxa de precisão (_precision ratio_), como elaborados por Aitchison [-@aitchison1963], Cleverdon [-@cleverdon1967] e Salton [-@salton1965], visando identificar melhores abordagens para o problema de recuperar conteúdos de um determinado acervo? 
 
@@ -83,6 +83,7 @@ Os primeiros analisadores conceituais foram Spinoza e Spinoza II (Schank, _et al
 Para os propositores do sistema, o problema do processamento de linguagem natural foi dividido em três partes distintas, porém interdependentes: "(1) mapear sentenças em uma representação de seu significado; (2) armazenar e fazer inferências sobre um significado que é recebido por uma memória; e (3) a tradução de uma representação de significado de volta para uma linguagem natural" [@schank1975, p. 1] (tradução automatizada com correções manuais). O MERGIE se baseava num conjunto de regras "se-então", nomeadas de _requests_, tendo por objetivo principal produzir programas de computador que pudessem entender e gerar sentenças de forma geral, para problemas de linguística computacional, sem as limitações de escopo dos projetos de micro mundos.
 
 Quanto às formas de funcionamento, explica o autor: 
+
 > "o programa MARGIE tem dois modos: _PARAPHRASE_ e _INFERENCE_. No modo _PARAPHRASE_, as paráfrases semânticas podem ser geradas a partir de uma frase de entrada lendo a representação conceitual subjacente a essa frase usando diferentes palavras e combinações de conceitos. No modo INFERENCE, muitas das possíveis inferências que podem ser feitas a partir de uma sentença de entrada são produzidas e, em seguida, geradas como saída" [@schank1975, p. 2] (tradução automatizada com correções manuais).
 
 Destacamos aqui uma ideia apresentada por Roger Schank e Robert Abelson, na Conferência Conjunta Internacional sobre Inteligência Artificial, realizada em setembro de 1975, que ilustra a necessidade de um modelo destinado não mais a recuperar documentos ou traduzir referências, mas em construir uma cadeia de significados que são inicialmente abstraídas de textos em linguagem natural, têm seus elementos principais armazenados e, posteriormente, recriar o texto a partir de ligações feitas entre esses elementos. Cabendo ao modelo selecionar o que é realmente relevante e o que precisa ser armazenado para a reconstrução da mensagem [@schank1975a].
@@ -105,48 +106,12 @@ As representações conceituais são então descritas como Pacotes de Organizaç
 
 Riesbeck [-@riesbeck1986] descreve esses analisadores conceituais como sistemas de construção e armazenamento, nos quais o analisador sintático constrói uma representação conceitual durante a análise, que é posteriormente armazenada na memória. Um exemplo desse tipo de modelo é o DMAP (_Direct Memory Access Parsing_; Martin 1989, 1990), que busca modelar a análise como um processo integrado à memória. O DMAP é um analisador de reconhecimento, o que significa que ele se baseia em uma representação elaborada da memória conceitual para reconhecer referências a partes dessa memória [@fitz1996].
 
+Os analisadores baseados em semântica e em memória serão vinculados à ideia de **modelos cognitivos** para o processamento de linguagem natural, ou seja, uma tentativa de aproximar a tarefa da computação da maneira como as pessoas processam e compreendem textos. Os modelos cognitivos serão preponderantes até o início dos anos 1990 quando, então, se iniciam as aplicações de sistemas baseados em aprendizado de máquina (_machine learning_) para a relização de tarefas de linguística computacional.
 
+Este resumo procurou compreender os desafios e as soluções encontradas no processamento de linguagem natural, em diálogo com as teorias e respostas que emergiram no campo da computação entre os anos 1970 e 1990. Entende-se que esse esforço auxilia na compreensão das visões sobre essa trajetória, sobre a recuperação e o uso eficiente de um conjunto informacional cada vez maior e mais disponível.
 
-
-
-
-Novas perguntas quanto a 
-
-1) Intellectual Property Protection, The answer provided by
-ChatGPT is generated automatically, making it difficult to
-verify the source of the data; ChatGPT’s responses
-may over-reference other people’s work or articles, potentially leading to infringement disputes.
-  
-2) Safety Aspects: ChatGPT is easily to be used to generate
-misleading information or phishing emails for cyber scams at
-scale. 
-
-3) Ethics and Integrity: Due to ChatGPT’s high efficiency
-and high quality of response, it surpasses most of the existing
-problem-solving software. However, its diverse responses to
-the same question make it difficult to detect plagiarism or
-cheating.
-
-4) Environmental Impact: Since ChatGPT involves a huge
-amount of parameters and pre-training data, it consumes a significant amount of hardware resources during training. Providing ChatGPT services to millions of users every day also generates carbon emissions, which accumulate daily and are challenging to estimate.
-
-Rever o histórico apresentado neste resumo permite observar as origens das tecnologias de interação atuais. Essas tecnologias se concentram na capacidade das máquinas de entender e responder à linguagem natural. Os avanços recentes no processamento de linguagem natural, tais como os realizados pelo ChatGPT, destacam a importância de uma melhor compreensão das formas de recuperação de informações no campo da Ciência da Informação. A revisão cronográfica apresentada neste trabalho explora alguns marcos do desenvolvimento de sistemas de indexação e linguística computacional, contribuindo para esse objetivo. 
-
-Olhar para as tecnologias por meio da Ciência da Informação é fundamental para as discussões no âmbito desta disciplina, trazendo novas perspectivas para os profissionais envolvidos. Compreender a gênese desses  proporciona uma base sólida para entender as interações entre humanos e máquinas de hoje.
-
-
-
-A relação entre os LLM e os Transformers é intrínseca, pois os Transformers são a arquitetura de rede neural usada para construir os LLMs. Os Transformers são modelos de processamento de linguagem natural (NLP) que se destacam por sua capacidade de capturar relações de longo alcance em sequências de dados, como texto. Essa arquitetura se baseia em mecanismos de atenção para aprender representações contextualizadas de palavras ou tokens em uma sequência.
-
-Os LLMs são versões aprimoradas dos Transformers, treinados em enormes quantidades de dados textuais para gerar, completar ou compreender texto de maneira fluente. Eles são capazes de capturar informações semânticas e contextuais complexas e produzir resultados que se assemelham à linguagem humana.
-
-
-Em síntese, os GML são usados para treinamento das possibilidades de inferência e generalização dos agentes de aprendizado computacionais, auxiliando a contextualizar a linguagem e a oferta de resposta mais sofisticadas
+Revisitar os modelos do passado pode evitar a repetição de trajetórias equivocadas ou mesmo a identificação de necessidades persistentes. Por exemplo, a capacidade de comparar soluções com base em dados empíricos e a necessidade de criar métricas de avaliação quanto à precisão da recuperação informacional, seja de um documento completo ou de fragmentos recortados por mapeamentos semânticos, inferidos por sistemas baseados em regras. Como sugeriu Saracevic [-@saracevic1995], apreender o fenômeno informacional por meio do enfrentamento de problemas pode contribuir para distinguir as novas tecnologias e perceber que caminhos parecem mais promissores. E é nesse sentido que observar as origens das tecnologias de interação atuais, considerando os marcos do desenvolvimento da linguística computacional e sob o aspecto interdisciplinar na Ciência da Informação, que novas e velhas questões pertinentes podem ser exploradas.
 
 ## Linha do tempo
-
-
-
-
 
 ## Referências
