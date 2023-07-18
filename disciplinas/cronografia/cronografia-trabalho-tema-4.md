@@ -92,7 +92,9 @@ Os autores indicam que uma teoria da compreensão da linguagem deveria levar em 
 
 É interessante notar que, apesar dos sistemas atuais terem uma implementação mais complexa, a ideia de aprendizado de máquina (_machine learning_) sob um dado significado textual compartilha do mesmo tipo de objetivo, qual seja, construir um modelo para responder à novos dados de entrada com base também em heurísticas depreendidas dos dados de treinamento. 
 
-Além do desenvolvimento do MARGIE, outros analisadores posteriores foram construídos na mesma tradição, produzindo alguns avanços incrementais, incluindo melhorias nas estruturas de controle e nos formatos padronizados para requisições (_requests_), como: ELI (Riesbeck & Schank 1976), ELI-2 (Gershman, 1979), SAM (Schank & Abelson 1977), PAM (Wilensky 1978), FRUMP (DeJong 1979) e CA (Birnbaum & Selfridge, 1981) [@fitz1996; @riesbeck1986]. A imagem a seguir apresenta um diagrama de blocos indicando a arquitetura pensada para os primeiros analisadores conceituais.
+Além do desenvolvimento do MARGIE, outros analisadores posteriores foram construídos na mesma tradição, produzindo alguns avanços incrementais, incluindo melhorias nas estruturas de controle e nos formatos padronizados para requisições (_requests_), como: ELI (Riesbeck & Schank 1976), ELI-2 (Gershman, 1979), SAM (Schank & Abelson 1977), PAM (Wilensky 1978), FRUMP (DeJong 1979) e CA (Birnbaum & Selfridge, 1981) [@fitz1996; @riesbeck1986]. 
+
+A imagem a seguir apresenta um diagrama de blocos indicando a arquitetura pensada para os primeiros analisadores conceituais.
 
 ![Primeiros analisadores conceituais, [@riesbeck1986, p. 239]. (tradução automatizada com correções manuais)](https://github.com/gabrielmacedo/ci/assets/20596966/45b789e9-f181-4979-ab64-7670aad19b4a)
 
