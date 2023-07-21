@@ -65,6 +65,8 @@ Tópicos:
 
 - É comum a divulgação de documentos, padrões, orientações e dados técnicos relacionados à segurança da aviação em formatos não legíveis por máquinas, tornando a integração dessas informações ineficiente em contraste ao estado atual do desenvolvimento de tecnologias pensadas para a interoperabilidade.
 
+- O estudo das fragilidades do sistema de segurança de aviação permite agir em relação a problemas sistêmicos e à gestão de riscos, promovendo recomendações práticas aos agentes do setor aéreo. É a ação sistemática de investigar e aplicar recomendações que assegura a aprendizagem e auxilia na prevenção de futuras ocorrências.
+
 - Dentre as propostas de adoção e massificação do uso das tecnologias da web para o tratamento de dados, os princípios FAIR (acrônimo para _Findable, Accessible, Interoperable and Reusable_), conforme publicado por GO FAIR, reúnem boas práticas e recomendações para a localização, acessibilidade, interoperabilidade e reutilização de dados.
 
 - O conjunto de princípios FAIR foi proposto para permitir uma infraestrutura para a reutilização de dados acadêmicos. Contudo, a experiência de utilização das tecnologias da web vai além do mundo acadêmico e nos leva a entender que esse arcabouço pode ser adotado em outros campos, como na aviação civil, especialmente para os dados de interesse da segurança da aviação.
@@ -74,18 +76,39 @@ Tópicos:
 - A área de _Recuperação da Informação_ (RI) na CI tem se voltado ao entendimento de como o fenômeno informacional ocorre e como ele pode ser trabalhado para possibilitar a correta comunicação diretamente entre homens e homens e entre homens e homens mediados por máquinas.
 
 
-1.1 Breve histórico da construção da segurança na aviação civil
+1.1 Evolução da segurança na aviação
 
+A evolução da segurança da aviação civil tem sido um trabalho contínuo que envolve a identificação e avaliação minuciosa dos riscos envolvidos no setor aéreo. Ao longo dos anos, a indústria da aviação tem se dedicado a aprimorar seus sistemas e processos para garantir um ambiente cada vez mais seguro. Isso inclui a análise de incidentes passados, a investigação de acidentes, a coleta de dados relevantes e a implementação de recomendações de segurança.
 
+Além disso, os provedores de serviços e as autoridades da aviação civil devem colaboram para estabelecer padrões e procedimentos comuns, bem como para promover uma cultura de segurança abrangente.
 
+Tanto os provedores de serviços quanto as autoridades da aviação civil têm a responsabilidade de gerenciar os riscos, embora os tipos e abrangência dos perigos possam variar. Por exemplo, enquanto um provedor de serviços pode identificar riscos específicos relacionados à sua organização individual, uma autoridade de aviação civil pode identificar tendências emergentes em todo o sistema de aviação, com base em dados agregados de vários provedores de serviços.
 
+Para possibilitar que os gestores de todas as organizações tomem decisões baseadas em riscos, é fundamental que essas entidades possuam e analisem dados de segurança para identificar os perigos presentes em seus respectivos sistemas. Dessa forma, o uso de terminologia e definições comuns torna-se essencial para agregar e comparar dados de maneira eficiente.
 
+A gestão de riscos é fundamental para identificar potenciais problemas e implementar medidas preventivas que salvaguardem a integridade de passageiros, tripulações e aeronaves, solidificando assim a segurança como um pilar da aviação civil moderna.
 
+1.2 A centralidade do problema de informação
 
+Um dos problemas frequentes na gestão da segurança da aviação civil é o desafio de obter informações abrangentes e precisas sobre incidentes, riscos e tendências relacionados à segurança. 
 
+Existem diversas razões para esse problema:
 
+1) Subnotificação: nem todos os incidentes ou ocorrências de risco são devidamente relatados às autoridades responsáveis. Às vezes, indivíduos ou organizações podem hesitar em divulgar eventos adversos por medo de consequências legais ou impacto na reputação.
 
+2) Cultura de sigilo: algumas companhias aéreas, provedores de serviços ou outros atores do setor podem ter uma cultura de sigilo em torno de questões de segurança. Isso pode dificultar a comunicação aberta e a troca de informações relevantes.
 
+3) Falta de padrões e de sistemas integrados: a falta de padrões unificados e sistemas integrados de gerenciamento de segurança pode ocasionar a fragmentação dos dados. Isso dificulta a compilação e análise de informações em nível global e sistêmico.
+
+4) Dificuldades na análise de dados: os sistemas de gestão da segurança da aviação civil podem não ter capacidade para acompanhar a quantidade crescente de dados disponíveis. A falta de recursos adequados ou tecnologias eficientes para analisar esses dados pode tornar difícil a identificação de padrões e tendências relevantes para mitigação de ocorrências.
+
+5) Cooperação e compartilhamento limitados: algumas organizações podem hesitar em compartilhar informações de segurança com outras partes interessadas, como concorrentes ou reguladores, devido a segredos comerciais ou ou preocupações com a confidencialidade dos dados.
+
+6) Dependência de trajetória tecnológica pelo meio de suporte da informação: a dependência de trajetória tecnológica baseada em sistemas criados para funcionar tendo o papel como meio de suporte e comunicação podem ser limitados em termos de eficiência, precisão e capacidade de coleta e análise de dados. Sistemas baseados em papel exigem processos manuais, o que pode ser lento e propenso a erros. Isso pode resultar em atrasos na comunicação de informações críticas. O armazenamento físico de dados em papel dificulta o compartilhamento rápido e abrangente de informações entre diferentes partes interessadas. Sistemas em papel tornam difícil lidar com grandes volumes de dados, dificultando a identificação de tendências e padrões relevantes para aprimorar a segurança.
+
+Superar esses desafios requer esforços contínuos para promover uma cultura de segurança aberta e transparente, incentivar a comunicação e cooperação entre os atores do setor, estabelecer padrões e sistemas integrados de coleta e análise de dados e garantir a confidencialidade necessária para proteger as partes envolvidas.
+
+A gestão eficaz da segurança da aviação civil depende do acesso e compartilhamento adequado de informações para identificar riscos e implementar medidas preventivas de forma proativa.
 
 Uma vez que os estudos sobre a interdisciplinaridade da Ciência da Informação lançam um olhar sobre as interseções de conteúdos de diferentes campos disciplinares na construção do conhecimento científico, este trabalho buscará, através de uma análise das tecnologias contemporâneas de Processamento de Linguagem Natural (PLN), identificar os marcos do seu desenvolvimento, a relação temporal que estabelecem e a presença desse variado esforço de diferentes ciências na compreensão dos problemas do seu objeto de estudo: a _informação_.
 
