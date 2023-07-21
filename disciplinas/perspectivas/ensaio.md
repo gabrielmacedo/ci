@@ -1,5 +1,5 @@
 ---
-title: Ensaio - Há um problema de informação na gestão da segurança da aviação civil?
+title: Há um problema de informação na gestão da segurança da aviação civil?
 # subtitle: 
 tags:
   - science information
@@ -58,9 +58,9 @@ lang: pt-BR
 draft: true
 ---
 
-# Ensaio - Há um problema de informação na gestão da segurança da aviação civil?
+# Há um problema de informação na gestão da segurança da aviação civil?
 
-1 - Motivações
+## 1 - Motivações
 
 Este ensaio parte de algumas inquietações enfrentadas durante os quase 10 anos de trabalho desse autor na Agência Nacional de Aviação Civil (ANAC). A partir dessa experiência podemos suscitar algumas questões. 
 
@@ -198,7 +198,7 @@ Diferente de outras iniciativas do setor aéreo que já contam com um vocabulár
 
 É essa lacuna que o nosso trabalho de pesquisa pretende explorar. Por que tornar FAIR os dados de aviação? Quais os desafios e benefícios de disponibilizar dados de aviação seguindo os princípios FAIR? Como tornar FAIR um vocabulário controlado de gestão da segurança de aviação? 
 
-2 - Considerações finais
+## 2 - Considerações finais
 
 É comum encontrar documentos, orientações e dados técnicos relacionados à segurança da aviação em formatos não padronizados e não legíveis por máquinas. Isso resulta em uma integração ineficiente dessas informações, especialmente quando consideramos o estado atual do desenvolvimento de tecnologias voltadas para a interoperabilidade. 
 
