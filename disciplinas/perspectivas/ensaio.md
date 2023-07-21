@@ -151,30 +151,27 @@ Portanto, aplicar os princípios FAIR aos dados de interesse da gestão da segur
 
 Considerando que a necessidade de uso de dados para a gestão da segurança na aviação se assemelha ao ambiente de compartilhamento de dados científicos, quais boas práticas de aplicação dos princípios FAIR são pertinentes e podem ser aproveitadas? 
 
-1.6 - No princípio, os vocabulários
+1.6 - O uso de vocabulários FAIR
 
 Ao investigar os requisitos para tornar os dados FAIR, um dos pontos críticos é a disponibilidade de vocabulários que também atendam aos princípios FAIR. Os vocabulários FAIR são conjuntos de termos padronizados e bem definidos que permitem uma comunicação eficiente e consistente entre diferentes sistemas e fontes de dados.
 
-Ou seja: a disponibilidade de um conjunto de metadados que possa ser referenciado, seguindo as boas práticas de publicação, está na raiz da possibilidade de tornar dados interoperáveis e legíveis por máquinas. Eles são essenciais para garantir que os dados sejam compreensíveis e interpretados corretamente, independentemente do contexto em que serão usados.
+Ou seja, a disponibilidade de um conjunto de metadados que possa ser vinculado aos dados e adequadamente referenciado, seguindo as boas práticas de publicação, está na raiz da possibilidade de tornar dados interoperáveis e legíveis por máquinas. Eles são essenciais para garantir que os dados sejam compreensíveis e interpretados corretamente, independentemente do contexto em que serão usados.
 
+Algumas características sobre os vocabulários FAIR:
 
+1) Padronização: os vocabulários FAIR seguem padrões definidos que são aceitos e utilizados em um determinado campo. Isso permite que os termos usados para descrever os dados sejam consistentes, evitando ambiguidades na interpretação.
 
+2) Compartilhamento e integração de dados: o uso de vocabulários FAIR facilitar a integração entre diferentes fontes de dados e sistemas, permitindo que os usuários combinem e analisem dados de modo mais abrangente.
 
+3) Reutilização: o uso de vocabulários FAIR facilita a reutilização de dados por terceiros, pois os dados são apresentados de forma bem documentada, contribuindo para os usuários entenderem e o reaproveitarem em seus próprios trabalhos.
 
-
-
-
-
-
-
-dependência de dispositivos tecnológicos e sistemas computacionais na vida cotidiana tem aumentado a necessidade de uma recuperação de informações
-
-empenhada em entender o fenômeno informacional e desenvolver técnicas que possibilitem uma comunicação mais eficiente e direta entre seres humanos e máquinas.
-
+4) Descoberta de dados: vocabulários FAIR também são importantes para tornar os dados encontráveis, pois facilitam a indexação e recuperação de informações por meio de sistemas de busca e catálogos. Isso é crucial para a localização eficiente de dados relevantes em meio a um grande volume de informações disponíveis.
 
 
 
 1.7 - Conclusão
+
+Diante desses indícios de aplicação e utilidade dos princípios FAIR para os dados de interesse da gestão da segurança da aviação,  
 
 O desenvolvimento recente de novas formas sociotécnicas de relacionamento com a linguagem, recoloca o desafio de compreender os avanços tecnológicos e as alternativas possíveis, aos pesquisadores da ciência da informação, nos sistemas de processamento da linguagem e de recuperação de informações.
 
@@ -187,6 +184,9 @@ Entender esses novos arranjos sociotécnicos que envolvem a seleção e a geraç
 
 
 
+dependência de dispositivos tecnológicos e sistemas computacionais na vida cotidiana tem aumentado a necessidade de uma recuperação de informações
+
+empenhada em entender o fenômeno informacional e desenvolver técnicas que possibilitem uma comunicação mais eficiente e direta entre seres humanos e máquinas.
 
 
 
