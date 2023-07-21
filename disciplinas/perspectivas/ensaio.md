@@ -67,13 +67,9 @@ Tópicos:
 
 - O estudo das fragilidades do sistema de segurança de aviação permite agir em relação a problemas sistêmicos e à gestão de riscos, promovendo recomendações práticas aos agentes do setor aéreo. É a ação sistemática de investigar e aplicar recomendações que assegura a aprendizagem e auxilia na prevenção de futuras ocorrências.
 
-- Dentre as propostas de adoção e massificação do uso das tecnologias da web para o tratamento de dados, os princípios FAIR (acrônimo para _Findable, Accessible, Interoperable and Reusable_) reúnem boas práticas e recomendações para a localização, acessibilidade, interoperabilidade e reutilização de dados.
 
-- O conjunto de princípios FAIR foi proposto para permitir uma infraestrutura para a reutilização de dados acadêmicos. Contudo, a experiência de utilização das tecnologias da web vai além do mundo acadêmico e nos leva a entender que esse arcabouço pode ser adotado em outros campos, como na aviação civil, especialmente para os dados de interesse da segurança da aviação.
 
 - Ao investigar os requisitos para tornar os dados FAIR, um dos pontos críticos é a disponibilidade de vocabulários que também atendam aos princípios FAIR. Ou seja, a disponibilidade de um conjunto de metadados que possa ser referenciado seguindo as boas práticas de publicação está na raiz da possibilidade de tornar dados interoperáveis e legíveis por máquinas.
-
-- A área de _Recuperação da Informação_ (RI) na CI tem se voltado ao entendimento de como o fenômeno informacional ocorre e como ele pode ser trabalhado para possibilitar a correta comunicação diretamente entre homens e homens e entre homens e homens mediados por máquinas.
 
 1.1 - Breve evolução da segurança na aviação
 
@@ -131,33 +127,43 @@ A gestão da segurança da aviação é uma área complexa, na qual é necessár
 
 Reunir conhecimentos e perspectivas de diversas áreas relacionadas à aviação, como engenharia aeronáutica, psicologia, ciência da informação, direito aeronáutico e outros, é uma ação importante para compreender as complexidades do sistema de aviação, identificar riscos potenciais e propor soluções.
 
-O desenvolvimento contínuo das tecnologias da informação e comunicação trouxe consigo uma transformação na maneira como as pessoas se comunicam e interagem com a linguagem. Essa evolução tecnológica exige uma compreensão aprofundada dos avanços emergentes e das alternativas disponíveis para a recuperação de informações.
+O desenvolvimento contínuo das tecnologias da informação e comunicação trouxe consigo uma transformação na maneira como as pessoas se comunicam e como interagem com a linguagem. Essa evolução tecnológica exige uma compreensão aprofundada dos avanços emergentes e das alternativas disponíveis para a recuperação de informações.
 
 1.5 - A adoção dos princípios FAIR como resposta interdisciplinar ao problema informacional
 
-Os princípios FAIR surgiram como uma resposta ao desafio da fragmentação e falta de interoperabilidade de dados em diversas áreas da ciência. "FAIR" é um acrônimo para "Findable" (Encontrável), "Accessible" (Acessível), "Interoperable" (Interoperável) e "Reusable" (Reutilizável). Esses princípios foram desenvolvidos em 2016 por um grupo de especialistas, de diferentes áreas, com o objetivo de estabelecer diretrizes para tornar os dados científicos mais acessíveis e utilizáveis em diferentes contextos.
+Os princípios FAIR surgiram como uma resposta ao desafio de localizar, reutilizar e processar dados por máquinas em diversas áreas da ciência. "FAIR" é um acrônimo para "Findable" (Encontrável), "Accessible" (Acessível), "Interoperable" (Interoperável) e "Reusable" (Reutilizável).
 
-Ente
+Esses princípios foram desenvolvidos em 2016 por um grupo de especialistas, de diferentes áreas, com o objetivo de estabelecer diretrizes para tornar os dados científicos mais úteis em diferentes contextos.
 
+Em síntese, o conjunto de princípios FAIR foi proposto para permitir uma infraestrutura para a reutilização segura de dados. Nos parece que esse arcabouço pode ser adotado na aviação civil, especialmente para os dados de interesse da gestão da segurança, visando mitigar alguns dos problemas enfrentados e apresentados nesse ensaio.
 
+A aplicação dos princípios FAIR pode trazer benefícios para a gestão da segurança da aviação, que incluem:
 
+1) Encontrabilidade: tornar os dados de segurança da aviação facilmente encontráveis para facilitar uma análise abrangente e e a identificação de tendências e padrões que possam contribuir para o aprimoramento da segurança. Ao garantir que os dados estejam adequadamente descritos e indexados, pesquisadores e profissionais da aviação podem localizar e acessar informações relevantes com mais facilidade.
 
+2) Acessibilidade: a disponibilização de dados em formatos abertos e compreensíveis, sem restrições indevidas, permite que os envolvidos na gestão da segurança da aviação tenham acesso aos dados necessários para tomar decisões mais bem informadas.
 
-O objetivo é tornar os dados mais acessíveis, compartilháveis e reutilizáveis. Esses princípios têm sido amplamente adotados e endossados em diversos domínios da pesquisa, promovendo maior transparência, colaboração e avanço do conhecimento científico.
+3) Interoperabilidade: a aplicação dos princípios de interoperabilidade pode permitir a combinação de dados de diferentes fontes, como provedores de serviços de aviação, autoridades reguladoras e órgãos de investigação, para análises mais abrangentes e abordagens colaborativas. Dados estruturados e padronizados facilitam a integração e análise conjunta, auxiliando na identificação de problemas e na implementação de medidas preventivas.
 
+4) Reutilizabilidade: a reutilização de dados de segurança da aviação é importante para garantir a aprendizagem e aprimoramento contínuo dos processos de gestão de segurança. A disponibilização de dados com licenças claras e adequadas permite que outros pesquisadores e profissionais possam reutilizar os dados para validação de resultados, estudos comparativos e pesquisas adicionais.
 
+Portanto, aplicar os princípios FAIR aos dados de interesse da gestão da segurança da aviação civil pode promover maior transparência, colaboração e avanço na identificação de riscos e na implementação de medidas efetivas de segurança.
 
+Considerando que a necessidade de uso de dados para a gestão da segurança na aviação se assemelha ao ambiente de compartilhamento de dados científicos, quais boas práticas de aplicação dos princípios FAIR são pertinentes e podem ser aproveitadas? 
 
 1.6 - No princípio, os vocabulários
 
+Ao investigar os requisitos para tornar os dados FAIR, um dos pontos críticos é a disponibilidade de vocabulários que também atendam aos princípios FAIR. Os vocabulários FAIR são conjuntos de termos padronizados e bem definidos que permitem uma comunicação eficiente e consistente entre diferentes sistemas e fontes de dados.
+
+Ou seja: a disponibilidade de um conjunto de metadados que possa ser referenciado, seguindo as boas práticas de publicação, está na raiz da possibilidade de tornar dados interoperáveis e legíveis por máquinas. Eles são essenciais para garantir que os dados sejam compreensíveis e interpretados corretamente, independentemente do contexto em que serão usados.
 
 
 
 
 
-O aumento no volume de informações exige sistemas de busca mais sofisticados,
 
-podem ser organizadas e acessadas, como os usuários interagem com os sistemas, como melhorar a experiência do usuário.
+
+
 
 
 
