@@ -13,6 +13,7 @@ tags:
   - safety management systems
   - SMS
   - FAIR
+  - ADREP
 author: >-
     Gabriel Santiago Macedo^[Universidade Federal do Rio de
     Janeiro (UFRJ), Instituto Brasileiro de Informação em Ciência e
@@ -91,9 +92,11 @@ Tanto os provedores de serviços quanto as autoridades da aviação civil têm a
 
 Para possibilitar que os gestores de todas as organizações tomem decisões baseadas em riscos, é fundamental que essas entidades produzam, troquem e analisem dados de segurança para identificar os perigos presentes em seus respectivos sistemas. 
 
-Dessa forma, o uso de terminologia e definições comuns passou a ser observado como essencial para possibilitar agregar e analisar dados entre diferentes agentes. Esse entendimento é materializado nos Programas de Segurança do Estado (_Safety State Program_ - SSP), que representam um conjunto integrado de regulamentos e atividades destinadas a melhorar a segurança.
+Dessa forma, o uso de terminologia e definições comuns passou a ser observado como essencial para possibilitar agregar e analisar dados entre diferentes agentes. Esse entendimento é materializado nos Programas de Segurança do Estado (_Safety State Program_ - SSP), que representam um conjunto integrado de regulamentos e atividades destinadas a melhorar a segurança, e que, dentre outras obrigações, exige o estabelecimento de mecanismos para _coleta, análise e troca de dados de segurança_ com outros Estados e com provedores de serviços [@doc9859; @skySSP].
 
-Há um consenso entre as autoridades de aviação que o desenvolvimento de terminologias comuns pode facilitar a troca de informações para a gestão de riscos, sendo fundamental para identificar potenciais problemas e implementar medidas preventivas que salvaguardem a integridade de passageiros, tripulações e aeronaves, solidificando assim a segurança como um pilar da aviação civil moderna.
+Há um consenso entre as autoridades de aviação que o desenvolvimento de terminologias comuns pode facilitar a troca de informações para a gestão de riscos, sendo fundamental para identificar potenciais problemas e implementar medidas preventivas que garantam a integridade do transporte aéreo, solidificando assim a segurança como um pilar da aviação civil moderna.
+
+> Taxonomias e definições comuns estabelecem uma linguagem padrão da indústria, melhorando assim a qualidade da informação e da comunicação. Com essa linguagem comum, a capacidade da comunidade de aviação de se concentrar em questões de segurança é bastante aprimorada [@icaoadrep] (tradução livre).
 
 1.2 - A centralidade do problema de informação
 
@@ -121,13 +124,9 @@ De forma generalizada, podemos considerar que o fenômeno informacional, que com
 
 Em razão dessa complexidade e considerando que a gestão da segurança da aviação civil depende do acesso e compartilhamento adequado de informações, como a CI pode contribuir para lidar com essas necessidades informacionais cada vez mais ubíquas?
 
-Autores pioneiros na CI como Paul Otlet (1934) e Vannevar Bush (1945) já haviam se debruçado, respectivamente, sobre o fenômeno da organização do acesso à informação e da explosão informacional, com vistas a promover uma comunicação eficiente entre seres humanos e a necessidade crescente de interações mediadas por máquinas.
+Muito antes dessa difusão generalizada de informações, autores pioneiros na CI, como Paul Otlet [-@otlet1934] e Vannevar Bush [-@bush1945], já haviam se dedicado, respectivamente, ao estudo do fenômeno da organização do acesso à informação e à explosão informacional. Seus trabalhos vislumbravam formas de construir uma comunicação eficiente entre seres humanos, além de abordar a crescente necessidade de cuidar da informação mediada por máquinas. Eles foram visionários em idealizar estruturas e tecnologias pra facilitar o acesso e o compartilhamento de informações, contribuindo para a consolidação da CI como campo de estudo e pesquisa.
 
-Autores pioneiros na CI, como Paul Otlet (1934) e Vannevar Bush (1945), já haviam se dedicado, respectivamente, ao estudo do fenômeno da organização do acesso à informação e à explosão informacional. Seus trabalhos vislumbravam formas de construir uma comunicação eficiente entre seres humanos, além de abordar a crescente necessidade da informação mediada por máquinas. Eles foram visionários em idealizar estruturas e tecnologias que facilitassem o acesso e o compartilhamento de informações, contribuindo para a consolidação da CI como campo de estudo e pesquisa.
-
-
-
-É interessante notar que o vínculo entre a CI e a aviação é antigo. As experiências em torno do projeto Cranfield I e II e no desenvolvimento do sistema SMART, nos quais são propostos os conceitos de taxa de revocação (_recall ratio_) e de taxa de precisão (_precision ratio_), elaborados por Aitchison [-@aitchison1963], Cleverdon [-@cleverdon1967] e Salton [-@salton1965], já visavam identificar melhores abordagens para o problema de recuperar conteúdos, tendo como objeto a área de aviação e engenharia.
+É interessante resgatar que o vínculo entre a CI e a aviação é bastante antigo. As experiências em torno do projeto Cranfield I e II e no desenvolvimento do sistema SMART, nos quais são propostos os conceitos de taxa de revocação (_recall ratio_) e de taxa de precisão (_precision ratio_), elaborados por Aitchison [-@aitchison1963], Cleverdon [-@cleverdon1967] e Salton [-@salton1965], já visavam identificar melhores abordagens para o problema de recuperar conteúdos, tendo como objeto a área de aviação e engenharia.
 
 1.4 A necessária interdisciplinaridade do problema de informação
 
@@ -147,11 +146,11 @@ O desenvolvimento contínuo das tecnologias da informação e comunicação trou
 
 1.5 - A adoção dos princípios FAIR como resposta interdisciplinar
 
-Os princípios FAIR surgiram como uma resposta ao desafio de localizar, reutilizar e processar dados por máquinas em diversas áreas da ciência. "FAIR" é um acrônimo para "Findable" (Encontrável), "Accessible" (Acessível), "Interoperable" (Interoperável) e "Reusable" (Reutilizável).
+Os princípios FAIR surgiram como uma resposta ao desafio de localizar, reutilizar e processar dados por máquinas em diversas áreas da ciência. "FAIR" é um acrônimo para "Findable" (Encontrável), "Accessible" (Acessível), "Interoperable" (Interoperável) e "Reusable" (Reutilizável) [@wilkinson2016].
 
 Esses princípios foram desenvolvidos em 2016 por um grupo de especialistas, de diferentes áreas, com o objetivo de estabelecer diretrizes para tornar os dados científicos mais úteis em diferentes contextos.
 
-Em síntese, o conjunto de princípios FAIR foi proposto para permitir uma infraestrutura para a reutilização segura de dados. Nos parece que esse arcabouço pode ser adotado na aviação civil, especialmente para os dados de interesse da gestão da segurança, visando mitigar alguns dos problemas enfrentados e apresentados nesse ensaio.
+Em síntese, o conjunto de princípios FAIR foi proposto para permitir uma infraestrutura para a reutilização segura de dados [@henning2019]. Nos parece que esse arcabouço pode ser adotado na aviação civil, especialmente para os dados de interesse da gestão da segurança, visando mitigar alguns dos problemas enfrentados e apresentados nesse ensaio.
 
 A aplicação dos princípios FAIR pode trazer benefícios para a gestão da segurança da aviação, que incluem:
 
@@ -169,7 +168,7 @@ Considerando que a necessidade de uso de dados para a gestão da segurança na a
 
 1.6 - O uso de vocabulários FAIR
 
-Ao investigar os requisitos para tornar os dados FAIR, um dos pontos críticos é a disponibilidade de vocabulários que também atendam aos princípios FAIR. Os vocabulários FAIR são conjuntos de termos padronizados e bem definidos que permitem uma comunicação eficiente e consistente entre diferentes sistemas e fontes de dados.
+Ao investigar os requisitos para tornar os dados FAIR, um dos pontos críticos é a disponibilidade de vocabulários que também atendam aos princípios FAIR. Os vocabulários FAIR são conjuntos de termos padronizados e bem definidos que permitem uma comunicação eficiente e consistente entre diferentes sistemas e fontes de dados [@cox2021].
 
 Ou seja, a disponibilidade de um conjunto de metadados que possa ser vinculado aos dados e adequadamente referenciado, seguindo as boas práticas de publicação, está na raiz da possibilidade de tornar dados interoperáveis e legíveis por máquinas. Eles são essenciais para garantir que os dados sejam compreensíveis e interpretados corretamente, independentemente do contexto em que serão usados.
 
@@ -191,27 +190,27 @@ Ao estabelecer um vocabulário padronizado, os profissionais podem aprimorar a c
 
 Diversas iniciativas foram encampadas ao longo dos últimos anos na produção de terminologias comuns para o setor aéreo. Grupos de trabalho internacionais foram montados em torno de dados de metereológicos, dados de navegação, dados de infraestrutura e outros. 
 
-Um esforço foi empreendido para criar uma taxonomia comum, ou seja, um vocabulário controlado de tipo hierárquico, destinado a eventos de segurança no setor da aviação. Esse conjunto de documentos, amplamente conhecido como taxonomia ADREP (acrônimo para _Accident/Incident Data Reporting_), foi disponibilizado em formato PDF e engloba uma compilação abrangente de atributos e valores relacionados a eventos de segurança.
+Um esforço foi empreendido para criar uma taxonomia comum, ou seja, um vocabulário controlado de tipo hierárquico, destinado a eventos de segurança no setor da aviação. Esse conjunto de documentos, amplamente conhecido como taxonomia ADREP (acrônimo para _Accident/Incident Data Reporting_), foi disponibilizado em formato PDF e engloba uma compilação abrangente de atributos e valores relacionados a eventos de segurança [@icaoadrep].
 
 A última versão da taxonomia ADREP, datada do ano de 2013, divulgado pela Organização da Aviação Civil Internacional (OACI), ente das Nações Unidas esponsável pela promoção do desenvolvimento seguro e ordenado da aviação civil mundial, representa um importante avanço na padronização de informações relevantes em relação à segurança. Foram padronizadas informações sobre: categorias de aeronaves, operações, danos sofridos, fatores descritivos, fatores explicativos, eventos e outros. 
 
 Diferente de outras iniciativas do setor aéreo que já contam com um vocabulário publicado seguindo alguns princípios FAIR, a taxonomia ADREP é um conjunto de documentos em PDF, em formato tabular, não legível por máquina. Não diferindo muito de um dado que fosse disponibilizado em papel.
 
-É essa lacuna que esse trabalho de pesquisa pretende explorar. Por que tornar FAIR os dados de aviação? Quais os desafios e benefícios de disponibilizar dados de aviação seguindo os princípios FAIR? Como tornar FAIR um vocabulário controlado de gestão da segurança de aviação? 
+É essa lacuna que o nosso trabalho de pesquisa pretende explorar. Por que tornar FAIR os dados de aviação? Quais os desafios e benefícios de disponibilizar dados de aviação seguindo os princípios FAIR? Como tornar FAIR um vocabulário controlado de gestão da segurança de aviação? 
 
-2 - Considerações 
+2 - Considerações finais
 
 É comum encontrar documentos, orientações e dados técnicos relacionados à segurança da aviação em formatos não padronizados e não legíveis por máquinas. Isso resulta em uma integração ineficiente dessas informações, especialmente quando consideramos o estado atual do desenvolvimento de tecnologias voltadas para a interoperabilidade. 
 
 A falta de padronização e acessibilidade desses dados dificulta a sua integração em sistemas automatizados e a colaboração entre diferentes agentes da indústria. Em um cenário em que as tecnologias estão cada vez mais orientadas à interoperabilidade, a adoção de formatos mais adequados para divulgar informações de segurança da aviação é crucial para promover uma gestão mais eficiente e segura em toda a indústria.
 
-Diante desses indícios, percebe-se a pertinência de avaliar a aplicação e a utilidade dos princípios FAIR para os dados de interesse da gestão da segurança da aviação. Com isso, se buscará com a pesquisa responder: 
+Diante desses indícios, percebe-se a pertinência de avaliar a aplicação e a utilidade dos princípios FAIR para os dados de interesse da gestão da segurança da aviação. Com isso, se buscará com a pesquisa responder:
 
 1) Qual a importâncias da adoção dos princípios FAIR para dados de segurança de aviação?
 2) Como FAIRificar (derivado do termo usal em inglês _FAIRification_) um vocabulário controlado de aviação?
 
-O setor aéreo é um sistema complexo intensivo em informações. Descobrir lacunas de conhecimento relacionadas aos problemas específicos de informação dessa indústria nos parece uma atividade significativa e possível de ser realizada no PPGCI.
+O setor aéreo é um sistema complexo intensivo em informações. Descobrir lacunas de conhecimento relacionadas aos problemas específicos de informação dessa indústria nos parece uma atividade significativa e possível de ser realizada no PPGCI IBICT/UFRJ.
 
-Aprofundar o entendimento sobre os arranjos que envolvem o compartilhamento de informações possibilita uma avaliação crítica das limitações e das contribuições dos princípios FAIR, além de ampliar a capacidade de identificar áreas não exploradas, desafios sem soluções e suscitar perguntas que demandem investigações mais aprofundadas.
+Aprofundar o entendimento sobre os arranjos que envolvem o compartilhamento de informações possibilitará uma avaliação crítica das limitações e das contribuições dos princípios FAIR, além de ampliar a capacidade de identificar áreas não exploradas, desafios sem soluções e suscitar perguntas que demandem investigações mais aprofundadas.
 
 ## Referências
