@@ -77,7 +77,7 @@ Ao longo dos anos, a indústria da aviação tem se dedicado a aprimorar seus si
 
 Em termos gerais, a evolução da segurança da aviação ocorreu em fases cumulativas, onde a cada etapa subsequente, os estudos de segurança identificaram a necessidade de observar novos conjuntos de fatores para aprimorar os índices de segurança e reduzir acidentes. Ao longo do tempo, essas camadas sucessivas de melhorias foram implementadas para abordar novos desafios e garantir a contínua segurança das operações aéreas. 
 
-Em resumo, no período após a Segunda Guerra Mundial, com a expansão da aviação comercial, e até os anos 1970, o foco dos estudos de segurança estava principalmente relacionados aos _fatores técnicos_, buscando melhorias nos equipamentos para aumentar a segurança das operações. A partir dos anos 1970, surgiu a era dos _fatores humanos_, com maior atenção para os erros cometidos pelas pessoas na operação das aeronaves. Nos anos 1990, a ênfase passou a ser nos _fatores organizacionais_, considerando a gestão das organizações e seu impacto na operação segura. A partir dos anos 2000, iniciou-se a a chamada _era total_, com uma abordagem sistêmica e holística, buscando identificar fatores que possam ampliar a capacidade de desempenho de segurança do sistema de aviação como um todo.
+Em resumo, no período após a Segunda Guerra Mundial, com a expansão da aviação comercial, e até os anos 1970, o foco dos estudos de segurança estava principalmente relacionados aos _fatores técnicos_, buscando melhorias nos equipamentos para aumentar a segurança das operações. A partir dos anos 1970, surgiu a era dos _fatores humanos_, com maior atenção para os erros cometidos pelas pessoas na operação das aeronaves. Nos anos 1990, a ênfase passou a ser nos _fatores organizacionais_, considerando a gestão das organizações e seu impacto na operação segura. Por volta dos anos 2010, iniciou-se a a chamada _era do sistema total_, com uma abordagem sistêmica e holística, buscando identificar fatores que possam ampliar a capacidade de desempenho de segurança do sistema de aviação como um todo.
 
 A imagem a seguir, retirada do Doc 9859 (2018), ilustra essas etapas:
 
@@ -113,15 +113,19 @@ Existem diversas razões para esse problema:
 
 6) Dependência de trajetória tecnológica pelo meio de suporte da informação: a dependência de trajetória tecnológica baseada em sistemas criados para funcionar tendo o papel como meio de suporte e comunicação podem ser limitados em termos de eficiência, precisão e capacidade de coleta e análise de dados. Sistemas baseados em papel exigem processos manuais, o que pode ser lento e propenso a erros. Isso pode resultar em atrasos na comunicação de informações críticas. O armazenamento físico de dados em papel dificulta o compartilhamento rápido e abrangente de informações entre diferentes partes interessadas. Sistemas em papel tornam difícil lidar com grandes volumes de dados, dificultando a identificação de tendências e padrões.
 
-Superar esses desafios requer esforços contínuos para promover uma cultura de segurança aberta e transparente, incentivar a comunicação e cooperação entre os atores do setor, estabelecer padrões e sistemas integrados de coleta e análise de dados e garantir a confidencialidade necessária para proteger as partes envolvidas.
+Superar esses desafios requer esforços contínuos para promover uma cultura de segurança aberta e transparente, incentivar a comunicação e cooperação entre os agentes do setor, estabelecer padrões e sistemas integrados de coleta e análise de dados e garantir a confidencialidade necessária para proteger as partes envolvidas.
 
-1.3 - A Ciência da Informação e fenômeno informacional
+1.3 - A Ciência da Informação e o fenômeno informacional
 
-O fenômeno informacional, que abrange a criação, disseminação e uso da informação, tem se tornado cada vez mais complexo à medida que a quantidade de dados disponíveis aumenta exponencialmente com o avanço da internet e do uso de computadores.
+De forma generalizada, podemos considerar que o fenômeno informacional, que compreende a criação, disseminação e uso da informações, tem se tornado cada vez mais complexo à medida que a quantidade de dados disponíveis aumenta exponencialmente com o avanço da internet e do uso de computadores pela sociedade.
 
-Considerando que a gestão eficaz da segurança da aviação civil depende do acesso e compartilhamento adequado de informações para identificar riscos e implementar medidas preventivas de forma proativa, como a CI pode contribuir para elucidar essas questões?
+Em razão dessa complexidade e considerando que a gestão da segurança da aviação civil depende do acesso e compartilhamento adequado de informações, como a CI pode contribuir para lidar com essas necessidades informacionais cada vez mais ubíquas?
 
 Autores pioneiros na CI como Paul Otlet (1934) e Vannevar Bush (1945) já haviam se debruçado, respectivamente, sobre o fenômeno da organização do acesso à informação e da explosão informacional, com vistas a promover uma comunicação eficiente entre seres humanos e a necessidade crescente de interações mediadas por máquinas.
+
+Autores pioneiros na CI, como Paul Otlet (1934) e Vannevar Bush (1945), já haviam se dedicado, respectivamente, ao estudo do fenômeno da organização do acesso à informação e à explosão informacional. Seus trabalhos vislumbravam formas de construir uma comunicação eficiente entre seres humanos, além de abordar a crescente necessidade da informação mediada por máquinas. Eles foram visionários em idealizar estruturas e tecnologias que facilitassem o acesso e o compartilhamento de informações, contribuindo para a consolidação da CI como campo de estudo e pesquisa.
+
+
 
 É interessante notar que o vínculo entre a CI e a aviação é antigo. As experiências em torno do projeto Cranfield I e II e no desenvolvimento do sistema SMART, nos quais são propostos os conceitos de taxa de revocação (_recall ratio_) e de taxa de precisão (_precision ratio_), elaborados por Aitchison [-@aitchison1963], Cleverdon [-@cleverdon1967] e Salton [-@salton1965], já visavam identificar melhores abordagens para o problema de recuperar conteúdos, tendo como objeto a área de aviação e engenharia.
 
