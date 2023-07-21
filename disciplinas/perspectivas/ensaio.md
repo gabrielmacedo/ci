@@ -75,7 +75,7 @@ Tópicos:
 
 - A área de _Recuperação da Informação_ (RI) na CI tem se voltado ao entendimento de como o fenômeno informacional ocorre e como ele pode ser trabalhado para possibilitar a correta comunicação diretamente entre homens e homens e entre homens e homens mediados por máquinas.
 
-1.1 Evolução da segurança na aviação
+1.1 - Breve evolução da segurança na aviação
 
 A evolução da segurança da aviação civil tem sido um trabalho contínuo que envolve a identificação e avaliação minuciosa dos riscos envolvidos no setor aéreo. Ao longo dos anos, a indústria da aviação tem se dedicado a aprimorar seus sistemas e processos para garantir um ambiente cada vez mais seguro. Isso inclui a análise de incidentes passados, a investigação de acidentes, a coleta de dados relevantes e a implementação de recomendações de segurança.
 
@@ -87,7 +87,7 @@ Para possibilitar que os gestores de todas as organizações tomem decisões bas
 
 Há um consenso entre as autoridades de aviação que o desenvolvimento de terminologias comuns pode facilitar a troca de informações para a gestão de riscos, sendo fundamental para identificar potenciais problemas e implementar medidas preventivas que salvaguardem a integridade de passageiros, tripulações e aeronaves, solidificando assim a segurança como um pilar da aviação civil moderna.
 
-1.2 A centralidade do problema de informação
+1.2 - A centralidade do problema de informação
 
 Um dos problemas frequentes na gestão da segurança da aviação civil é o desafio de obter informações abrangentes e precisas sobre incidentes, riscos e tendências relacionados à segurança. 
 
@@ -107,17 +107,57 @@ Existem diversas razões para esse problema:
 
 Superar esses desafios requer esforços contínuos para promover uma cultura de segurança aberta e transparente, incentivar a comunicação e cooperação entre os atores do setor, estabelecer padrões e sistemas integrados de coleta e análise de dados e garantir a confidencialidade necessária para proteger as partes envolvidas.
 
-1.3 A Ciência da Informação e fenômeno informacional
+1.3 - A Ciência da Informação e fenômeno informacional
 
 O fenômeno informacional, que abrange a criação, disseminação e uso da informação, tem se tornado cada vez mais complexo à medida que a quantidade de dados disponíveis aumenta exponencialmente com o avanço da internet e do uso de computadores.
 
 Considerando que a gestão eficaz da segurança da aviação civil depende do acesso e compartilhamento adequado de informações para identificar riscos e implementar medidas preventivas de forma proativa, como a CI pode contribuir para elucidar essas questões?
 
-Autores pioneiros na CI como Paul Otlet e Vannevar Bush já haviam se debruçado sobre o fenômeno do explosão informacional com vistas a promover uma comunicação eficiente entre seres humanos e a necessidade crescente de interações mediadas por máquinas.
+Autores pioneiros na CI como Paul Otlet (1934) e Vannevar Bush (1945) já haviam se debruçado sobre o fenômeno do explosão informacional com vistas a promover uma comunicação eficiente entre seres humanos e a necessidade crescente de interações mediadas por máquinas.
 
-Em especial, a consolidação da área de Recuperação da Informação (RI) na CI tem sido objeto de intenso estudo e pesquisa em busca por métodos e técnicas que possibilitem a recuperação precisa e relevante de informações.
+É interessante notar que o vínculo entre a CI e a aviação é antigo. As experiências em torno do projeto Cranfield I e II e no desenvolvimento do sistema SMART, nos quais são propostos os conceitos de taxa de revocação (_recall ratio_) e de taxa de precisão (_precision ratio_), elaborados por Aitchison [-@aitchison1963], Cleverdon [-@cleverdon1967] e Salton [-@salton1965], já visavam identificar melhores abordagens para o problema de recuperar conteúdos, tendo como objeto a área de aviação e engenharia.
 
-A quantidade de informações disponíveis exige sistemas de busca mais sofisticados, como as informações podem ser organizadas e acessadas, como os usuários interagem com os sistemas, como melhorar a usabilidade e a experiência do usuário.
+1.4 A necessária interdisciplinaridade do problema de informação
+
+Quanto à caracterização de um problema de informação, salientamos a visão de interdisciplinaridade apresentada por Tefko Saracevic [-@saracevic1995], ao indicar que não devemos estudar propriamente assuntos na Ciência da Informação, mas sim problemas.
+
+A abordagem centrada em problemas atinge diferentes temas e disciplinas, não respeitando o estabelecimento de fronteiras rígidas. A área de RI, para o autor, é tomada como o espaço de consolidação maior dessa interdisciplinaridade.
+
+Assim, compreender o problema de informação na gestão da segurança da aviação civil requer, à área de RI, o entendimento sobre os avanços tecnológicos na comunicação e no processamento da linguagem. Tomamos aqui as indagações de Tefko Saracevic (1995) e buscaremos aplicá-las à aviação civil: quais métodos e técnicas que possibilitem a recuperação precisa e relevante de informações? Como se deu a organização intelectual da informação, a sua recuperação, interação e quais sistemas e técnicas foram usadas nesse processo?
+
+A evolução tecnológica tem transformado significativamente a maneira como as pessoas se comunicam e interagem com a linguagem, apresentando oportunidades e demandas para aprimorar as abordagens existentes e desenvolver soluções que atendam às necessidades da sociedade.
+
+A gestão da segurança da aviação é uma área complexa, na qual é necessário considerar o fenômeno informacional de forma abrangente e interdisciplinar. A coleta e análise de informações são elementos essenciais para garantir a segurança das operações aéreas, e a interdisciplinaridade desempenha um papel fundamental nesse processo. 
+
+Reunir conhecimentos e perspectivas de diversas áreas relacionadas à aviação, como engenharia aeronáutica, psicologia, ciência da informação, direito aeronáutico e outros, é uma ação importante para compreender as complexidades do sistema de aviação, identificar riscos potenciais e propor soluções.
+
+O desenvolvimento contínuo das tecnologias da informação e comunicação trouxe consigo uma transformação na maneira como as pessoas se comunicam e interagem com a linguagem. Essa evolução tecnológica exige uma compreensão aprofundada dos avanços emergentes e das alternativas disponíveis para a recuperação de informações.
+
+1.5 - A adoção dos princípios FAIR como resposta interdisciplinar ao problema informacional
+
+Os princípios FAIR surgiram como uma resposta ao desafio da fragmentação e falta de interoperabilidade de dados em diversas áreas da ciência. "FAIR" é um acrônimo para "Findable" (Encontrável), "Accessible" (Acessível), "Interoperable" (Interoperável) e "Reusable" (Reutilizável). Esses princípios foram desenvolvidos em 2016 por um grupo de especialistas, de diferentes áreas, com o objetivo de estabelecer diretrizes para tornar os dados científicos mais acessíveis e utilizáveis em diferentes contextos.
+
+Ente
+
+
+
+
+
+O objetivo é tornar os dados mais acessíveis, compartilháveis e reutilizáveis. Esses princípios têm sido amplamente adotados e endossados em diversos domínios da pesquisa, promovendo maior transparência, colaboração e avanço do conhecimento científico.
+
+
+
+
+1.6 - No princípio, os vocabulários
+
+
+
+
+
+
+O aumento no volume de informações exige sistemas de busca mais sofisticados,
+
+podem ser organizadas e acessadas, como os usuários interagem com os sistemas, como melhorar a experiência do usuário.
 
 
 
@@ -130,11 +170,10 @@ empenhada em entender o fenômeno informacional e desenvolver técnicas que poss
 
 
 
-Uma vez que os estudos sobre a interdisciplinaridade da Ciência da Informação lançam um olhar sobre as interseções de conteúdos de diferentes campos disciplinares na construção do conhecimento científico, este trabalho buscará, através de uma análise das tecnologias contemporâneas de Processamento de Linguagem Natural (PLN), identificar os marcos do seu desenvolvimento, a relação temporal que estabelecem e a presença desse variado esforço de diferentes ciências na compreensão dos problemas do seu objeto de estudo: a _informação_.
 
-O desenvolvimento recente de novas formas sociotécnicas de relacionamento com a linguagem, por meio de modelos pré-treinados de recuperação da informação, recoloca o desafio de compreender os avanços tecnológicos e as alternativas possíveis, aos pesquisadores da ciência da informação, nos sistemas de processamento da linguagem e de recuperação de informações.
+O desenvolvimento recente de novas formas sociotécnicas de relacionamento com a linguagem, recoloca o desafio de compreender os avanços tecnológicos e as alternativas possíveis, aos pesquisadores da ciência da informação, nos sistemas de processamento da linguagem e de recuperação de informações.
 
-Até recentemente, o processo de recuperação da informação era predominantemente conduzido por meio de um método controlado de indexação e busca por termos, mesmo com o apoio de sistemas computacionais. Contudo, avanços recentes na área têm introduzido abordagens que utilizam Grandes Modelos de Linguagem (GML) ou _Large Language Models (LLM)_, em inglês. Esses modelos se destacam pela capacidade de gerar conteúdo informacional diversificado, abrangendo textos, imagens e áudios, com base em um modelo computacional estatístico manipulando uma imensa disponibilidade de informações e interagindo por meio de linguagem natural com agentes humanos. É essa característica distintiva que vem sendo aplicada na recuperação de informações em sistemas conversacionais de interação homem-máquina.
+
 
 No caso mais destacado de sistema utilizando GML, como exemplo o ChatGPT em sua versão com o GPT-3.5, ocorreu uma integração de diversas tecnologias voltadas a melhorar os resultados das respostas. Ou seja, foi buscada a qualificação da recuperação de informações combinando tecnologias de aprendizado profundo (_deep learning_), aprendizado não supervisionado (_unsupervised learning_), ajuste fino de instrução (_instruction fine-tuning_), aprendizado multitarefa (_multi-task learning_), aprendizado em contexto (_in-context learning_) e aprendizado por reforço com feedback humano (_Reinforcement learning from Human Feedback - RLHF_) [@chatgpt2022; @wu2023].
 
