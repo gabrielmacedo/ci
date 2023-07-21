@@ -67,14 +67,13 @@ Tópicos:
 
 - O estudo das fragilidades do sistema de segurança de aviação permite agir em relação a problemas sistêmicos e à gestão de riscos, promovendo recomendações práticas aos agentes do setor aéreo. É a ação sistemática de investigar e aplicar recomendações que assegura a aprendizagem e auxilia na prevenção de futuras ocorrências.
 
-- Dentre as propostas de adoção e massificação do uso das tecnologias da web para o tratamento de dados, os princípios FAIR (acrônimo para _Findable, Accessible, Interoperable and Reusable_), conforme publicado por GO FAIR, reúnem boas práticas e recomendações para a localização, acessibilidade, interoperabilidade e reutilização de dados.
+- Dentre as propostas de adoção e massificação do uso das tecnologias da web para o tratamento de dados, os princípios FAIR (acrônimo para _Findable, Accessible, Interoperable and Reusable_) reúnem boas práticas e recomendações para a localização, acessibilidade, interoperabilidade e reutilização de dados.
 
 - O conjunto de princípios FAIR foi proposto para permitir uma infraestrutura para a reutilização de dados acadêmicos. Contudo, a experiência de utilização das tecnologias da web vai além do mundo acadêmico e nos leva a entender que esse arcabouço pode ser adotado em outros campos, como na aviação civil, especialmente para os dados de interesse da segurança da aviação.
 
-- Ao investigar os requisitos para tornar os dados FAIR, um dos pontos críticos é a disponibilidade de vocabulários que também estejam disponibilizados como dados FAIR. A presença de um conjunto de metadados que possa ser referenciado seguindo as boas práticas de publicaçaõ está na raiz da possibilidade de tornar dados interoperáveis.
+- Ao investigar os requisitos para tornar os dados FAIR, um dos pontos críticos é a disponibilidade de vocabulários que também atendam aos princípios FAIR. Ou seja, a disponibilidade de um conjunto de metadados que possa ser referenciado seguindo as boas práticas de publicação está na raiz da possibilidade de tornar dados interoperáveis e legíveis por máquinas.
 
 - A área de _Recuperação da Informação_ (RI) na CI tem se voltado ao entendimento de como o fenômeno informacional ocorre e como ele pode ser trabalhado para possibilitar a correta comunicação diretamente entre homens e homens e entre homens e homens mediados por máquinas.
-
 
 1.1 Evolução da segurança na aviação
 
