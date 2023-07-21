@@ -132,17 +132,13 @@ Muito antes dessa difusão generalizada de informações, autores pioneiros na C
 
 Quanto à caracterização de um problema de informação, salientamos a visão de interdisciplinaridade apresentada por Tefko Saracevic [-@saracevic1995], ao indicar que não devemos estudar propriamente assuntos na Ciência da Informação, mas sim problemas.
 
-A abordagem centrada em problemas atinge diferentes temas e disciplinas, não respeitando o estabelecimento de fronteiras rígidas. A área de RI, para o autor, é tomada como o espaço de consolidação maior dessa interdisciplinaridade.
+A abordagem centrada em problemas atinge diferentes temas e disciplinas, não respeitando o estabelecimento de fronteiras rígidas. A campo da Recuperação da Informação (RI), para o autor, é tomada como o espaço de consolidação maior dessa interdisciplinaridade da CI.
 
-Assim, compreender o problema de informação na gestão da segurança da aviação civil requer, à área de RI, o entendimento sobre os avanços tecnológicos na comunicação e no processamento da linguagem. Tomamos aqui as indagações de Tefko Saracevic (1995) e buscaremos aplicá-las à aviação civil: quais métodos e técnicas que possibilitem a recuperação precisa e relevante de informações? Como se deu a organização intelectual da informação, a sua recuperação, interação e quais sistemas e técnicas foram usadas nesse processo?
+Assim, compreender o problema de informação na gestão da segurança da aviação civil requer, ao nosso ver, o entendimento sobre os avanços tecnológicos na comunicação e no processamento da linguagem. Tomamos aqui as indagações de Tefko Saracevic (1995) e buscaremos aplicá-las à aviação civil: quais métodos e técnicas que possibilitem a recuperação precisa e relevante de informações? Como se deu a organização intelectual da informação ao longo do tempo, a sua recuperação, interação e quais sistemas e técnicas foram usadas nesse processo?
 
-A evolução tecnológica tem transformado significativamente a maneira como as pessoas se comunicam e interagem com a linguagem, apresentando oportunidades e demandas para aprimorar as abordagens existentes e desenvolver soluções que atendam às necessidades da sociedade.
+A evolução tecnológica tem transformado significativamente a maneira como as pessoas se comunicam, coletam e analisam dados. Novas demandas e oportunidades surgem para aprimorar as abordagens existentes e desenvolver soluções que atendam às necessidades da sociedade, exigindo uma compreensão aprofundada dos avanços e das alternativas disponíveis.
 
-A gestão da segurança da aviação é uma área complexa, na qual é necessário considerar o fenômeno informacional de forma abrangente e interdisciplinar. A coleta e análise de informações são elementos essenciais para garantir a segurança das operações aéreas, e a interdisciplinaridade desempenha um papel fundamental nesse processo. 
-
-Reunir conhecimentos e perspectivas de diversas áreas relacionadas à aviação, como engenharia aeronáutica, psicologia, ciência da informação, direito aeronáutico e outros, é uma ação importante para compreender as complexidades do sistema de aviação, identificar riscos potenciais e propor soluções.
-
-O desenvolvimento contínuo das tecnologias da informação e comunicação trouxe consigo uma transformação na maneira como as pessoas se comunicam e como interagem com a linguagem. Essa evolução tecnológica exige uma compreensão aprofundada dos avanços emergentes e das alternativas disponíveis para a recuperação de informações.
+A gestão da segurança da aviação é uma área complexa, na qual é necessário considerar o fenômeno informacional de forma abrangente e interdisciplinar. A coleta e análise de informações são elementos essenciais para garantir a segurança das operações aéreas, e a interdisciplinaridade desempenha um papel fundamental nesse processo. Reunir conhecimentos e perspectivas de diversas áreas relacionadas à aviação, como engenharia aeronáutica, psicologia, ciência da informação, direito aeronáutico e outros, é uma ação importante para compreender as complexidades do sistema de aviação, identificar riscos potenciais e propor soluções.
 
 1.5 - A adoção dos princípios FAIR como resposta interdisciplinar
 
