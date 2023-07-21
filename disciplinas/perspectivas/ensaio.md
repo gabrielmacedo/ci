@@ -59,7 +59,7 @@ draft: true
 
 # Ensaio - Há um problema de informação na gestão da segurança da aviação civil?
 
-Este ensaio parte de algumas inquietações enfrentadas durante os quase 10 anos de trabalho desse autor na agência reguladora de aviação civil no Brasil. A partir dessa experiência podemos suscitar algumas questões. Há um problema de informação na gestão da segurança da aviação civil? Quais seriam esses problemas? Como a Ciência da Informação (CI), campo interdisciplinar dedicado a compreender o fenômeno informacional, pode contribuir para a compreensão dessas questões?
+Este ensaio parte de algumas inquietações enfrentadas durante os quase 10 anos de trabalho desse autor na agência reguladora de aviação civil no Brasil. A partir dessa experiência podemos suscitar algumas questões. Há um problema de informação na gestão da segurança da aviação civil? Quais seriam esses problemas? Como a Ciência da Informação (CI), campo interdisciplinar dedicado a compreender o fenômeno informacional, pode contribuir para o entendimento dessas questões?
 
 Tópicos:
 
@@ -167,11 +167,29 @@ Algumas características sobre os vocabulários FAIR:
 
 4) Descoberta de dados: vocabulários FAIR também são importantes para tornar os dados encontráveis, pois facilitam a indexação e recuperação de informações por meio de sistemas de busca e catálogos. Isso é crucial para a localização eficiente de dados relevantes em meio a um grande volume de informações disponíveis.
 
+1.7 - Como estão disponibilizados os vocabulários para informações de segurança da aviação?
+
+Profissionais da aviação têm enfatizado a importância da compatibilização de termos e a criação de um vocabulário comum para marcar os dados relevantes à gestão da segurança no setor. Essa necessidade de padronização é crucial para garantir a eficácia e a precisão na coleta, análise e compartilhamento de informações relacionadas à segurança da aviação.
+
+Ao estabelecer um vocabulário padronizado, os profissionais podem aprimorar a comunicação e a compreensão dos dados, promovendo uma gestão mais abrangente e colaborativa dos aspectos de segurança na indústria aérea.
+
+Diversas iniciativas foram encampadas ao longo dos últimos anos na produção de terminologias comuns. 
 
 
-1.7 - Conclusão
+É importante destacar que, embora a indústria de aviação seja intensiva no uso de ciência e tecnologia, certos 
 
-Diante desses indícios de aplicação e utilidade dos princípios FAIR para os dados de interesse da gestão da segurança da aviação,  
+
+2 - Conclusão
+
+É comum a divulgação de documentos, orientações e dados técnicos relacionados à segurança da aviação em formatos não padronizados e não legíveis por máquinas, tornando a integração dessas informações ineficiente em contraste ao estado atual do desenvolvimento de tecnologias pensadas para a interoperabilidade.
+
+Diante desses indícios, percebe-se a pertinência da aplicação e da utilidade dos princípios FAIR para os dados de interesse da gestão da segurança da aviação.
+
+Identificar corretamente, dentro dos limites pessoais e institucionais, nos quais um trabalho de mestrado pode contribuir para o avanço da ciência na resolução de problemas de informação do setor aéreo é uma etapa crucial para o sucesso da pesquisa. O setor aéreo é uma área altamente complexa, onde a segurança, a eficiência e a gestão de informações são elementos essenciais para garantir o bom funcionamento das operações.
+
+Descobrir as lacunas de conhecimento relacionadas aos problemas específicos de informação dentro do setor aéreo é um ponto de partida essencial para encaminhar a pesquisa.
+
+
 
 O desenvolvimento recente de novas formas sociotécnicas de relacionamento com a linguagem, recoloca o desafio de compreender os avanços tecnológicos e as alternativas possíveis, aos pesquisadores da ciência da informação, nos sistemas de processamento da linguagem e de recuperação de informações.
 
