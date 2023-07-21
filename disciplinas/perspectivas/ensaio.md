@@ -33,7 +33,7 @@ author: >-
 #      Brasileiro de Informação em Ciência e Tecnologia (IBICT), 
 #      Programa de Pós-Gradução em Ciência da Informação (PPGCI)
 #    index: 1
-date: 20/07/2023
+date: 21/07/2023
 abstract: >-
     Ensaio da disciplina "Perspectivas em Ciência da 
     Informação", Docente - Gustavo Henrique de Araújo Freire.
