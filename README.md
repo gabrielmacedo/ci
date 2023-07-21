@@ -9,7 +9,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - [Cronografia da Ciência da Informação](/disciplinas/cronografia-da-ciencia-da-informacao.md)
 - Metodologia
 - Gestão da informação para produção do conhecimento
-- Perspectivas em Ciéncia da Informação
+- Perspectivas em Ciência da Informação
 
 ## Ferramentas
 
