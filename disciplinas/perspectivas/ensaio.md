@@ -79,13 +79,13 @@ Tópicos:
 
 A evolução da segurança da aviação civil tem sido um trabalho contínuo que envolve a identificação e avaliação minuciosa dos riscos envolvidos no setor aéreo. Ao longo dos anos, a indústria da aviação tem se dedicado a aprimorar seus sistemas e processos para garantir um ambiente cada vez mais seguro. Isso inclui a análise de incidentes passados, a investigação de acidentes, a coleta de dados relevantes e a implementação de recomendações de segurança.
 
-Além disso, os provedores de serviços e as autoridades da aviação civil devem colaboram para estabelecer padrões e procedimentos comuns, bem como para promover uma cultura de segurança abrangente.
+Além disso, os provedores de serviços e as autoridades da aviação civil devem colaborar para estabelecer padrões e procedimentos comuns, bem como para promover uma cultura de segurança abrangente.
 
 Tanto os provedores de serviços quanto as autoridades da aviação civil têm a responsabilidade de gerenciar os riscos, embora os tipos e abrangência dos perigos possam variar. Por exemplo, enquanto um provedor de serviços pode identificar riscos específicos relacionados à sua organização individual, uma autoridade de aviação civil pode identificar tendências emergentes em todo o sistema de aviação, com base em dados agregados de vários provedores de serviços.
 
 Para possibilitar que os gestores de todas as organizações tomem decisões baseadas em riscos, é fundamental que essas entidades possuam e analisem dados de segurança para identificar os perigos presentes em seus respectivos sistemas. Dessa forma, o uso de terminologia e definições comuns torna-se essencial para agregar e comparar dados de maneira eficiente.
 
-A gestão de riscos é fundamental para identificar potenciais problemas e implementar medidas preventivas que salvaguardem a integridade de passageiros, tripulações e aeronaves, solidificando assim a segurança como um pilar da aviação civil moderna.
+Há um consenso entre as autoridades de aviação que o desenvolvimento de terminologias comuns pode facilitar a troca de informações para a gestão de riscos, sendo fundamental para identificar potenciais problemas e implementar medidas preventivas que salvaguardem a integridade de passageiros, tripulações e aeronaves, solidificando assim a segurança como um pilar da aviação civil moderna.
 
 1.2 A centralidade do problema de informação
 
@@ -101,13 +101,34 @@ Existem diversas razões para esse problema:
 
 4) Dificuldades na análise de dados: os sistemas de gestão da segurança da aviação civil podem não ter capacidade para acompanhar a quantidade crescente de dados disponíveis. A falta de recursos adequados ou tecnologias eficientes para analisar esses dados pode tornar difícil a identificação de padrões e tendências relevantes para mitigação de ocorrências.
 
-5) Cooperação e compartilhamento limitados: algumas organizações podem hesitar em compartilhar informações de segurança com outras partes interessadas, como concorrentes ou reguladores, devido a segredos comerciais ou ou preocupações com a confidencialidade dos dados.
+5) Cooperação e compartilhamento limitados: algumas organizações podem hesitar em compartilhar informações de segurança com outras partes interessadas, como concorrentes ou reguladores, devido a segredos comerciais ou preocupações com a confidencialidade dos dados.
 
 6) Dependência de trajetória tecnológica pelo meio de suporte da informação: a dependência de trajetória tecnológica baseada em sistemas criados para funcionar tendo o papel como meio de suporte e comunicação podem ser limitados em termos de eficiência, precisão e capacidade de coleta e análise de dados. Sistemas baseados em papel exigem processos manuais, o que pode ser lento e propenso a erros. Isso pode resultar em atrasos na comunicação de informações críticas. O armazenamento físico de dados em papel dificulta o compartilhamento rápido e abrangente de informações entre diferentes partes interessadas. Sistemas em papel tornam difícil lidar com grandes volumes de dados, dificultando a identificação de tendências e padrões.
 
 Superar esses desafios requer esforços contínuos para promover uma cultura de segurança aberta e transparente, incentivar a comunicação e cooperação entre os atores do setor, estabelecer padrões e sistemas integrados de coleta e análise de dados e garantir a confidencialidade necessária para proteger as partes envolvidas.
 
-A gestão eficaz da segurança da aviação civil depende do acesso e compartilhamento adequado de informações para identificar riscos e implementar medidas preventivas de forma proativa.
+1.3 A Ciência da Informação e fenômeno informacional
+
+O fenômeno informacional, que abrange a criação, disseminação e uso da informação, tem se tornado cada vez mais complexo à medida que a quantidade de dados disponíveis aumenta exponencialmente com o avanço da internet e do uso de computadores.
+
+Considerando que a gestão eficaz da segurança da aviação civil depende do acesso e compartilhamento adequado de informações para identificar riscos e implementar medidas preventivas de forma proativa, como a CI pode contribuir para elucidar essas questões?
+
+Autores pioneiros na CI como Paul Otlet e Vannevar Bush já haviam se debruçado sobre o fenômeno do explosão informacional com vistas a promover uma comunicação eficiente entre seres humanos e a necessidade crescente de interações mediadas por máquinas.
+
+Em especial, a consolidação da área de Recuperação da Informação (RI) na CI tem sido objeto de intenso estudo e pesquisa em busca por métodos e técnicas que possibilitem a recuperação precisa e relevante de informações.
+
+A quantidade de informações disponíveis exige sistemas de busca mais sofisticados, como as informações podem ser organizadas e acessadas, como os usuários interagem com os sistemas, como melhorar a usabilidade e a experiência do usuário.
+
+
+
+dependência de dispositivos tecnológicos e sistemas computacionais na vida cotidiana tem aumentado a necessidade de uma recuperação de informações
+
+empenhada em entender o fenômeno informacional e desenvolver técnicas que possibilitem uma comunicação mais eficiente e direta entre seres humanos e máquinas.
+
+
+
+
+
 
 Uma vez que os estudos sobre a interdisciplinaridade da Ciência da Informação lançam um olhar sobre as interseções de conteúdos de diferentes campos disciplinares na construção do conhecimento científico, este trabalho buscará, através de uma análise das tecnologias contemporâneas de Processamento de Linguagem Natural (PLN), identificar os marcos do seu desenvolvimento, a relação temporal que estabelecem e a presença desse variado esforço de diferentes ciências na compreensão dos problemas do seu objeto de estudo: a _informação_.
 
