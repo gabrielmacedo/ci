@@ -61,21 +61,37 @@ draft: true
 
 1 - Motivações
 
-Este ensaio parte de algumas inquietações enfrentadas durante os quase 10 anos de trabalho desse autor na agência reguladora de aviação civil no Brasil. A partir dessa experiência podemos suscitar algumas questões. 
+Este ensaio parte de algumas inquietações enfrentadas durante os quase 10 anos de trabalho desse autor na Agência Nacional de Aviação Civil (ANAC). A partir dessa experiência podemos suscitar algumas questões. 
 
 Há um problema de informação na gestão da segurança da aviação civil? Quais seriam esses problemas? Como a Ciência da Informação (CI), campo interdisciplinar dedicado a compreender o fenômeno informacional, pode contribuir para o entendimento dessas questões?
 
-O objetivo desse ensaio é construir uma linha inicial de argumentação que seja útil para delinear a introdução da dissertação do mestrado em CI no PPGCI, IBICT/UFRJ. Desse modo, serão observados os fatores antecedentes que lançam o tema central da pesquisa: a FAIRificação de vocabulários de aviação.
+O objetivo desse ensaio é construir uma linha inicial de argumentação que seja útil para delinear o entendimento do projeto de pesquisa acadêmico e a introdução da dissertação do mestrado em CI no PPGCI, IBICT/UFRJ. 
+
+Desse modo, serão observados os fatores antecedentes que lançam o tema central da pesquisa: a FAIRificação de vocabulários de aviação.
 
 1.1 - Breve evolução da segurança na aviação
 
-A evolução da segurança da aviação civil tem sido um trabalho contínuo que envolve a identificação e avaliação minuciosa dos riscos envolvidos no setor aéreo. Ao longo dos anos, a indústria da aviação tem se dedicado a aprimorar seus sistemas e processos para garantir um ambiente cada vez mais seguro. Isso inclui a análise de incidentes passados, a investigação de acidentes, a coleta de dados relevantes e a implementação de recomendações de segurança.
+A evolução da segurança da aviação civil tem sido um trabalho contínuo que envolve a identificação e avaliação minuciosa dos riscos envolvidos no setor aéreo. 
 
-Além disso, os provedores de serviços e as autoridades da aviação civil devem colaborar para estabelecer padrões e procedimentos comuns, bem como para promover uma cultura de segurança abrangente.
+Ao longo dos anos, a indústria da aviação tem se dedicado a aprimorar seus sistemas e processos para garantir um ambiente cada vez mais seguro. Isso inclui a análise de incidentes passados, a investigação de acidentes, a coleta de dados relevantes e a implementação de recomendações de segurança [@skySO].
+
+Em termos gerais, a evolução da segurança da aviação ocorreu em fases cumulativas, onde a cada etapa subsequente, os estudos de segurança identificaram a necessidade de observar novos conjuntos de fatores para aprimorar os índices de segurança e reduzir acidentes. Ao longo do tempo, essas camadas sucessivas de melhorias foram implementadas para abordar novos desafios e garantir a contínua segurança das operações aéreas. 
+
+Em resumo, no período após a Segunda Guerra Mundial, com a expansão da aviação comercial, e até os anos 1970, o foco dos estudos de segurança estava principalmente relacionados aos _fatores técnicos_, buscando melhorias nos equipamentos para aumentar a segurança das operações. A partir dos anos 1970, surgiu a era dos _fatores humanos_, com maior atenção para os erros cometidos pelas pessoas na operação das aeronaves. Nos anos 1990, a ênfase passou a ser nos _fatores organizacionais_, considerando a gestão das organizações e seu impacto na operação segura. A partir dos anos 2000, iniciou-se a a chamada _era total_, com uma abordagem sistêmica e holística, buscando identificar fatores que possam ampliar a capacidade de desempenho de segurança do sistema de aviação como um todo.
+
+A imagem a seguir, retirada do Doc 9859 (2018), ilustra essas etapas:
+
+![A evolução da segurança da aviação [@doc9859, p. 26] (tradução livre).](https://github.com/gabrielmacedo/ci/assets/20596966/b4edf8b3-0a44-4651-9e51-d03433f21607)
+
+Essa evolução demandou, cada vez mais, que os provedores de serviços e as autoridades da aviação civil colaborassem para estabelecer padrões e procedimentos comuns, bem como para promover uma cultura de segurança abrangente, envolvendo toda a cadeia afetada [@doc9866]. Quanto maior o número de fatores que passaram a ser observados, maior a necessidade de cruzar essas informações.
+
+Nessa perspectiva, o ANEXO 19 da Organização da Aviação Civil Internacional (OACI), que orienta sobre o Gerenciamento da Segurança Operacional na aviação civil, indica obrigações e responsabilidades aos Estados nacionais e aos agentes envolvidos nas operações aéreas.
 
 Tanto os provedores de serviços quanto as autoridades da aviação civil têm a responsabilidade de gerenciar os riscos, embora os tipos e abrangência dos perigos possam variar. Por exemplo, enquanto um provedor de serviços pode identificar riscos específicos relacionados à sua organização individual, uma autoridade de aviação civil pode identificar tendências emergentes em todo o sistema de aviação, com base em dados agregados de vários provedores de serviços.
 
-Para possibilitar que os gestores de todas as organizações tomem decisões baseadas em riscos, é fundamental que essas entidades possuam e analisem dados de segurança para identificar os perigos presentes em seus respectivos sistemas. Dessa forma, o uso de terminologia e definições comuns torna-se essencial para agregar e comparar dados de maneira eficiente.
+Para possibilitar que os gestores de todas as organizações tomem decisões baseadas em riscos, é fundamental que essas entidades produzam, troquem e analisem dados de segurança para identificar os perigos presentes em seus respectivos sistemas. 
+
+Dessa forma, o uso de terminologia e definições comuns passou a ser observado como essencial para possibilitar agregar e analisar dados entre diferentes agentes. Esse entendimento é materializado nos Programas de Segurança do Estado (_Safety State Program_ - SSP), que representam um conjunto integrado de regulamentos e atividades destinadas a melhorar a segurança.
 
 Há um consenso entre as autoridades de aviação que o desenvolvimento de terminologias comuns pode facilitar a troca de informações para a gestão de riscos, sendo fundamental para identificar potenciais problemas e implementar medidas preventivas que salvaguardem a integridade de passageiros, tripulações e aeronaves, solidificando assim a segurança como um pilar da aviação civil moderna.
 
