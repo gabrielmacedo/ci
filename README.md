@@ -50,6 +50,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 - [Manubot](https://greenelab.github.io/meta-review/) - Manuscrito descrevendo a escrita colaborativa aberta com Manubot
 - [USC Guides](https://libguides-usc-edu.translate.goog/writingguide) - Guias e roteiros de escrita para a produção de trabalhos acadêmicos
+- [QUARTO](https://quarto.org/) - Bem vindo a Quarto® Um sistema de publicação científica e técnica de código aberto Crie usando notebooks Jupyter ou com marcação de texto simples em seu editor favorito. Crie conteúdo dinâmico com Python , R , Julia e Observable . Publique artigos, apresentações, sites, blogs e livros reproduzíveis e com qualidade de produção em HTML, PDF, MS Word, ePub e muito mais. Compartilhe conhecimento e insights em toda a organização publicando no Posit Connect , Confluence ou outros sistemas de publicação. Escreva usando a marcação Pandoc , incluindo equações, citações, referências cruzadas, painéis de figuras, textos explicativos, layout avançado e muito mais.
 
 ### Metabuscadores
 
@@ -89,6 +90,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 ### Pesquisa reprodutível
 
 - [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
+- [QUARTO](https://quarto.org/) - Bem vindo a Quarto® Um sistema de publicação científica e técnica de código aberto Crie usando notebooks Jupyter ou com marcação de texto simples em seu editor favorito. Crie conteúdo dinâmico com Python , R , Julia e Observable . Publique artigos, apresentações, sites, blogs e livros reproduzíveis e com qualidade de produção em HTML, PDF, MS Word, ePub e muito mais. Compartilhe conhecimento e insights em toda a organização publicando no Posit Connect , Confluence ou outros sistemas de publicação. Escreva usando a marcação Pandoc , incluindo equações, citações, referências cruzadas, painéis de figuras, textos explicativos, layout avançado e muito mais.
 
 ### Políticas de editoriais e de publicação
 
