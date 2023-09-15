@@ -98,7 +98,11 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 ### Programação para humanidades
 
-[Python Intermediário para Humanistas](http://intermediate-python.pythonhumanities.com/intro.html)
+- [Python Intermediário para Humanistas](http://intermediate-python.pythonhumanities.com/intro.html)
+
+#### Reconhecimento de entidades nomeadas
+
+- [Jupyter Colab - NER usando spaCy](https://colab.research.google.com/github/DerwenAI/spaCy_tuTorial/blob/master/spaCy_tuTorial.ipynb#scrollTo=P1QL8o9BBFyv) - referências para montar um knowledge graph com entidades nomeadas.
 
 ### Repositórios
 
