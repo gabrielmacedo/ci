@@ -104,6 +104,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 - [Jupyter Colab - NER usando spaCy](https://colab.research.google.com/github/DerwenAI/spaCy_tuTorial/blob/master/spaCy_tuTorial.ipynb#scrollTo=P1QL8o9BBFyv) - referências para montar um knowledge graph com entidades nomeadas.
 - [spaCy - Projetos e Tutoriais](https://spacy.io/usage/projects)
+- [Textacy](https://textacy.readthedocs.io/en/latest/) - biblioteca Python para executar uma variedade de tarefas de processamento de linguagem natural (PNL), construída na biblioteca spaCy de alto desempenho. Com os fundamentos – tokenização, marcação de classe gramatical, análise de dependência, etc. – delegados a outra biblioteca, o foco do textacy é principalmente nas tarefas que vêm antes e depois.
 
 ### Repositórios
 
