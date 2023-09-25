@@ -54,6 +54,8 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 
 ### Metabuscadores
 
+- [List of academic databases and search engines (Wikipedia)](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
+
 **Baseados em termos/texto de busca**:
 
 - [Dimensions](https://www.dimensions.ai) - aberta
