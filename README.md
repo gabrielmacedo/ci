@@ -27,6 +27,7 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - VosViewer
 - Bibliometrix - desenvolvido para linguagem R
 - CiteSpace
+- [Voyant Tools](https://voyant-tools.org/)
 
 ### Citações
 
