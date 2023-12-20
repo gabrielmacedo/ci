@@ -133,3 +133,8 @@ Repositório com conteúdos durante o estudo de mestrado no IBICT/UFRJ (início 
 - [YAKE](http://yake.inesctec.ptl) - sistema de indexação automática por extração que funciona em documentos de vários idiomas
 
 ## Bibliografia 
+
+### Perfil de pesquisadores
+- ORCID
+- Ferramentas do ORCID:
+-   1) [Conversor online de XML do Currículo Lattes em formato Bibtex para importação no ORCID](https://tiagomurakami.bib.br/lattestobibtex)
